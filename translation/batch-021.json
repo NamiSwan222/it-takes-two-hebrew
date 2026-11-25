@@ -1,0 +1,457 @@
+{
+ "Nuts": {
+  "VO_DB_Clockwork_Outside_HorseDerby_Approach_May": {
+   "VL_0": "נראה כמו מרוץ סוסים! קודי, בוא לראות!"
+  },
+  "VO_DB_Clockwork_Outside_HorseDerby_CodyWins": {
+   "VL_0": "היי, איפה סרט הניצחון שלי?! נו באמת!",
+   "VL_1": "קודי, זה לא מרוץ רשמי."
+  },
+  "VO_DB_Clockwork_Outside_HorseDerby_MayWins": {
+   "VL_0": "המרוץ הכי טוב אי פעם!",
+   "VL_1": "המרוץ הכי גרוע אי פעם."
+  },
+  "VO_DB_Clockwork_Outside_HorseDerby_Start": {
+   "VL_0": "המרוץ הזה שלי.",
+   "VL_1": "לא מול הסוס המנצח שלי.",
+   "VL_2": "פפף! נשאיר אותך מאחור באבק!"
+  },
+  "VO_DB_Clockwork_Outside_HorseDerby_Taunt_Cody": {
+   "VL_0": "אוהו, המרוץ התחיל!",
+   "VL_1": "קדימה, בחור!",
+   "VL_2": "תמשיך ככה, חבוב!"
+  },
+  "VO_DB_Clockwork_Outside_HorseDerby_Taunt_May": {
+   "VL_0": "יאללה, מותק!",
+   "VL_1": "אנחנו בוערים!",
+   "VL_2": "היאה!"
+  },
+  "VO_DB_Clockwork_Outside_IntroPuzzleOwl_May": {
+   "VL_1": "אוי! קודי, תסתכל על זה שבאמצע!"
+  },
+  "VO_DB_Clockwork_Outside_LeftTowerCodySuccess_Cody": {
+   "VL_0": "הנה! קלי קלות!"
+  },
+  "VO_DB_Clockwork_Outside_LeftTowerMaySuccess_May": {
+   "VL_0": "כמו טיול בפארק!"
+  },
+  "VO_DB_Clockwork_Outside_MiniGameSpottedBirds_Cody": {
+   "VL_0": "הממ, מעניין מה הסיפור של המגדל הזה..."
+  },
+  "VO_DB_Clockwork_Outside_MiniGameSpottedBirds_May": {
+   "VL_0": "מה זה המגדל ההוא שם?"
+  },
+  "VO_DB_Clockwork_Outside_OwlSwing_Cody_010": {
+   "Line_1": "אהה, איזה נחמד--",
+   "Line_2": "אוווו...",
+   "Line_3": "שיט."
+  },
+  "VO_DB_Clockwork_Outside_OwlSwing_May_010": {
+   "Line_1": "אוי, הינשוף הזה נראה כל כך...",
+   "Line_2": "מרוסק."
+  },
+  "VO_DB_Clockwork_Outside_PaddleBoat_Interact_Cody": {
+   "VL_0": "אוו... לאן זה מוביל?"
+  },
+  "VO_DB_Clockwork_Outside_PaddleBoat_Interact_May": {
+   "VL_0": "אוי, סירת פדלים! בוא נראה לאן נגיע."
+  },
+  "VO_DB_Clockwork_Outside_PigCartFactory": {
+   "VL_1": "מה? לוקחים אותם לשחיטה? זה לא מוצא חן בעיניי!"
+  },
+  "VO_DB_Clockwork_Outside_PigCartFull": {
+   "VL_1": "אה, אני בטוח שיהיה להם בסדר."
+  },
+  "VO_DB_Clockwork_Outside_PigCartFull_May_010": {
+   "Line_1": "לא מוצא חן בעיניי איך שזה נראה...",
+   "Line_2": "לאן לוקחים אותם?"
+  },
+  "VO_DB_Clockwork_Outside_PigComplete_Cody": {
+   "VL_0": "הנה. קדימה, לך!"
+  },
+  "VO_DB_Clockwork_Outside_PigComplete_May": {
+   "VL_0": "לאן הם הולכים?"
+  },
+  "VO_DB_Clockwork_Outside_PigFeed_Cody": {
+   "VL_0": "הנה לך, קטנצ'יק!"
+  },
+  "VO_DB_Clockwork_Outside_PigFeed_May": {
+   "VL_0": "ארוחת צהריים!"
+  },
+  "VO_DB_Clockwork_Outside_PigPickUp_Cody": {
+   "VL_0": "היי, חזרזיר!"
+  },
+  "VO_DB_Clockwork_Outside_PigPickUp_May": {
+   "VL_0": "אוי, החזיר הזה כל כך חמוד!"
+  },
+  "VO_DB_Clockwork_Outside_PigPickUpNest_May": {
+   "VL_0": "אוי, שלום קטנטן, איך הגעת לכאן?"
+  },
+  "VO_DB_Clockwork_Outside_RightTowerUnited": {
+   "VL_0": "אוי, איזו הפתעה לפגוש אותך שוב!",
+   "VL_1": "טוב, חשבתי לפנות לך קצת זמן."
+  },
+  "VO_DB_Clockwork_Outside_RoofTops_Cody": {
+   "VL_0": "יו-הו, מיי! תסתכלי עליי!"
+  },
+  "VO_DB_Clockwork_Outside_RoofTops_May_010": {
+   "Line_1": "היי קודי!",
+   "Line_2": "אני רואה הכול מכאן!",
+   "Line_3": "זה יפהפה!"
+  },
+  "VO_DB_Clockwork_Outside_SideTowerBirds_Cody": {
+   "VL_0": "תראי את המגדל ההוא! אולי נוכל לנחות עליו!"
+  },
+  "VO_DB_Clockwork_Outside_SideTowerBirds_May": {
+   "VL_0": "היי, נראה לי שאני רואה מקום נחיתה על המגדל ההוא!"
+  },
+  "VO_DB_Clockwork_Outside_TeleportTutorial_Cody": {
+   "VL_0": "מיי, תשתמשי בשיבוט שלך!"
+  },
+  "VO_DB_Clockwork_Outside_TeleportTutorial_Cody_020": {
+   "Line_1": "נראה שאת ממשיכה לזוז",
+   "Line_2": "כשאת עושה טלפורט באוויר!"
+  },
+  "VO_DB_Clockwork_Outside_TimeBubbleDestroyed_Cody": {
+   "VL_0": "תראי, הבועה המוזרה ההיא נעלמה!"
+  },
+  "VO_DB_Clockwork_Outside_TimePuzzleHint_Cody_010": {
+   "Line_1": "מיי, אולי תגיעי לדלת",
+   "Line_2": "לפני שהיא נסגרת, עם השיבוט שלך!"
+  },
+  "VO_DB_Clockwork_Outside_TowersDestroyed_May": {
+   "VL_0": "וו-הו! זאת עוצמת אש רצינית!"
+  },
+  "VO_DB_Clockwork_Outside_VelocityPuzzleHint_Cody": {
+   "VL_0": "מיי, תזכרי שאת שומרת על המהירות כשאת עושה טלפורט!"
+  },
+  "VO_DB_Clockwork_Outside_WoodenDollsComplete_Cody_010": {
+   "Line_1": "יופי!",
+   "Line_2": "עכשיו...",
+   "Line_3": "רק צריך...",
+   "Line_4": "לפתוח את השער הזה.",
+   "Line_5": "אמור להיות קלי קלות."
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_BombsHint_Cody": {
+   "VL_0": "תשברי את כל השעונים! זה הכרטיס שלנו החוצה!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_BombsHint_May_010": {
+   "Line_1": "נראה לי שנתקענו בלולאה!",
+   "Line_2": "אוי, איך עוצרים את זה?!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_BombsStart": {
+   "VL_0": "זהירות מלמעלה!",
+   "VL_1": "אוי שיט, פצצות!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_FinalExplosion": {
+   "VL_0": "קודי?! אתה בסדר? זה אתה עושה את זה?",
+   "VL_2": "טוב, אני מתקדמת ללב של השעון!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_FinalExplosion_Cody_020": {
+   "Line_1": "כן! טוב, אני מנסה כמה שאני יכול, אני...",
+   "Line_2": "פשוט לא יודע כמה זמן אצליח להחזיק את זה!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_FinalExplosionEnd_Cody": {
+   "VL_0": "קח את זה, שעון!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_FinalExplosionHalfway": {
+   "VL_0": "מהר, מיי! זה נהיה קשה!",
+   "VL_1": "אתה מצוין, קודי! אני כמעט שם!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_FreeFall": {
+   "VL_0": "וואאאו! מה לעזאזל, מיי!? מה עושים עכשיו?",
+   "VL_1": "אהה, אולי זאת הדרך שלנו החוצה!",
+   "VL_2": "את מתכוונת, למוות מהיר! אהה!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_FreeFallHalfway": {
+   "VL_0": "אני עדיין לא רואה את הדרך החוצה, מיי!",
+   "VL_1": "אני חושבת, אני חושבת!",
+   "VL_2": "אז תחשבי מהר יותר, בבקשה!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_PendulumGeneric_Cody": {
+   "VL_0": "וואו!",
+   "VL_1": "ווהו!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_PendulumGeneric_May": {
+   "VL_0": "אה!",
+   "VL_1": "ווהו!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_PendulumHalfway": {
+   "VL_0": "זה מגדל שעון האבדון!",
+   "VL_1": "חייבים להחזיק חזק!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_SprintPhase": {
+   "VL_0": "המגדל מתפרק! רוווווצו!",
+   "VL_1": "אלוהים! איזה פיצוץ ענק!"
+  },
+  "VO_DB_Clockwork_UpperTower_ClockBoss_Start_Cody": {
+   "VL_0": "מה עשינו?! אה! זהירות!!"
+  },
+  "VO_DB_CloudRoom_DoorOpen_DevilBaby3": {
+   "VL_0": "אוויר של גן עדן! ובכל זאת את המפתח לא תקבלו!"
+  },
+  "VO_DB_CloudRoom_DoorOpen_DevilBaby4": {
+   "VL_0": "לא, אל תיקחו את היקר שלי!"
+  },
+  "VO_DB_CloudRoom_DoorReveal_Alone_DevilBaby3": {
+   "VL_0": "תפסיק עם זה, ענן טיפש!",
+   "VL_1": "אהה, אני לא יודע לשחות! תוציאו אותי!"
+  },
+  "VO_DB_CloudRoom_DoorReveal_Alone_DevilBaby4": {
+   "VL_0": "אה! היקר שלי נרטב!",
+   "VL_1": "תפסיקו עם זה, בני אדם טיפשים!"
+  },
+  "VO_DB_CloudRoom_DoorReveal_Dialogue01": {
+   "VL_0": "מ-מה?! מאיפה הגיעו כל המים האלה?",
+   "VL_1": "היי, מה קורה שם?",
+   "VL_2": "הם מנסים להטביע אותנו פה!",
+   "VL_3": "טוב, זה לא ממש יפה מצדם!"
+  },
+  "VO_DB_CloudRoom_DoorReveal_Dialogue02": {
+   "VL_0": "היי, הגג דולף?",
+   "VL_1": "בגן עדן לא יורד גשם!",
+   "VL_2": "אז מאיפה מגיעים כל המים האלה?"
+  },
+  "VO_DB_CloudRoom_Taunt_Alone_DevilBaby3": {
+   "VL_0": "היי! לאן נעלמתם?",
+   "VL_1": "הלו? יש פה מישהו?",
+   "VL_2": "אני לבד עכשיו?"
+  },
+  "VO_DB_CloudRoom_Taunt_Alone_DevilBaby4": {
+   "VL_0": "עכשיו זה רק אני והמפתח שלי...",
+   "VL_1": "אהה, סוף סוף שקט ושלווה.",
+   "VL_2": "בני האדם האלה אולי אכזריים אפילו יותר מאיתנו!"
+  },
+  "VO_DB_CloudRoom_Taunt_Dialogue01": {
+   "VL_0": "אני בטוח שבני האדם המוזרים האלה לא רואים אותנו בערפל הזה.",
+   "VL_1": "וגם הם לא רואים אותנו!",
+   "VL_2": "אתה חושב שהם שומעים אותנו?",
+   "VL_3": "עדיף על המוזיקה הזאת!"
+  },
+  "VO_DB_CloudRoom_Taunt_Dialogue02": {
+   "VL_0": "היקר שלי. ",
+   "VL_1": "היי! חשבתי שאני היקר שלך!",
+   "VL_2": "המ? אבל אתה לא נוצץ!",
+   "VL_3": "לא ראית את החיוך שלי."
+  },
+  "VO_DB_Death_MortarWasp": {
+   "VL_0": "תתרחקו... מהמלכה שלנו..."
+  },
+  "VO_DB_Death_ShieldWasp2": {
+   "VL_0": "לא! אכזבתי אותך, מלכתי..."
+  },
+  "VO_DB_Effort_Attack_Heavy_MortarWasp": {
+   "VL_0": "תדממו כמו הסנאים!",
+   "VL_1": "אני אפוצץ אתכם!"
+  },
+  "VO_DB_Effort_Attack_Heavy_ShieldWasp2": {
+   "VL_0": "למען המלכה!",
+   "VL_1": "לא תעברו!"
+  },
+  "VO_DB_Effort_Attack_Medium_MortarWasp": {
+   "VL_0": "תברחו כל עוד אתם יכולים!",
+   "VL_1": "הנשק שלנו עליון!"
+  },
+  "VO_DB_Effort_Attack_Medium_ShieldWasp2": {
+   "VL_0": "נחשפת!",
+   "VL_1": "חלשים!"
+  },
+  "VO_DB_Gameplay_Global_Backtrack_Generic_Cody": {
+   "VL_0": "אהה, זה נראה מוכר.",
+   "VL_1": "רגע, לא היינו פה כבר?",
+   "VL_2": "זה לא יכול להיות הכיוון הנכון.",
+   "VL_3": "אהה, הכול פה נראה אותו דבר.",
+   "VL_4": "חוש הנבט שלי אומר לי להסתובב."
+  },
+  "VO_DB_Gameplay_Global_Backtrack_Generic_May": {
+   "VL_0": "רגע, כבר הלכנו מפה.",
+   "VL_1": "אהה, זה הכיוון הנכון?",
+   "VL_2": "לא היינו פה כבר?",
+   "VL_3": "נראה לי שכבר עברנו פה.",
+   "VL_4": "הממ, משהו מוזר בדרך הזאת."
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericDraw_Cody": {
+   "VL_0": "וואו, זה היה צמוד! בואי ננסה שוב.",
+   "VL_1": "הו! תחרות קשוחה! אבל בפעם הבאה זה שלי!",
+   "VL_2": "לא רע, מיי! את מסוגלת לעשות את זה שוב?"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericDraw_May": {
+   "VL_0": "אוף, סתם תיקו. בוא נלך על עוד סיבוב!",
+   "VL_1": "אתה די טוב, קודי. בוא נראה אותך עושה את זה שוב.",
+   "VL_2": "אוי, כמעט! קדימה, עוד ניסיון אחד!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericFail_Cody": {
+   "VL_0": "שיט!",
+   "VL_1": "נו באמת!",
+   "VL_2": "לא!",
+   "VL_3": "כמעט!",
+   "VL_4": "ברצינות?!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericFail_May": {
+   "VL_0": "אוי, שטויות!",
+   "VL_1": "לעזאזל!",
+   "VL_2": "כמעט!",
+   "VL_3": "אוף!",
+   "VL_4": "משעמם!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericLose_Cody": {
+   "VL_0": "כן, כן. בפעם הבאה אני אתפוס אותך.",
+   "VL_1": "הימים שלך ספורים, מיי!",
+   "VL_2": "אוף, אני צריך להתאמן על זה.",
+   "VL_3": "טוב מיי, ניצחת אותי... הפעם.",
+   "VL_4": "את בטוחה שלא רימית?"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericLose_May": {
+   "VL_0": "טוב, אלוף הניצחונות. תירגע.",
+   "VL_1": "אל תיתן לזה לעלות לך לראש.",
+   "VL_2": "אוי, אני אצטרך לצפות בזה שוב ולנתח את המהלכים שלי.",
+   "VL_3": "כן קודי, ניצחת... אבל רק חכה.",
+   "VL_4": "אוי, זה מביך!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericStart_Cody": {
+   "VL_0": "או-הו, זה יהיה קטן עליי.",
+   "VL_1": "תראי לי מה את שווה, מיי.",
+   "VL_2": "אל תמצמצי, אחרת תפספסי איך אני מנצח.",
+   "VL_3": "מקווה שהבאת את המיטב שלך!",
+   "VL_4": "אני לא צוחק פה."
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericStart_May": {
+   "VL_0": "זה ייגמר בשנייה.",
+   "VL_1": "אני שולחת אותך הביתה, קודי.",
+   "VL_2": "אל תאשים אותי אם ההפסד יכאב.",
+   "VL_3": "טוב, אני מחכה לזה בקוצר רוח!",
+   "VL_4": "אני לא צריכה חימום בשביל זה."
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericTaunt_Cody": {
+   "VL_0": "יש!",
+   "VL_1": "קל!",
+   "VL_2": "זה בכיס!",
+   "VL_3": "אין בעיה!",
+   "VL_4": "הא!",
+   "VL_5": "זהו זה!",
+   "VL_6": "יופי!",
+   "VL_7": "קדימה!",
+   "VL_8": "בום!",
+   "VL_9": "בינגו!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericTaunt_May": {
+   "VL_0": "יפה!",
+   "VL_1": "מגניב!",
+   "VL_2": "האהא!",
+   "VL_3": "כן!",
+   "VL_4": "פשוט!",
+   "VL_5": "בדיוק!",
+   "VL_6": "נו באמת.",
+   "VL_7": "הבא!",
+   "VL_8": "הנה!",
+   "VL_9": "אין בזה כלום!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericWin_Cody": {
+   "VL_0": "עוד ניצחון לקודי!",
+   "VL_1": "תצטרכי להשתפר כדי לנצח אותי!",
+   "VL_3": "אוי, את מריחה משהו שרוף? זה אני! לוהט!",
+   "VL_4": "אהה, זה אף פעם לא נמאס לי - לנצח!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericWin_Cody_030": {
+   "Line_1": "אז מה יש לארוחת ערב, מיי?",
+   "Line_2": "הו! הוגשה לך תבוסה!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_GenericWin_May": {
+   "VL_0": "ניצחון קל בשבילי.",
+   "VL_1": "ממ, זה הכול?",
+   "VL_2": "אפשר לקבל תחרות אמיתית?",
+   "VL_3": "אוי קודי, אתה יכול יותר טוב מזה.",
+   "VL_4": "והקהל משתגע!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_PendingStart_Cody": {
+   "VL_0": "היי מיי, בואי הנה!",
+   "VL_1": "מיי, אל תהיי פחדנית!",
+   "VL_2": "אה, תתפסי את הצד השני.",
+   "VL_3": "למה את מחכה, מיי?",
+   "VL_4": "אל תשאירי אותי תלוי פה!"
+  },
+  "VO_DB_Gameplay_Global_Minigame_PendingStart_May": {
+   "VL_0": "היי קודי, לכאן!",
+   "VL_1": "אני מחכה, קודי!",
+   "VL_2": "תתפוס את הצד השני!",
+   "VL_3": "אתה מפחד?",
+   "VL_4": "נו, קדימה כבר!"
+  },
+  "VO_DB_Garden_FrogPond_FishFountainPuzzle_Complete": {
+   "VL_0": "כל הכבוד! הצלחנו!",
+   "VL_1": "פיו! זה היה קרוב.",
+   "VL_2": "זה היה ממש מגניב."
+  },
+  "VO_DB_Garden_FrogPond_FishFountainPuzzle_Hint_Cody": {
+   "VL_0": "מיי, אני צריך אותך ואת הצפרדע שלך בשביל זה!"
+  },
+  "VO_DB_Garden_FrogPond_FishFountainPuzzle_Hint_May": {
+   "VL_0": "קודי, פה אנחנו חייבים לעבוד ביחד!"
+  },
+  "VO_DB_Garden_FrogPond_Frogger_Complete": {
+   "VL_0": "נהנים?!",
+   "VL_1": "קצת מקפץ, אבל תודה על הטרמפ."
+  },
+  "VO_DB_Garden_FrogPond_GenericBarks_FrogFrench": {
+   "VL_0": "אתה בסדר?",
+   "VL_1": "אתה בחור פיקח.",
+   "VL_2": "אנשים אוהבים לרכוב על הגב שלי. אני טוב מאוד."
+  },
+  "VO_DB_Garden_FrogPond_GenericBarks_FrogFrench_040": {
+   "Line_1": "אווו, עלה השושן!",
+   "Line_2": "ווהו!",
+   "Line_3": "זה כל כך נעים לרגליים הקטנטנות שלי."
+  },
+  "VO_DB_Garden_FrogPond_GenericBarks_FrogNY": {
+   "VL_0": "היי, שבו ישר שם מאחורה!",
+   "VL_1": "אהה, החרא הסגול הזה, מרוח בכל מקום.",
+   "VL_2": "מה זה?",
+   "VL_4": "או-או! לאט על הרגליים!",
+   "VL_5": "חלזונות... מגעילים!",
+   "VL_6": "מתי ארוחת צהריים?",
+   "VL_7": "מה יש לארוחת ערב?"
+  },
+  "VO_DB_Garden_FrogPond_GenericBarks_FrogNY_040": {
+   "Line_1": "תראו את החרא הסגול הזה!",
+   "Line_2": "אהה, פעם המקום הזה היה יפהפה!"
+  },
+  "VO_DB_Garden_FrogPond_Greenhouse_Mushroom": {
+   "VL_0": "אני פטרייה. אחלה!",
+   "VL_1": "זה נראה הכי מטופש עד עכשיו!"
+  },
+  "VO_DB_Garden_FrogPond_Greenhouse_MushroomHint": {
+   "VL_0": "מיי, יש לי רעיון מבריק! תקפצי עליי!",
+   "VL_1": "טוב, תן לי דחיפה!"
+  },
+  "VO_DB_Garden_FrogPond_Greenhouse_Window_Cody_010": {
+   "Line_1": "הגענו לחממה!",
+   "Line_2": "עכשיו רק צריך לעלות לחלון ההוא."
+  },
+  "VO_DB_Garden_FrogPond_Greenhouse_WindowComplete": {
+   "VL_0": "יופי, הצלחת! קפיצות יפות.",
+   "VL_1": "וגם זרוע השקיה חזקה!"
+  },
+  "VO_DB_Garden_FrogPond_Greenhouse_WindowHalfway": {
+   "VL_0": "תמשיכי ככה, מיי!",
+   "VL_1": "קיבלתי. גם אתה מצוין!"
+  },
+  "VO_DB_Garden_FrogPond_GrindSection_Blooming_Cody": {
+   "VL_0": "ווהו, זה פורח! עוף מפה, חרא סגול!",
+   "VL_1": "וואו! תראי! תראי את הגינה שלי! זה מדהים!"
+  },
+  "VO_DB_Garden_FrogPond_GrindSection_Blooming_May": {
+   "VL_0": "וואו, הפרחים צומחים שוב!",
+   "VL_1": "הגינה שלך יפהפייה, קודי!"
+  },
+  "VO_DB_Garden_FrogPond_JumpReaction_Cody": {
+   "VL_0": "וואו! לצפרדע הזאת יש קפיצה!"
+  },
+  "VO_DB_Garden_FrogPond_JumpReaction_May": {
+   "VL_0": "וואאאו! אוקיי!"
+  },
+  "VO_DB_Garden_FrogPond_MainFountainPuzzle_Complete": {
+   "VL_0": "כל הכבוד!",
+   "VL_1": "תודה, צפרדע!"
+  }
+ }
+}

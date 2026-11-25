@@ -1,0 +1,20 @@
+{
+  "packId": "it-takes-two-he",
+  "gameId": "it-takes-two",
+  "version": "1.0.0",
+  "title": "It Takes Two – עברית",
+  "authors": ["Tirgumim"],
+  "engine": "unreal",
+  "requiresAccount": false,
+  "activation": {
+    "mode": "swap",
+    "exe": "Nuts/Binaries/Win64/ItTakesTwo.exe",
+    "args": ["-culture=en"],
+    "via": "steam"
+  },
+  "gameVersions": [
+    { "name": "Steam build 26237470", "checks": [ { "path": "Nuts/Binaries/Win64/ItTakesTwo.exe" } ] }
+  ],
+  "allowUnknownGameVersion": false,
+  "filesDir": "../work/files"
+}

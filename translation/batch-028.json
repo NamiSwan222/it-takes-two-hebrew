@@ -1,0 +1,564 @@
+{
+ "Nuts": {
+  "VO_DB_Shed_NailMay_Hammerhead": {
+   "VL_0": "מיי? מייייי!!!!",
+   "VL_1": "היי, תיזהרי עם המסמרים!",
+   "VL_2": "אוי! זה בטח כואב!"
+  },
+  "VO_DB_Shed_NailMay_May": {
+   "VL_0": "טוב, הבנתי את הנקודה!",
+   "VL_1": "אוף! אל תכריח אותי להרביץ לך, קודי!",
+   "VL_2": "אוף! אתה לא עוזר!"
+  },
+  "VO_DB_Shed_NailSwinging_Hammerhead": {
+   "VL_0": "לאט לאט...",
+   "VL_1": "תחזיקי חזק!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Damage_Cody": {
+   "VL_0": "וואו, יפה!",
+   "VL_1": "בום, חחח!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Damage_May": {
+   "VL_0": "תמשיך ככה!",
+   "VL_1": "איך זה מרגיש, שק אבק?!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_DoubleInteract_Tube_Cody": {
+   "VL_0": "מיי, הזרוע השנייה שלו חופשייה! קדימה!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_DoubleInteract_Tube_May": {
+   "VL_0": "תעלה על השנייה, קודי!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_End_Idle": {
+   "VL_0": "ר-רגע, הוא נעצר.",
+   "VL_1": "הגיע הזמן לגמור עם זה!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_End_RaiseTubes_Halfway": {
+   "VL_0": "וואו מיי, את חושבת שזה מוגזם?",
+   "VL_1": "קצת... אבל הוא ניסה להרוג אותנו!",
+   "VL_2": "נקודה טובה! סליחה, שואב!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Explosives_Warning_Cody": {
+   "VL_0": "כמה כאלה יש לו?!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Explosives_Warning_May": {
+   "VL_0": "השואב הזה מטורף!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_ExplosivesHint_Cody": {
+   "VL_0": "מיי! לא הייתי מוכן!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_ExplosivesHint_May": {
+   "VL_0": "אל תבזבז אותם! חכה לי, קודי!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Garbage_Cody": {
+   "VL_0": "יורד גשם של זבל!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Garbage_May": {
+   "VL_0": "אוי ואבוי! מה יש שם בפנים?"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Mines": {
+   "VL_0": "זה לא נשמע טוב!"
+  },
+  "VO_DB_Shed_Vacuum_BossFight_Mines_May": {
+   "VL_0": "זוז! הם עומדים להתפוצץ!"
+  },
+  "VO_DB_Shed_Vacuum_ChipRoom_Fail_Cody": {
+   "VL_0": "לעזאזל, איטי מדי!"
+  },
+  "VO_DB_Shed_Vacuum_ChipRoom_Fail_May": {
+   "VL_0": "אוף! כמעט!"
+  },
+  "VO_DB_Shed_Vacuum_ChipRoom_Finish": {
+   "VL_0": "זה ממש היה שווה קצת התחשמלות!",
+   "VL_1": "כן, ממש!"
+  },
+  "VO_DB_Shed_Vacuum_ChipRoomApproach_Tube_Cody": {
+   "VL_0": "האמת שזה היה די כיף."
+  },
+  "VO_DB_Shed_Vacuum_ChipRoomApproach_Tube_May": {
+   "VL_0": "אה, לא רע."
+  },
+  "VO_DB_Shed_Vacuum_ChipRoomEntrance_CodyEnters_Cody": {
+   "VL_0": "רק תמשיכי להחזיק את הדלת!"
+  },
+  "VO_DB_Shed_Vacuum_ChipRoomEntrance_CodyEnters_May": {
+   "VL_0": "פנימה איתך!",
+   "VL_1": "אהה, זה משחרר לחץ."
+  },
+  "VO_DB_Shed_Vacuum_ChipRoomEntrance_MayEnters_Cody": {
+   "VL_0": "אחרייך...",
+   "VL_1": "חחחח הוהוהו! זה כיף מדי!"
+  },
+  "VO_DB_Shed_Vacuum_ChipRoomEntrance_MayEnters_May": {
+   "VL_0": "אל תעזוב!"
+  },
+  "VO_DB_Shed_Vacuum_DoubleHoseReverse_May": {
+   "VL_0": "יופי, הזרם התהפך!"
+  },
+  "VO_DB_Shed_Vacuum_DoubleInteract_DumbbellReminder_Cody_010": {
+   "Line_1": "אוף! אני עוד אתפוס גב.",
+   "Line_2": "אני צריך פה קצת עזרה!"
+  },
+  "VO_DB_Shed_Vacuum_Electronics_Exposed_Cody": {
+   "VL_0": "אה, זה לא סכנת שריפה?"
+  },
+  "VO_DB_Shed_Vacuum_Electronics_Exposed_May": {
+   "VL_0": "תראה את כל הגרוטאות האלה!"
+  },
+  "VO_DB_Shed_Vacuum_FanRoom": {
+   "VL_0": "זה נראה מסוכן!",
+   "VL_1": "רק תתזמן את הקפיצות."
+  },
+  "VO_DB_Shed_Vacuum_FanWallSlide_Cody": {
+   "VL_0": "יאללה, תסובבי!"
+  },
+  "VO_DB_Shed_Vacuum_FanWallSlide_Finish": {
+   "VL_0": "פיו! עברנו!"
+  },
+  "VO_DB_Shed_Vacuum_FanWallSlide_Finish_May_020": {
+   "Line_1": "כן, בוא נמשיך.",
+   "Line_2": "אנחנו מתקרבים למעלה."
+  },
+  "VO_DB_Shed_Vacuum_FanWallSlide_May": {
+   "VL_0": "טוב, תתחיל לסובב."
+  },
+  "VO_DB_Shed_Vacuum_HoseDeath_Cody": {
+   "VL_0": "היי! על מה זה היה?"
+  },
+  "VO_DB_Shed_Vacuum_HoseDeath_May": {
+   "VL_0": "אולי תנסה לכוון?"
+  },
+  "VO_DB_Shed_Vacuum_HoseExitWarning_Cody": {
+   "VL_0": "מיי! מיי! תכווני את הצינור!"
+  },
+  "VO_DB_Shed_Vacuum_HoseExitWarning_May": {
+   "VL_0": "קודי, תכוון את הצינור גבוה!"
+  },
+  "VO_DB_Shed_Vacuum_HoseFirst_Cody": {
+   "VL_0": "וואו! רגוע, חמוד!"
+  },
+  "VO_DB_Shed_Vacuum_HoseFirst_May": {
+   "VL_0": "אוף, נו כבר!"
+  },
+  "VO_DB_Shed_Vacuum_HosePartnerCody": {
+   "VL_0": "מיי, תקפצי לתוך הצינור.",
+   "VL_1": "אוף, תשתדל לא להפיל אותי..."
+  },
+  "VO_DB_Shed_Vacuum_HosePartnerMay": {
+   "VL_0": "קודי, תיכנס!",
+   "VL_1": "אהה, בבקשה בעדינות."
+  },
+  "VO_DB_Shed_Vacuum_OilPitSkyDive_Cody": {
+   "VL_0": "לא, לא, לא, לא, לא אההההה!",
+   "VL_1": "אוי, הא! אני בסדר!"
+  },
+  "VO_DB_Shed_Vacuum_OilPitSkyDive_May": {
+   "VL_0": "אוי לא-לא! אהההההההה!",
+   "VL_1": "פיו! זה לא היה נורא."
+  },
+  "VO_DB_Shed_Vacuum_PostLongHoses_Cody": {
+   "VL_0": "בא לי להקיא."
+  },
+  "VO_DB_Shed_Vacuum_PostLongHoses_May": {
+   "VL_0": "אוף! זה היה קצת יותר מדי."
+  },
+  "VO_DB_Shed_Vacuum_UselessMachine_Cody": {
+   "VL_0": "מרגיע באופן מוזר."
+  },
+  "VO_DB_Shed_Vacuum_UselessMachine_May": {
+   "VL_0": "טוב, זה באמת חסר תועלת."
+  },
+  "VO_DB_Shed_Vacuum_WeightBowl_Approach_Cody": {
+   "VL_0": "היי, רד לפה, שואב!"
+  },
+  "VO_DB_Shed_Vacuum_WeightBowl_Approach_May_010": {
+   "Line_1": "אהה, אי אפשר להגיע לשואב הזה.",
+   "Line_2": "אנחנו צריכים להוריד אותו."
+  },
+  "VO_DB_Shed_Vacuum_WeightBowl_SwitchActivate_Cody_010": {
+   "Line_1": "אההה!",
+   "Line_2": "נראה לי שאפשר להשתמש",
+   "Line_3": "בקצת מהאבק הזה, ו...",
+   "Line_4": "בעוד כל מיני דברים."
+  },
+  "VO_DB_Shed_Vacuum_WeightBowl_SwitchActivate_May": {
+   "VL_0": "אההה! אז הגיע הזמן לשאוב עוד זבל!"
+  },
+  "VO_DB_SnowGlobe_Forest_CabinApproach": {
+   "VL_0": "קודי, תראה, בקתה!",
+   "VL_1": "אוי כן! מחסה מתוק!"
+  },
+  "VO_DB_SnowGlobe_Forest_ColdReactions_Cody": {
+   "VL_0": "קר, קר, קר קר, קר קר קר! אלוהים, קר!",
+   "VL_1": "קפוא. קפוא. קר וקפוא!",
+   "VL_2": "ברררררררר, אני חייב בגדים חמים יותר!"
+  },
+  "VO_DB_SnowGlobe_Forest_ColdReactions_May": {
+   "VL_0": "אוווו, אוי אוווו! אני קופאת!",
+   "VL_1": "אוי! בררר! כל כך קררר!",
+   "VL_2": "אוי, הלוואי שהיה לי מעיל, בררררררר!"
+  },
+  "VO_DB_SnowGlobe_Forest_GateStuck": {
+   "VL_0": "זה תקוע.",
+   "VL_1": "באמת? תן לי לנסות!"
+  },
+  "VO_DB_SnowGlobe_Forest_IceSkatingStart_Cody_010": {
+   "Line_1": "בטח הייתי שחקן הוקי מקצועי",
+   "Line_2": "בגלגול קודם,",
+   "Line_3": "נכון?"
+  },
+  "VO_DB_SnowGlobe_Forest_IceSkatingStart_May_010": {
+   "Line_1": "אוו, אני מתה על החלקה על הקרח!",
+   "Line_2": "ממש התגעגעתי לזה!"
+  },
+  "VO_DB_SnowGlobe_Forest_MagnetTutorial_Cody": {
+   "VL_0": "אני מרגיש שהמגנט שלי מגיב!"
+  },
+  "VO_DB_SnowGlobe_Forest_MagnetTutorial_May": {
+   "VL_0": "אוי! המגנט שלי מגיב למשהו!"
+  },
+  "VO_DB_SnowGlobe_Forest_MagnetTutorialReminderFirst": {
+   "VL_1": "צבעים שונים נמשכים, צבעים זהים נדחים!"
+  },
+  "VO_DB_SnowGlobe_Forest_MagnetTutorialReminderFirst_Cody_010": {
+   "Line_1": "רגע, רגע, רגע. תזכירי לי...",
+   "Line_2": "איך המגנטים האלה עובדים?"
+  },
+  "VO_DB_SnowGlobe_Forest_MagnetTutorialReminderSecond_Cody_010": {
+   "Line_1": "צבעים זהים נדחים,",
+   "Line_2": "צבעים שונים נמשכים.",
+   "Line_3": "הבנתי, הבנתי!"
+  },
+  "VO_DB_SnowGlobe_Forest_MagnetTutorialReminderSecond_May_010": {
+   "Line_1": "צבעים שונים נמשכים.",
+   "Line_2": "צבעים זהים נדחים. פשוט מאוד!"
+  },
+  "VO_DB_SnowGlobe_Forest_MapExamine_Cody": {
+   "VL_0": "וואו, המקום הזה ענק! אוי, אוי, אוי, יש פה עיירה!"
+  },
+  "VO_DB_SnowGlobe_Forest_MapExamine_May": {
+   "VL_0": "סוף סוף אוכל להבין איפה אני. בוא נראה..."
+  },
+  "VO_DB_SnowGlobe_Forest_ReminderGeneric_Cody": {
+   "VL_0": "טוב, עכשיו את תעזרי לי להגיע לשם!",
+   "VL_1": "גם אני רוצה להגיע לשם, מיי. עזרה!"
+  },
+  "VO_DB_SnowGlobe_Forest_ReminderGeneric_May": {
+   "VL_0": "תעזור לי להגיע לצד השני, קודי.",
+   "VL_1": "אל תשאיר אותי פה, קודי. תעזור לי לעבור!"
+  },
+  "VO_DB_SnowGlobe_Forest_Slide_Effort_Cody": {
+   "VL_0": "יוהוו-הו-הו-הו!"
+  },
+  "VO_DB_SnowGlobe_Forest_Slide_Effort_May": {
+   "VL_0": "ויייי-הה-היייי!"
+  },
+  "VO_DB_SnowGlobe_Forest_SuperMagnetActivated_Cody_010": {
+   "Line_1": "וואו, מיי!",
+   "Line_2": "מיי, המשיכה הייתה כל כך חזקה!",
+   "Line_3": "מעניין אם גם ההפך עובד..."
+  },
+  "VO_DB_SnowGlobe_Forest_SuperMagnetActivated_May_010": {
+   "Line_1": "וואו, מדהים!",
+   "Line_2": "יוהו!",
+   "Line_3": "אם המשיכה כל כך חזקה,",
+   "Line_4": "אז גם ההפך חייב לעבוד!"
+  },
+  "VO_DB_SnowGlobe_Forest_SuperMagnetSpotted_Cody": {
+   "VL_0": "וואו! הדברים האלה נראים אחרת."
+  },
+  "VO_DB_SnowGlobe_Forest_SuperMagnetSpotted_May": {
+   "VL_0": "אוי, המתקנים האלה נראים חזקים."
+  },
+  "VO_DB_SnowGlobe_Forest_TimberApproach_Cody": {
+   "VL_0": "אוי תראי, מסור!"
+  },
+  "VO_DB_SnowGlobe_Forest_TimberFall_Cody": {
+   "VL_0": "עץ נופלללל!"
+  },
+  "VO_DB_SnowGlobe_Forest_TimberFall_May": {
+   "VL_0": "עץ נופללל!"
+  },
+  "VO_DB_SnowGlobe_Forest_TimberSaw": {
+   "VL_0": "היי, זוכרת את חג המולד הראשון שלנו עם רוז?",
+   "VL_1": "אתה מתכוון כשכל עצי האשוח נגמרו?"
+  },
+  "VO_DB_SnowGlobe_Forest_TimberSaw_Cody_030": {
+   "Line_1": "כן!",
+   "Line_2": "וכשהתגנבנו ליער",
+   "Line_3": "וכרתנו אחד בעצמנו?"
+  },
+  "VO_DB_SnowGlobe_Forest_TimberSaw_May_040": {
+   "Line_1": "הייתי בטוחה שיתפסו אותנו."
+  },
+  "VO_DB_SnowGlobe_Forest_WrongMagnetPull_Cody": {
+   "VL_0": "מגנט לא נכון!",
+   "VL_1": "זה לא עובד. תנסי את!",
+   "VL_2": "אוי, את זה אשאיר לך."
+  },
+  "VO_DB_SnowGlobe_Forest_WrongMagnetPull_May": {
+   "VL_0": "נראה לי שאתה צריך למשוך את זה.",
+   "VL_1": "זה שלך. תמשוך אותו!",
+   "VL_2": "אהה, זה לא עובד, תנסה את שלך."
+  },
+  "VO_DB_SnowGlobe_Forest_WrongMagnetPush_Cody": {
+   "VL_0": "זה שלך!",
+   "VL_1": "את תדחפי אותו, מיי!",
+   "VL_2": "מיי, את חייבת לדחוף את זה!"
+  },
+  "VO_DB_SnowGlobe_Forest_WrongMagnetPush_May": {
+   "VL_0": "זה תקוע!",
+   "VL_1": "תשתמש במגנט שלך, קודי!",
+   "VL_2": "נראה לי שאתה צריך לדחוף את זה!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishAggro_Cody": {
+   "VL_0": "אוווו שיייט!",
+   "VL_1": "לא-לא-לא-לא! לא! לא אותי! בבקשה!",
+   "VL_2": "אהההה!! אני צעיר מדי למות!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishAggro_May": {
+   "VL_0": "אני מסרבת להיות אוכל לדגים! אהה!",
+   "VL_1": "אוי, לא ככה, בבקשה!",
+   "VL_2": "וואו, תתרחק!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishApproach_Cody": {
+   "VL_0": "אין לי תחושה ידידותית מהדג הזה!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishApproach_May": {
+   "VL_0": "אוי ואבוי, איזה דג ענק!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLairSpotted_Cody_010": {
+   "Line_1": "אהה, המקום הזה נראה ממש חשוך",
+   "Line_2": "ומפחיד שם למטה."
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLairSpotted_May": {
+   "VL_0": "אוי... אני רואה צל זז שם למטה!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeak_Cody": {
+   "VL_0": "אין סיכוי לתקן את הדליפה הזאת בידיים!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeak_May": {
+   "VL_0": "יש פה דליפה... צריך לתקן אותה איכשהו!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeakTighten_Cody": {
+   "VL_0": "ימינה זה הכיוון הנכון... נכון?"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeakTighten_May": {
+   "VL_0": "ימינה מהדקים..."
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeakTightenComplete_May": {
+   "VL_0": "סיימתי! אוי-אוי, נראה לי שהוא שמע את זה!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeakTightenCompleteSecond_Cody": {
+   "VL_0": "רק עוד אחת! חחח יוהו! אבל קודם, לשחוווות!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishLeakTightenCompleteThird_May": {
+   "VL_0": "הכול גמור! ביי, דג גדול!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishPostAggro_Cody": {
+   "VL_0": "נראה לי שירדו לי כמה שנים מהחיים."
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishPostAggro_May": {
+   "VL_0": "אוי, זה ממש לא היה לטעמי!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishWrench_Cody": {
+   "VL_0": "מצאתי מפתח ברגים! תעזרי לי, מיי!"
+  },
+  "VO_DB_SnowGlobe_Lake_AnglerFishWrench_May": {
+   "VL_0": "תעזור לי עם מפתח הברגים, קודי!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleEntrance": {
+   "VL_0": "מיי, נראה לי שאת צריכה לפתוח לי את זה!",
+   "VL_1": "על זה!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleFall_Cody": {
+   "VL_0": "וואאאו, רגע! זהירות!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleGoal_Cody_010": {
+   "Line_1": "אוי, אוי, אני רואה את הגנרטור!",
+   "Line_2": "הוא בצד השני!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleGyro_May_010": {
+   "Line_1": "אוווו. אני יכולה לסובב את ההגה...",
+   "Line_2": "ג'ירו... גשר... הדבר הזה!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleHalfway_Cody_010": {
+   "Line_1": "אה, חצי דרך! חחח!",
+   "Line_2": "אז לאן ממשיכים מפה?"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleInside_Cody_010": {
+   "Line_1": "אוווו, אה, די חם פה בפנים.",
+   "Line_2": "אהה! זאת לבה?!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleMirror_Cody": {
+   "VL_0": "אוי היי, לדבר הזה יש גם צד תחתון!"
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleMirrorHint_Cody": {
+   "VL_0": "אוי היי, מיי, נסי להפוך אותו!",
+   "VL_1": "נראה לי שאני יכול לעמוד בצד השני של המאוורר."
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleMirrorHint_May": {
+   "VL_0": "הממ, מה יקרה אם אסובב אותו ככה..."
+  },
+  "VO_DB_SnowGlobe_Lake_BubblePuzzleMirrorHint_May_020": {
+   "Line_1": "נראה שיש דרך",
+   "Line_2": "לעמוד על הצד התחתון."
+  },
+  "VO_DB_SnowGlobe_Lake_CoreBaseOutside_Cody_010": {
+   "Line_1": "אוווו, מעניין אם יש פה דגי ליצן!",
+   "Line_2": "אוי, אני מת על החמודים הקטנים האלה!"
+  },
+  "VO_DB_SnowGlobe_Lake_CoreBaseOutside_May_010": {
+   "Line_1": "אם הייתי דג, הייתי לגמרי גרה פה!",
+   "Line_2": "כל עוד לא קר."
+  },
+  "VO_DB_SnowGlobe_Lake_CoreBaseSpotted": {
+   "VL_0": "מה זאת המכונה הזאת?",
+   "VL_1": "נראה לי שהיא ממש מתחת למגדלור."
+  },
+  "VO_DB_SnowGlobe_Lake_FirstDive_Cody": {
+   "VL_0": "קוואבאנגה!"
+  },
+  "VO_DB_SnowGlobe_Lake_FirstDive_May": {
+   "VL_0": "בבקשה שיהיה חם!"
+  },
+  "VO_DB_SnowGlobe_Lake_FollowPipesInitial_Cody": {
+   "VL_0": "הצינורות האלה כנראה מובילים לגנרטורים!"
+  },
+  "VO_DB_SnowGlobe_Lake_FollowPipesInitial_May": {
+   "VL_0": "הולכים אחרי הצינורות ומקבלים את הממתקים!"
+  },
+  "VO_DB_SnowGlobe_Lake_FollowPipesReminder_Cody": {
+   "VL_0": "תזכורת לעצמי: ללכת אחרי הצינורות, להפעיל צינורות."
+  },
+  "VO_DB_SnowGlobe_Lake_FollowPipesReminder_May": {
+   "VL_0": "אז איפה היו הצינורות האלה..."
+  },
+  "VO_DB_SnowGlobe_Lake_FrozenSpotted_Cody": {
+   "VL_0": "אוווו, הכול פה קפוא לגמרי."
+  },
+  "VO_DB_SnowGlobe_Lake_FrozenSpotted_May_010": {
+   "Line_1": "אוי כן, הכול קפוא פה למעלה.",
+   "Line_2": "הניגוד מרתק."
+  },
+  "VO_DB_SnowGlobe_Lake_IceCaveMachine": {
+   "VL_0": "יאללה, בוא נסובב אותה!",
+   "VL_1": "כן, יש לנו את זה!"
+  },
+  "VO_DB_SnowGlobe_Lake_IceCaveVortex": {
+   "VL_0": "זה מים? מה זאת המכונה הזאת?!",
+   "VL_1": "אה, למי אכפת? עמודי מים זה מגניב!"
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_Cody": {
+   "VL_0": "אוו מה קורהההה, חיות מסיבה? עושים פה מרוץ?"
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_CodyWins": {
+   "VL_0": "¡Número uno! ככה זה.",
+   "VL_1": "הלהבים של המחליקיים שלי בטח קהים."
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_May_010": {
+   "Line_1": "נו, איזה צירוף מקרים לפגוש את כולכם פה!",
+   "Line_2": "מה קורה?"
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_MayWins": {
+   "VL_0": "ניצחתי אפילו את תושבי כדור השלג!",
+   "VL_1": "אה, הם חסמו לי את הדרך."
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_Start": {
+   "VL_0": "היכון?",
+   "VL_1": "הכן!",
+   "VL_2": "צ—נתראה אחר כך!"
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_Taunt_Cody": {
+   "VL_0": "נולדתי להחליק!",
+   "VL_1": "אני שד מהירות!",
+   "VL_2": "הנה בא איש הקרח!"
+  },
+  "VO_DB_SnowGlobe_Lake_IceRace_Taunt_May": {
+   "VL_0": "החלקה מהירה, אני מתה על זה!",
+   "VL_1": "נתראה אחר כך!",
+   "VL_2": "תתפוס אותי אם אתה יכול!"
+  },
+  "VO_DB_SnowGlobe_Lake_LighthouseBlocked_Cody": {
+   "VL_0": "אה-אה, עוד אי אפשר לעלות למגדלור."
+  },
+  "VO_DB_SnowGlobe_Lake_LighthouseBlocked_May_010": {
+   "Line_1": "אהה... נראה שעדיין אין דרך",
+   "Line_2": "לעלות למגדלור."
+  },
+  "VO_DB_SnowGlobe_Lake_LighthouseFactory_Cody_010": {
+   "Line_1": "אוי, מיי צדקה!",
+   "Line_2": "המגדלור באמת מחובר",
+   "Line_3": "למפעל הממתקים."
+  },
+  "VO_DB_SnowGlobe_Lake_LighthouseFactory_May_010": {
+   "Line_1": "אה, אז ככה מפעל הממתקים",
+   "Line_2": "מחובר למגדלור!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_Approach_Cody": {
+   "VL_0": "אוווו, הגיע זמן הצלצלים!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_Approach_May": {
+   "VL_0": "צלצלים! אני אתפוס דג גדול!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_CatchFish_Cody": {
+   "VL_0": "תפסתי אותך!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_CatchFish_May": {
+   "VL_0": "אהה! תפסתי אחד!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_FeedSeal_Cody": {
+   "VL_0": "הנה לך, חבוב!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_FeedSeal_May": {
+   "VL_0": "זמן לנשנוש!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_Miss_Cody": {
+   "VL_0": "לעזאזל!"
+  },
+  "VO_DB_SnowGlobe_Lake_MagnetHarpoon_Miss_May": {
+   "VL_0": "לעזאזל, כמעט!"
+  },
+  "VO_DB_SnowGlobe_Lake_OutsideBarrier_Cody_010": {
+   "Line_1": "אוי תראי, המטבח שלנו!",
+   "Line_2": "אוו, אני מתגעגע לאוכל אמיתי."
+  },
+  "VO_DB_SnowGlobe_Lake_OutsideBarrier_May": {
+   "VL_0": "אני לא רואה את רוז. מקווה שהיא בסדר!"
+  },
+  "VO_DB_SnowGlobe_Lake_PipesComplete_May": {
+   "VL_0": "האחרון גמור! בוא נחזור למפעל."
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHat_Cody_020": {
+   "Line_1": "וגם את לא נראית רע בכלל, מיי.",
+   "Line_2": "הייתי חוטף אותך להפלגה, בלי ספק!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHat_Cody_040": {
+   "Line_1": "סגרנו עסקה, יא חתיכת שודדת.",
+   "Line_2": "את מכירה אותי.",
+   "Line_3": "בדיוק ככה אני אוהב! ארררר!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHat_May_010": {
+   "Line_1": "אהוי קודי, כלב ים זקן שכמוך!",
+   "Line_2": "אתה נראה אדיר עם הכובע הזה!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHat_May_030": {
+   "Line_1": "יארררר, בסדר. אבל אני אהיה הקפטנית.",
+   "Line_2": "ואתה תהיה הצוות שלי."
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHatSolo_Cody_010": {
+   "Line_1": "לשודד ים נולדתי אני,",
+   "Line_2": "מפרש למתוח ולשוט בים! ארררר!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHatSolo_May_010": {
+   "Line_1": "כאן עומדת שודדת הים הכי מלוחה שהכרתם.",
+   "Line_2": "מיי וודפקר האדירה! האהארררר!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHatWheel_Cody_010": {
+   "Line_1": "הא הארררר!! אני שודד הים הגדול בעולם!",
+   "Line_2": "שפוסידון יילך לעזאזל!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipHatWheel_May": {
+   "VL_0": "תחזיק את הכובע! למתוח מפרשים! אני הקפטנית שלך!"
+  }
+ }
+}

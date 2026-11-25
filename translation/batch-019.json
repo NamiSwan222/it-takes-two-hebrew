@@ -1,0 +1,323 @@
+{
+ "Nuts": {
+  "UHazeGameSettings": {
+   "AntiAliasing": "החלקת קצוות",
+   "AntiAliasingDescription": "בחירת סוג ההחלקה לקצוות משוננים",
+   "AntiAliasingFXAA": "FXAA",
+   "AntiAliasingMSAA2x": "MSAA 2x",
+   "AntiAliasingMSAA4x": "MSAA 4x",
+   "AntiAliasingNone": "ללא",
+   "AntiAliasingTAA": "TAA זמני",
+   "AudioChannelSetup": "הגדרת ערוצים",
+   "AudioChannelSetup_Stereo": "סטריאו",
+   "AudioChannelSetup_Surround": "סראונד",
+   "AudioChannelSetupDescription": "בחירת מספר ערוצי השמע",
+   "AudioDynamicRange": "טווח דינמי",
+   "AudioDynamicRangeDescription": "קביעת הפער בעוצמה בין הצלילים השקטים ביותר לחזקים ביותר",
+   "AudioLanguage": "שפת הקול",
+   "AudioLanguageDescription": "קולות הדמויות וסצנות הקטע יהיו בשפה שנבחרה",
+   "AudioSpeakerType": "סוג רמקולים",
+   "AudioSpeakerType_Headphones": "אוזניות",
+   "AudioSpeakerType_Speakers": "רמקולים",
+   "AudioSpeakerType_TV": "טלוויזיה",
+   "AudioSpeakerTypeDescription": "בחירת סוג הרמקולים שבשימוש",
+   "AutoEASignIn": "כניסה לחשבון EA בהפעלה",
+   "AutoEASignInDescription": "כניסה אוטומטית לחשבון EA בעת הפעלת המשחק. בלי כניסה לחשבון EA לא יתקבלו הזמנות למשחק מקוון חוצה פלטפורמות.",
+   "BorderlessWindowed": "חלון ללא מסגרת",
+   "CameraShakes": "רעידות מצלמה",
+   "CameraShakesDescription": "הפעלת אפקטים של רעידות מצלמה",
+   "Cancel": "ביטול",
+   "ClosedCaptioning": "כתוביות לכבדי שמיעה",
+   "ClosedCaptioningDescription": "הפעלת כתוביות לכבדי שמיעה",
+   "CodyCameraAimFocusHorizontalSensitivity": "רגישות מצלמה אופקית בכיוון/מיקוד",
+   "CodyCameraAimFocusHorizontalSensitivityDescription": "כוונון רגישות התנועה האופקית של המצלמה בזמן כיוון או מיקוד",
+   "CodyCameraAimFocusVerticalSensitivity": "רגישות מצלמה אנכית בכיוון/מיקוד",
+   "CodyCameraAimFocusVerticalSensitivityDescription": "כוונון רגישות התנועה האנכית של המצלמה בזמן כיוון או מיקוד",
+   "CodyCameraHorizontalSensitivity": "רגישות מצלמה אופקית",
+   "CodyCameraHorizontalSensitivityDescription": "כוונון רגישות התנועה האופקית של המצלמה",
+   "CodyCameraVerticalSensitivity": "רגישות מצלמה אנכית",
+   "CodyCameraVerticalSensitivityDescription": "כוונון רגישות התנועה האנכית של המצלמה",
+   "CodyChaseCameraAssistance": "סיוע מצלמת מעקב",
+   "CodyChaseCameraAssistanceDescription": "קביעת עוצמת הסיבוב האוטומטי של המצלמה",
+   "CodyGameplaySubtitles": "כתוביות במשחק",
+   "CodyGameplaySubtitlesDescription": "הפעלת כתוביות במהלך המשחק",
+   "DetailLevel": "רמת פירוט",
+   "DetailLevelDescription": "כוונון האיכות של עצמים רחוקים",
+   "DetailLevelHigh": "גבוהה",
+   "DetailLevelLow": "נמוכה",
+   "DetailLevelMedium": "בינונית",
+   "DynamicRangeHigh": "גבוה",
+   "DynamicRangeLow": "נמוך",
+   "DynamicRangeMedium": "בינוני",
+   "EffectsQuality": "איכות אפקטים",
+   "EffectsQualityDescription": "כוונון האיכות והכמות של האפקטים החזותיים",
+   "EnableOnlineCrossplay": "משחק חוצה פלטפורמות",
+   "EnableOnlineCrossplayDescription": "משחק חוצה פלטפורמות מאפשר לשלוח ולקבל הזמנות למשחק משחקנים בפלטפורמות אחרות. השינויים ייכנסו לתוקף בסשן המשחק הבא.",
+   "FindOtherPlayer": "חיפוש שחקן נוסף",
+   "Framerate": "קצב פריימים",
+   "Framerate_30FPS": "30 FPS",
+   "Framerate_60FPS": "60 FPS",
+   "Framerate_120FPS": "120 FPS",
+   "Framerate_Unlocked": "לא מוגבל",
+   "FramerateDescription": "קביעת קצב הפריימים המרבי שהמשחק יציג",
+   "Fullscreen": "מסך מלא",
+   "Gamma": "גאמה",
+   "GammaDescription": "כוונון הבהירות של המשחק",
+   "Graphics2X": "2X",
+   "Graphics4X": "4X",
+   "Graphics8X": "8X",
+   "Graphics16X": "16X",
+   "GroundPound": "הטחה לקרקע, כריעה",
+   "Interaction": "פעולה",
+   "InvertCameraCody": "היפוך אנכי",
+   "InvertCameraCodyDescription": "היפוך התנועה האנכית של המצלמה",
+   "InvertCameraHorizontalCody": "היפוך אופקי",
+   "InvertCameraHorizontalCodyDescription": "היפוך התנועה האופקית של המצלמה",
+   "InvertCameraHorizontalMay": "היפוך אופקי",
+   "InvertCameraHorizontalMayDescription": "היפוך התנועה האופקית של המצלמה",
+   "InvertCameraMay": "היפוך אנכי",
+   "InvertCameraMayDescription": "היפוך התנועה האנכית של המצלמה",
+   "InvertSteeringCody": "היפוך היגוי אנכי",
+   "InvertSteeringCodyDescription": "היפוך תנועת ההיגוי האנכית",
+   "InvertSteeringMay": "היפוך היגוי אנכי",
+   "InvertSteeringMayDescription": "היפוך תנועת ההיגוי האנכית",
+   "Jump": "קפיצה",
+   "LANG_de": "גרמנית",
+   "LANG_en": "אנגלית",
+   "LANG_es": "ספרדית",
+   "LANG_fr": "צרפתית",
+   "LANG_it": "איטלקית",
+   "LANG_ja": "יפנית",
+   "LANG_ko": "קוריאנית",
+   "LANG_pl": "פולנית",
+   "LANG_ptBR": "פורטוגזית (ברזיל)",
+   "LANG_ru": "רוסית",
+   "LANG_zhHans": "סינית מפושטת",
+   "LANG_zhHant": "סינית מסורתית",
+   "Language": "שפה",
+   "LanguageDescription": "הצגת טקסט המשחק בשפה שנבחרה",
+   "MasterVolume": "עוצמה כללית",
+   "MasterVolumeDescription": "כוונון העוצמה הכללית של כל הצלילים",
+   "MaxAnisotropy": "סינון אניזוטרופי",
+   "MaxAnisotropyDescription": "קביעת מידת השיפור החזותי של משטחים רחוקים",
+   "MayCameraAimFocusHorizontalSensitivity": "רגישות מצלמה אופקית בכיוון/מיקוד",
+   "MayCameraAimFocusHorizontalSensitivityDescription": "כוונון רגישות התנועה האופקית של המצלמה בזמן כיוון או מיקוד",
+   "MayCameraAimFocusVerticalSensitivity": "רגישות מצלמה אנכית בכיוון/מיקוד",
+   "MayCameraAimFocusVerticalSensitivityDescription": "כוונון רגישות התנועה האנכית של המצלמה בזמן כיוון או מיקוד",
+   "MayCameraHorizontalSensitivity": "רגישות מצלמה אופקית",
+   "MayCameraHorizontalSensitivityDescription": "כוונון רגישות התנועה האופקית של המצלמה",
+   "MayCameraVerticalSensitivity": "רגישות מצלמה אנכית",
+   "MayCameraVerticalSensitivityDescription": "כוונון רגישות התנועה האנכית של המצלמה",
+   "MayChaseCameraAssistance": "סיוע מצלמת מעקב",
+   "MayChaseCameraAssistanceDescription": "קביעת עוצמת הסיבוב האוטומטי של המצלמה",
+   "MayGameplaySubtitles": "כתוביות במשחק",
+   "MayGameplaySubtitlesDescription": "הפעלת כתוביות במהלך המשחק",
+   "MenuNarration": "הקראת תפריטים",
+   "MenuNarrationDescription": "הפעלת הקראה קולית של התפריטים",
+   "MouseHorizontalSensitivityBoost": "הגברת רגישות עכבר אופקית",
+   "MouseHorizontalSensitivityBoostDescription": "הגברת רגישות העכבר בציר האופקי",
+   "MouseVerticalSensitivityBoost": "הגברת רגישות עכבר אנכית",
+   "MouseVerticalSensitivityBoostDescription": "הגברת רגישות העכבר בציר האנכי",
+   "MoveBackward": "תנועה אחורה",
+   "MoveForward": "תנועה קדימה",
+   "MoveLeft": "תנועה שמאלה",
+   "MovementDash": "זינוק",
+   "MovementSprintToggle": "הפעלה/כיבוי ריצה",
+   "MoveRight": "תנועה ימינה",
+   "MusicVolume": "עוצמת מוזיקה",
+   "MusicVolumeDescription": "כוונון עוצמת המוזיקה",
+   "None": "ללא",
+   "OptionsMenu_ToggleDisabled": "מושבת",
+   "OptionsMenu_ToggleEnabled": "מופעל",
+   "PostProcessingQuality": "איכות עיבוד-לאחר",
+   "PostProcessingQualityDescription": "כוונון האיכות של אפקטי המצלמה על המסך",
+   "PrimaryLevelAbilityAxis": "יכולת ראשית, ירי",
+   "Resolution": "רזולוציה",
+   "ResolutionDescription": "קביעת רזולוציית התצוגה של המשחק",
+   "ResolutionScale": "קנה מידה של רזולוציה",
+   "ResolutionScaleDescription": "כוונון רזולוציית הרינדור הפנימית לשיפור האיכות או הביצועים",
+   "ScalabilityHigh": "גבוהה",
+   "ScalabilityLow": "נמוכה",
+   "ScalabilityMedium": "בינונית",
+   "ScalabilityUltra": "אולטרה",
+   "SecondaryLevelAbilityAxis": "יכולת משנית, כיוון",
+   "ShaderQuality": "איכות הצללה",
+   "ShaderQualityDescription": "כוונון האיכות של אפקטים על משטחים",
+   "ShadowQuality": "איכות צללים",
+   "ShadowQualityDescription": "כוונון האיכות של צללים שמטילים עצמים",
+   "SimplifyButtonMashes": "פישוט לחיצות רצופות",
+   "SimplifyButtonMashesDescription": "אפשרות להשלים לחיצות רצופות בלחיצה אחת בכל שנייה",
+   "SpeechToText": "דיבור לטקסט",
+   "SpeechToTextDescription": "הצגת הצ'אט הקולי הנכנס כטקסט על המסך",
+   "SpeechToTextFontSize": "גודל גופן של דיבור לטקסט",
+   "SpeechToTextFontSizeDescription": "קביעת גודל הגופן לטקסט שהומר מהצ'אט הקולי",
+   "SpeechToTextSize_Large": "גדול",
+   "SpeechToTextSize_Normal": "רגיל",
+   "Strong": "חזק",
+   "SubtitleBackground": "רקע לכתוביות",
+   "SubtitleBackgroundDescription": "הפעלת רקע לכתוביות לקריאה נוחה יותר",
+   "Subtitles": "כתוביות",
+   "SubtitlesDescription": "הפעלת כתוביות לדיאלוגים",
+   "SwingAttach": "התנדנדות, החלקה על מסילה, הצמדה בחבל",
+   "TelemetryOptIn": "שיתוף נתוני שימוש",
+   "TelemetryOptInDescription": "EA אוספת נתונים מהמכשיר שלך כדי לפתח את המוצרים והשירותים שלה. אם האפשרות מושבתת, EA תאסוף רק את נתוני המכשיר הדרושים לשירותים המקוונים ההכרחיים. לפרטים נוספים, ראו את מדיניות הפרטיות והעוגיות של EA.",
+   "TextToSpeech": "טקסט לדיבור",
+   "TextToSpeechDescription": "הקראה בקול של הודעות טקסט בצ'אט הקולי",
+   "TextureQuality": "איכות טקסטורות",
+   "TextureQualityDescription": "כוונון האיכות של המשטחים",
+   "ToggleOff": "כבוי",
+   "ToggleOn": "פועל",
+   "VibrationMay": "רטט בבקר",
+   "VibrationMay_Playstation": "רטט בבקר",
+   "VibrationMayDescription": "הפעלת רטט בבקר",
+   "VibrationMayDescription_Playstation": "הפעלת רטט בבקר",
+   "VoiceVolume": "עוצמת דיאלוגים",
+   "VoiceVolumeDescription": "כוונון העוצמה של כל הדיאלוגים במשחק",
+   "VSync": "VSync",
+   "VSyncDescription": "הפעלת סנכרון אנכי למניעת קריעת מסך",
+   "Weak": "חלש",
+   "Windowed": "חלון",
+   "WindowMode": "מצב חלון",
+   "WindowModeDescription": "בחירת מצב החלון"
+  },
+  "UHazePS4OnlineSystem": {
+   "InGame": "במשחק",
+   "MainMenu": "תפריט ראשי",
+   "OnlineLobby": "לובי מקוון"
+  },
+  "VacuumTower": {
+   "Name": "מגדל השואב"
+  },
+  "VO_DB_BossFight_Acorn_SquirrelChief": {
+   "VL_0": "פיצוץ בלוטים!",
+   "VL_1": "תאכלו את זה!",
+   "VL_2": "אגוז-לוז לפנים!"
+  },
+  "VO_DB_BossFight_ClawMachine_HangIdle_Cutie": {
+   "VL_0": "אההה. הרגל שלי תקועה!",
+   "VL_1": "אוי, החברה הכי טובה שלי לא תבוא להציל אותי?"
+  },
+  "VO_DB_BossFight_ClawMachine_HangPull_Cutie": {
+   "VL_0": "משהו שם למטה משתחרר! זה נמתח!"
+  },
+  "VO_DB_BossFight_ClawMachine_LegRip_Cutie": {
+   "VL_0": "הרגל שלי! לא! הצילו!"
+  },
+  "VO_DB_BossFight_ClawMachine_Miss_Cutie": {
+   "VL_0": "אוי, זה נראה חד. בבקשה אל תפגעו בי!",
+   "VL_1": "אולי אתם רוצים עוד חיבוק במקום?",
+   "VL_2": "אתם יודעים, רוז לא הייתה אוהבת את זה."
+  },
+  "VO_DB_BossFight_ClawMachine_Run_Cutie": {
+   "VL_0": "אני אוהבת אתכם, אז אולי גם אתם תאהבו אותי?"
+  },
+  "VO_DB_BossFight_CliffEdge_Cutie_010": {
+   "Line_1": "רגע!",
+   "Line_2": "לא יהיה יותר כיף",
+   "Line_3": "לשחק בקפיצה בחבל במקום?!"
+  },
+  "VO_DB_BossFight_CliffEdgeHalfway_Cutie": {
+   "VL_0": "אתם לא חייבים לעשות את זה. אני אוהבת את רוז!"
+  },
+  "VO_DB_BossFight_Cores_Destroyed_MoonBaboon": {
+   "VL_2": "וואו, מ-מה אתם עושים?! תורידו אותי... בעדינות!"
+  },
+  "VO_DB_BossFight_Cores_Destroyed_MoonBaboon_010": {
+   "Line_1": "נו, קדימה, נו כבר!",
+   "Line_2": "מכונה מטומטמת!",
+   "Line_3": "רק צריך לנתב מחדש את החשמל..."
+  },
+  "VO_DB_BossFight_Cores_Destroyed_MoonBaboon_020": {
+   "Line_1": "חכו ותראו, בוגדים!",
+   "Line_2": "ברגע שהכוח יחזור אליי,",
+   "Line_3": "אשמיד אתכם ואציל את רוז!"
+  },
+  "VO_DB_BossFight_Cores_Destroyed_Pickup_MoonBaboon": {
+   "VL_0": "וואו, מ-מה אתם עושים?! תורידו אותי... בעדינות!"
+  },
+  "VO_DB_BossFight_CrawlAway_Cutie": {
+   "VL_0": "רוז! רוז, תעזרי לי!"
+  },
+  "VO_DB_BossFight_Crying_Cutie": {
+   "VL_0": "אתם מפחידים אותי!"
+  },
+  "VO_DB_BossFight_Damaged_TowerVacuum": {
+   "VL_0": "לא, די! זה שורף!",
+   "VL_1": "אוף, לא נבניתי בשביל זה!"
+  },
+  "VO_DB_BossFight_Dragged_Generic_Cutie": {
+   "VL_0": "חברים אמורים לעזור אחד לשני!",
+   "VL_2": "אי אפשר פשוט להיות חברים?",
+   "VL_3": "רגע! בואו נתחבק במקום! לא בא לכם עוד חיבוק?"
+  },
+  "VO_DB_BossFight_Dragged_Generic_Cutie_030": {
+   "Line_1": "א-אתם רוצים עוגיות?",
+   "Line_2": "אני אכין לכם עוד עוגיות אם תפסיקו!"
+  },
+  "VO_DB_BossFight_Dragged_Nail_Cutie_040": {
+   "Line_1": "מה?",
+   "Line_2": "אני...",
+   "Line_3": "אני לא שומעת כלום!",
+   "Line_4": "הכול מטושטש."
+  },
+  "VO_DB_BossFight_Dragged_Nail_Halfway_Cutie": {
+   "VL_0": "בבקשה, תפסיקו למשוך."
+  },
+  "VO_DB_BossFight_Dragged_Nail_Start_Cutie": {
+   "VL_0": "רגע, האוזן שלי! אההה!"
+  },
+  "VO_DB_BossFight_Dragged_Stuffing_Cutie": {
+   "VL_0": "אההה!"
+  },
+  "VO_DB_BossFight_Dragged_Stuffing_Cutie_010": {
+   "Line_1": "אההה!",
+   "Line_2": "אהה!",
+   "Line_3": "לא!"
+  },
+  "VO_DB_BossFight_End_Idle_TowerVacuum": {
+   "VL_0": "אוף! הזרועות שלי... חלשות.",
+   "VL_1": "יותר מדי תרסיס... לא מצליח להרים...",
+   "VL_2": "הצינורות שלי! התקלקלתי?"
+  },
+  "VO_DB_BossFight_End_RaiseTubes_Halfway_TowerVacuum": {
+   "VL_1": "ר-רגע! די! ...די!"
+  },
+  "VO_DB_BossFight_End_RaiseTubes_Halfway_TowerVacuum_010": {
+   "Line_1": "לא! ...לא!",
+   "Line_2": "טוב, ניצחתם!",
+   "Line_3": "אני מבטיח לשאוב כל זבל שתרצו!"
+  },
+  "VO_DB_BossFight_End_RaiseTubes_Halfway_TowerVacuum_030": {
+   "Line_1": "סליחה!",
+   "Line_2": "אני לוקח בחזרה את מה שאמרתי",
+   "Line_3": "על הטורבו X2000!"
+  },
+  "VO_DB_BossFight_End_RaiseTubes_TowerVacuum": {
+   "VL_0": "מה—? לאן אתם לוקחים אותם?",
+   "VL_1": "לא, די, הם לא נועדו לשימוש כזה!",
+   "VL_2": "אתם—אתם מכוונים אותם לכיוון הלא נכון!"
+  },
+  "VO_DB_BossFight_Explosives_TowerVacuum": {
+   "VL_0": "תמצצו את זה!",
+   "VL_1": "יש לי בשבילכם יותר מסתם אבק!",
+   "VL_2": "קחו בחזרה את הזבל הבוער שלכם!",
+   "VL_3": "אני לא רוצה את הגרוטאות האלה בתוכי.",
+   "VL_4": "לא רואה אצלכם שמיכת כיבוי!"
+  },
+  "VO_DB_BossFight_Finisher_Idle_SquirrelChief": {
+   "VL_0": "אתם לא יוצאים מזה בחיים.",
+   "VL_1": "גדוד הסנאים שלי ינקום את דמי!",
+   "VL_2": "לעזאזל איתכם... ועם הצרעות האלה!"
+  },
+  "VO_DB_BossFight_FirstPhase_ArmorDamaged_WaspQueen": {
+   "VL_0": "הא! השרף העלוב שלכם מדגדג!",
+   "VL_1": "אוי, זה אמור לכאוב?"
+  },
+  "VO_DB_BossFight_FirstPhase_Flamethrower_WaspQueen": {
+   "VL_0": "מה?! אתם תשלמו על זה... תישרפו!"
+  },
+  "VO_DB_BossFight_FirstPhase_FlamethrowerHalfway_WaspQueen": {
+   "VL_0": "לא תוכלו לברוח לנצח, פולשים!"
+  }
+ }
+}

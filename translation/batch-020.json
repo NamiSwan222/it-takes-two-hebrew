@@ -1,0 +1,498 @@
+{
+ "Nuts": {
+  "VO_DB_BossFight_FirstPhase_Hammer_WaspQueen": {
+   "VL_0": "תרסקו אותם, חיילים שלי!",
+   "VL_1": "מואהאהא, תברחו, מזיקים!",
+   "VL_2": "אני אמעך אתכם כמו חרקים!"
+  },
+  "VO_DB_BossFight_Garbage_TowerVacuum": {
+   "VL_0": "קבלו בחזרה קצת מהזבל שלכם!",
+   "VL_1": "השארתם את זה על הרצפה!",
+   "VL_2": "תמותו מתחת לזבל הזה!"
+  },
+  "VO_DB_BossFight_Grab_SquirrelChief": {
+   "VL_0": "למטה!",
+   "VL_1": "פתטי!"
+  },
+  "VO_DB_BossFight_Hatch_Open_MoonBaboon": {
+   "VL_0": "לעזאזל! שלמות הכלי נפגעה.",
+   "VL_1": "מאיפה מגיעה הירידה הזאת בלחץ האוויר?!"
+  },
+  "VO_DB_BossFight_Laser_Array_MoonBaboon": {
+   "VL_0": "רמת איום גמא! מפעיל מערכות הגנה!",
+   "VL_1": "רמת איום בטא! להרוג את הבוגדים!"
+  },
+  "VO_DB_BossFight_Laser_ArrayFinal_MoonBaboon_010": {
+   "Line_1": "מחשב!",
+   "Line_2": "מחשב, להסיר את כל המגבלות!",
+   "Line_3": "אנחנו ברמת איום אלפא!"
+  },
+  "VO_DB_BossFight_Laser_Bombs_MoonBaboon": {
+   "VL_0": "משגר פרצי גרביטונים!",
+   "VL_1": "אל תתחילו לבכות, לוזרים!"
+  },
+  "VO_DB_BossFight_Laser_Death_MoonBaboon": {
+   "VL_0": "רשע אחד הושמד. עכשיו תור השני!",
+   "VL_1": "המטרה חוסלה."
+  },
+  "VO_DB_BossFight_Laser_Generic_MoonBaboon": {
+   "VL_0": "אין טעם לברוח!",
+   "VL_1": "אל תזוזו!",
+   "VL_2": "אין לכם סיכוי מול העוצמה של בבון הירח!",
+   "VL_3": "אני לא אכשל במשימה שלי!"
+  },
+  "VO_DB_BossFight_Laser_Revive_MoonBaboon": {
+   "VL_0": "עדיין בחיים?! איזה כוח אפל זה?",
+   "VL_1": "הבוגד המרושע חזר!"
+  },
+  "VO_DB_BossFight_Laser_Targeted_MoonBaboon": {
+   "VL_0": "ננעל על בובת העץ! פותח באש!",
+   "VL_1": "ומה איתך, בובת חימר?! תישרף!",
+   "VL_2": "גררר, הפעם אין בריחה מהשריפה!"
+  },
+  "VO_DB_BossFight_MayDeath_MoonBaboon": {
+   "VL_0": "ותישארי למטה!",
+   "VL_1": "נגמר לך הזמן!"
+  },
+  "VO_DB_BossFight_MayRevive_MoonBaboon": {
+   "VL_0": "למה את לא נשארת מתה?!",
+   "VL_1": "אני לא אפסיד לצד האפל!"
+  },
+  "VO_DB_BossFight_Mines_TowerVacuum": {
+   "VL_0": "שואב האבק הצרפתי שלכם יודע לעשות את זה?!",
+   "VL_1": "אולי אני זקן, אבל יש לי עוד כמה טריקים!",
+   "VL_2": "אני אפוצץ אתכם לחתיכות!"
+  },
+  "VO_DB_BossFight_Moon_Initial_MoonBaboon_010": {
+   "Line_1": "יצורים מרושעים לא יכולים להטיס את החללית שלי!",
+   "Line_2": "היא לא תקשיב לכם!"
+  },
+  "VO_DB_BossFight_Moon_Shield_MoonBaboon": {
+   "VL_0": "די! אני החבר היחיד של רוז. היא צריכה אותי.",
+   "VL_1": "איך... איך אני יכול להפסיד... לצד האפל?"
+  },
+  "VO_DB_BossFight_PlayerDeath_Generic_WaspQueen": {
+   "VL_0": "חוסל, בדיוק כמו הסנאים!",
+   "VL_1": "החבר שלך איננו. נשארת לבד!",
+   "VL_2": "חחחח, כולם כורעים בפני המלכה."
+  },
+  "VO_DB_BossFight_PlayerDeath_TowerVacuum": {
+   "VL_0": "עכשיו אתם הזבל.",
+   "VL_1": "הא-הא, שברתי לך את החבר הקטן.",
+   "VL_2": "נשארת לבד... זה נגמר!"
+  },
+  "VO_DB_BossFight_PlayerRevive_Generic_WaspQueen": {
+   "VL_0": "מה? זאת לא יכולה להיות טכנולוגיה של אגוזי לוז!",
+   "VL_1": "חזרתם לעוד עקיצות?",
+   "VL_2": "תגמרו אותם כבר!"
+  },
+  "VO_DB_BossFight_PlayerRevive_TowerVacuum": {
+   "VL_0": "מה? שוב חזרת?",
+   "VL_1": "חזרת לעוד, בובה עלובה?",
+   "VL_2": "זבל כמוך צריך להישאר שבור!"
+  },
+  "VO_DB_BossFight_RageAttack_TowerVacuum": {
+   "VL_0": "וואו, עכשיו אני כועס! תטבעו בזבל שלכם!",
+   "VL_1": "נמאס לי מהחרא שלכם!",
+   "VL_2": "אתם לא תצאו מפה בחיים!"
+  },
+  "VO_DB_BossFight_Rocket_Approach_MoonBaboon": {
+   "VL_0": "לא, לא ככה!",
+   "VL_1": "אל תכוונו את זה אליי!",
+   "VL_2": "יו-יוסטון, יש לנו בעיה!"
+  },
+  "VO_DB_BossFight_Rocket_Fire_Initial_MoonBaboon": {
+   "VL_0": "אתם תשלמו על זה!"
+  },
+  "VO_DB_BossFight_Rocket_Fire_MoonBaboon": {
+   "VL_0": "שיגור!",
+   "VL_1": "אתם תתפוצצו לרסיסים!"
+  },
+  "VO_DB_BossFight_RocketTaunt_MoonBaboon": {
+   "VL_0": "אני אגן על רוז!",
+   "VL_1": "אתם לא תברחו!",
+   "VL_2": "לא אתן לכם לגרום לרוז לבכות!"
+  },
+  "VO_DB_BossFight_SecondPhase_ArmorDestroyed_WaspQueen": {
+   "VL_0": "אוי, פרעושים טיפשים! תזעיקו תקיפה אווירית!"
+  },
+  "VO_DB_BossFight_SecondPhase_ArmorDestroyed_WaspQueen_020": {
+   "Line_1": "די!",
+   "Line_2": "העור היפה שלי!",
+   "Line_3": "צרעות! תחתכו אותם לשניים!"
+  },
+  "VO_DB_BossFight_SecondPhase_Hand_WaspQueen": {
+   "VL_0": "כיף!",
+   "VL_1": "תמחאו אותם חזק!"
+  },
+  "VO_DB_BossFight_SecondPhase_Initial_WaspQueen": {
+   "VL_0": "אוף, כמה מעצבן! חיילים, תגנו עליי!"
+  },
+  "VO_DB_BossFight_SecondPhase_NewHand_WaspQueen": {
+   "VL_0": "אולי אתם צריכים עוד יד עוזרת! הא הא הא!"
+  },
+  "VO_DB_BossFight_SecondPhase_Scissors_WaspQueen": {
+   "VL_0": "קליק, קליק! זה לא יכאב בכלל.",
+   "VL_1": "אסור לרוץ עם מספריים!"
+  },
+  "VO_DB_BossFight_SecondPhase_Shield_WaspQueen": {
+   "VL_0": "לא כל כך מהר, בובות קטנות!",
+   "VL_1": "החיילים שלי מתים בשבילי בשמחה."
+  },
+  "VO_DB_BossFight_SecondPhase_Sword_WaspQueen": {
+   "VL_0": "תפרסו אותם!"
+  },
+  "VO_DB_BossFight_SecondPhase_WaspPlane_WaspQueen": {
+   "VL_0": "פצצות למטה!",
+   "VL_1": "האהא! תראו איך אתם מתרוצצים, חרקי יבשה!",
+   "VL_2": "תקפצו יותר גבוה!"
+  },
+  "VO_DB_BossFight_SlamAttack_MoonBaboon": {
+   "VL_0": "בובת החימר נטשה אותך!",
+   "VL_1": "אני אמחץ אותך!"
+  },
+  "VO_DB_BossFight_SlamAttackTaunt_MoonBaboon": {
+   "VL_0": "אני אגן על רוז!",
+   "VL_1": "אתם לא תברחו!",
+   "VL_2": "לא אתן לכם לגרום לרוז לבכות!"
+  },
+  "VO_DB_BossFight_SlamLong_TowerVacuum": {
+   "VL_0": "אתם לא כאלה מפחידים כשאתם קטנים!",
+   "VL_1": "פה למטה אני השולט!",
+   "VL_2": "בואו נראה כמה טוב אתם קופצים!"
+  },
+  "VO_DB_BossFight_SlamShort_TowerVacuum": {
+   "VL_0": "די!",
+   "VL_1": "תפסיקו עם זה!",
+   "VL_2": "מתחיל להתעצבן..."
+  },
+  "VO_DB_BossFight_Taunt_Critical_SquirrelChief": {
+   "VL_0": "תעמוד במקום, בוגד!",
+   "VL_1": "שלא תעוף לי ברוח, זרד קטן!"
+  },
+  "VO_DB_BossFight_Taunt_Cutie": {
+   "VL_0": "בבקשה, תנו לי ללכת!",
+   "VL_1": "אוי, אני רוצה לראות עכשיו את החברה הכי טובה שלי, רוז.",
+   "VL_2": "ככה לא מתנהגים לחברים!"
+  },
+  "VO_DB_BossFight_Taunt_Generic_SquirrelChief": {
+   "VL_0": "קדימה, זרד.",
+   "VL_1": "אני אלעס אותך לארוחת בוקר.",
+   "VL_2": "תתקרב, אני אשבור אותך!"
+  },
+  "VO_DB_BossFight_Taunt_Generic_TowerVacuum": {
+   "VL_0": "תרגישו את כוח השאיבה שלי!",
+   "VL_1": "אני שואב האבק הכי חזק!",
+   "VL_2": "אתם תצטערו שבאתם לפה!",
+   "VL_3": "אף אחד לא מחליף אותי!",
+   "VL_4": "אתם נראים כמו זבל שמישהו השאיר מאחור!"
+  },
+  "VO_DB_BossFight_Taunt_Generic_WaspQueen": {
+   "VL_0": "אני אשלח אתכם בחזרה לסנאים בחתיכות!",
+   "VL_1": "הסנאים הפשוטים האלה לא מבינים את הכוח שלי.",
+   "VL_2": "הצרעות ישתלטו על כל העץ!",
+   "VL_3": "ולא נעצור בעץ. הבית הבא בתור!",
+   "VL_4": "הטכנולוגיה של אגוזי הלוז שלכם לא מתקרבת אליי!"
+  },
+  "VO_DB_BossFight_Taunt_OnMoon_MoonBaboon": {
+   "VL_0": "אני אגן על רוז!",
+   "VL_1": "לא אתן לכם לגרום לרוז לבכות!",
+   "VL_2": "אני לא אכשל במשימה שלי!"
+  },
+  "VO_DB_BossFight_ThirdPhase_Hand_WaspQueen": {
+   "VL_0": "תפילו אותם כבר, חיילים!",
+   "VL_1": "אל תתנו להם לעבור!"
+  },
+  "VO_DB_BossFight_ThirdPhase_Initial_WaspQueen": {
+   "VL_0": "אוף!! אתם תשלמו על זה, שרצים!"
+  },
+  "VO_DB_BossFight_ThirdPhase_Shield_WaspQueen": {
+   "VL_0": "אל תתנו להם לפגוע בי יותר!",
+   "VL_1": "תרחיקו ממני את השרף הנוראי הזה!",
+   "VL_2": "אל תתנו להם לעבור!"
+  },
+  "VO_DB_BossFight_ThirdPhase_Sword_WaspQueen": {
+   "VL_0": "תפרסו להם את הרגליים הקטנות!",
+   "VL_1": "אני רוצה לראות אותם מדממים!",
+   "VL_2": "תפילו אותם כבר, חיילים!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss": {
+   "VL_1": "נראה לי שלשור לא אכפת, קודי!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_ChargeTutorial_Cody": {
+   "VL_0": "מיי, אולי תוכלי לעבוד עליו עם השיבוט שלך!",
+   "VL_1": "אה, לוח האבן הזה נראה כאילו הוא יכול לפגוע בו!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_ChargeWarning_Cody": {
+   "VL_0": "אוי, הנה הוא בא, מיי!",
+   "VL_1": "אוי, הוא עומד להסתער!",
+   "VL_2": "זהירות, מיי!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_Cody_010": {
+   "Line_1": "וואו, וואו, וואו, לאט, שור, לאט!",
+   "Line_2": "אה... אני לא באמת אדום, אני יותר כתום."
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_End": {
+   "VL_0": "סוף סוף! הוא נפל.",
+   "VL_1": "אוף! זה היה קשוח.",
+   "VL_2": "אוי! אין לי כוח יותר.",
+   "VL_3": "כן, אבל כדאי שנמשיך לזוז. קדימה."
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_FirstHit": {
+   "VL_0": "יש! פגענו בו!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_FirstHit_Cody_020": {
+   "Line_1": "אוהההה, היי שור, מי הבוס עכשיו, אה?",
+   "Line_2": "רק עוד כמה מכות, מיי!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_PostFight_Cody": {
+   "VL_0": "הה! פיו, עבודה קשה!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_PostFight_May": {
+   "VL_0": "תשתמש בזה, קודי!"
+  },
+  "VO_DB_Clockwork_LowerTower_BullBoss_SecondHit": {
+   "VL_0": "זה היה אמור לגמור אותו!",
+   "VL_1": "עכשיו הוא נראה ממש עצבני!"
+  },
+  "VO_DB_Clockwork_LowerTower_CrusherRoom": {
+   "VL_0": "מיי! מיי, תעשי משהו!",
+   "VL_1": "מה? אני?! אתה תעשה משהו!",
+   "VL_2": "אי אפשר להאט את זה! שמישהו יעזור!"
+  },
+  "VO_DB_Clockwork_LowerTower_CrusherRoom_Complete": {
+   "VL_0": "וואו, כמעט חשבתי שלא נצליח.",
+   "VL_1": "כמעט? חה, חשבתי שאנחנו גמורים!",
+   "VL_2": "אבל הצלחנו!",
+   "VL_3": "בינתיים."
+  },
+  "VO_DB_Clockwork_LowerTower_CrusherRoom_MayTeleport_Cody": {
+   "VL_0": "מיי, תמהרי! אני לא רוצה למות לבד!"
+  },
+  "VO_DB_Clockwork_LowerTower_DoubleInteractHint_Cody": {
+   "VL_0": "תסובבי לכיוון הנכון, מיי!"
+  },
+  "VO_DB_Clockwork_LowerTower_DoubleInteractHint_May": {
+   "VL_0": "לכיוון השני, קודי! אתה עושה את זה לא נכון!"
+  },
+  "VO_DB_Clockwork_LowerTower_ElevatorRoomDeath_Cody": {
+   "VL_0": "מיי, נו כבר!"
+  },
+  "VO_DB_Clockwork_LowerTower_ElevatorRoomDeath_May": {
+   "VL_0": "תקפוץ יותר טוב, קודי!"
+  },
+  "VO_DB_Clockwork_LowerTower_ElevatorRoomEnd": {
+   "VL_0": "הצלחנו! הצלחנו? אלוהים... הצלחנו!",
+   "VL_1": "אה, הגיע הזמן... מבינים? זמן? שעון?",
+   "VL_2": "אההה..."
+  },
+  "VO_DB_Clockwork_LowerTower_ElevatorRoomHalfway": {
+   "VL_1": "אתה תעמוד בקצב! אני פה כמו מקל קפיצה!"
+  },
+  "VO_DB_Clockwork_LowerTower_EvilBird_Generic_Cody": {
+   "VL_0": "אוי מיי, אני משתגע!",
+   "VL_1": "שוב פעם נגמר לנו המקום!",
+   "VL_2": "אוי! איך עוצרים את זה?!"
+  },
+  "VO_DB_Clockwork_LowerTower_EvilBird_Generic_May": {
+   "VL_0": "אה! זה היה קרוב!",
+   "VL_1": "אלוהים!",
+   "VL_2": "אנחנו לא מנסים לפגוע בך!"
+  },
+  "VO_DB_Clockwork_LowerTower_EvilBird_GlassPlatform": {
+   "VL_0": "למה הציפור הזאת לא נחמדה כמו האחרות?!",
+   "VL_1": "נכנסנו לקן שלה. לא להוריד ממנה עין!"
+  },
+  "VO_DB_Clockwork_LowerTower_KeysSpotted_Cody": {
+   "VL_0": "אוי, תראי! מפתחות!"
+  },
+  "VO_DB_Clockwork_LowerTower_KeysSpotted_May": {
+   "VL_0": "אני רואה את המפתחות!"
+  },
+  "VO_DB_Clockwork_LowerTower_PocketWatchRoomEnd": {
+   "VL_0": "צריך טרמפ?",
+   "VL_1": "תודה!"
+  },
+  "VO_DB_Clockwork_LowerTower_PocketWatchRoomHint_Cody": {
+   "VL_0": "אה, מיי, נראה לי שאת צריכה להיות על הכפתורים."
+  },
+  "VO_DB_Clockwork_LowerTower_StatueRoom_May_010": {
+   "Line_1": "היי, תראה.",
+   "Line_2": "חורי מנעול!",
+   "Line_3": "נראה שנצטרך כמה מפתחות."
+  },
+  "VO_DB_Clockwork_Outside_BirdRace_CodyWins": {
+   "VL_0": "וווהו! הייתי צריך להיות טייס!",
+   "VL_1": "זאת ציפור, קודי. היא זאת שטסה."
+  },
+  "VO_DB_Clockwork_Outside_BirdRace_MayWins": {
+   "VL_0": "טסים גבוה!",
+   "VL_1": "כן, כן, אבל רק הפעם."
+  },
+  "VO_DB_Clockwork_Outside_BombRun_Approach_Cody_010": {
+   "Line_1": "היי, זה נראה כמו משהו מהיר!",
+   "Line_2": "רוצה להתחרות, מיי?"
+  },
+  "VO_DB_Clockwork_Outside_BombRun_Approach_May_010": {
+   "Line_1": "אה, זה נראה כמו קו זינוק.",
+   "Line_2": "רוצה להתחרות, קודי?"
+  },
+  "VO_DB_Clockwork_Outside_BombRun_CodyWins": {
+   "VL_0": "יששש! ניצחון מפוצץ!"
+  },
+  "VO_DB_Clockwork_Outside_BombRun_MayWins": {
+   "VL_0": "וווהו! אף איבר לא הלך לאיבוד! "
+  },
+  "VO_DB_Clockwork_Outside_BombRun_Start": {
+   "VL_1": "נראה לי שזה הולך להיות מירוץ נפיץ.",
+   "VL_2": "אוי, באסה..."
+  },
+  "VO_DB_Clockwork_Outside_BombRun_Start_Cody_010": {
+   "Line_1": "אממ... למה קשרו עליי פצצות?",
+   "Line_2": "חשבתי שזה סתם מירוץ!"
+  },
+  "VO_DB_Clockwork_Outside_BombRun_Taunt_Cody": {
+   "VL_0": "אני עדיין חי! הה, מעולה!",
+   "VL_1": "תישאר במסלול, קודי!",
+   "VL_2": "אל תתפוצץ לי! אל תתפוצץ לי!"
+  },
+  "VO_DB_Clockwork_Outside_BombRun_Taunt_May": {
+   "VL_1": "תרוצי ולא תתפוצצי, מיי!",
+   "VL_2": "אני אנצח. אני לא אתפוצץ!"
+  },
+  "VO_DB_Clockwork_Outside_BombsSpottedBirds_Cody": {
+   "VL_0": "הנה האורות המוזרים האלה!"
+  },
+  "VO_DB_Clockwork_Outside_BridgeClawHint_May": {
+   "VL_0": "חכה שהגשר יסגור את הצבת, קודי!"
+  },
+  "VO_DB_Clockwork_Outside_BridgeSuccess": {
+   "VL_0": "תראו את בחור העץ החתיך הזה!",
+   "VL_1": "האמת שהוא די חתיך."
+  },
+  "VO_DB_Clockwork_Outside_BuildingFire": {
+   "VL_0": "אוי, הבית עולה באש! טוב, אש מעץ.",
+   "VL_1": "הבובות צריכות את העזרה שלנו!"
+  },
+  "VO_DB_Clockwork_Outside_BuildingFireEnd": {
+   "VL_0": "שוב הצלחה! הנה הם הולכים.",
+   "VL_1": "מעניין לאן הם הולכים..."
+  },
+  "VO_DB_Clockwork_Outside_ButtonHintTower_May": {
+   "VL_0": "נראה שאפשר לדפוק את אלה פנימה!"
+  },
+  "VO_DB_Clockwork_Outside_CloneSpeedHint_May": {
+   "VL_0": "אני יודעת שאצליח אם אעשה טלפורט באוויר."
+  },
+  "VO_DB_Clockwork_Outside_CollapsingPillar_Cody": {
+   "VL_0": "וואו! אלוהים, זה ממש לא נראה יציב."
+  },
+  "VO_DB_Clockwork_Outside_Crawlspace_Cody": {
+   "VL_0": "אוף, צפוף!"
+  },
+  "VO_DB_Clockwork_Outside_DropBomb_Cody": {
+   "VL_0": "פצצה בדרך!"
+  },
+  "VO_DB_Clockwork_Outside_DropBomb_May": {
+   "VL_0": "הופה!"
+  },
+  "VO_DB_Clockwork_Outside_FaceDoor": {
+   "VL_0": "אאא! רוח רפאים!",
+   "VL_1": "זה רק פסל.",
+   "VL_2": "מפחיד רצח!"
+  },
+  "VO_DB_Clockwork_Outside_FanDoorOpening": {
+   "VL_0": "אני חייבת להגיד, זה נראה די מרשים!"
+  },
+  "VO_DB_Clockwork_Outside_FanDoorOpening_Cody_020": {
+   "Line_1": "כן, מי שתכנן את זה",
+   "Line_2": "ידע מה הוא...",
+   "Line_3": "עושה."
+  },
+  "VO_DB_Clockwork_Outside_FirstCorridorHatch_May": {
+   "VL_0": "היי, קודי! אתה יכול לזחול פה!"
+  },
+  "VO_DB_Clockwork_Outside_Fishing_Catch_Cody": {
+   "VL_0": "אוי, תפסתי אחד! אוי...",
+   "VL_1": "מה יש לנו פה?",
+   "VL_2": "דג או זבל?"
+  },
+  "VO_DB_Clockwork_Outside_Fishing_Catch_May": {
+   "VL_0": "ממם, נראה מה יש!",
+   "VL_1": "טוב, לפחות משהו נשך.",
+   "VL_2": "אוי, זה זבל?"
+  },
+  "VO_DB_Clockwork_Outside_Fishing_Interact_Cody": {
+   "VL_0": "אוקיי, נראה אם אתפוס איזה דג \"קוקו\"!"
+  },
+  "VO_DB_Clockwork_Outside_Fishing_Interact_May_010": {
+   "Line_1": "אוקיי, קצת דיג, אני מבינה.",
+   "Line_2": "אולי אתפוס משהו טוב."
+  },
+  "VO_DB_Clockwork_Outside_Fishing_Reeling_Cody": {
+   "VL_0": "אווו, אוקיי!",
+   "VL_1": "וואו, ברתה הגדולה! קדימה, בואי הנה!",
+   "VL_2": "או, את שלי!"
+  },
+  "VO_DB_Clockwork_Outside_Fishing_Reeling_May": {
+   "VL_0": "אוי, הנה בא אחד גדול!",
+   "VL_1": "וווו! קדימה!",
+   "VL_2": "אוי, הנה זה בא!"
+  },
+  "VO_DB_Clockwork_Outside_GatePuzzleFail_Cody": {
+   "VL_0": "את חייבת לזוז יותר מהר, מיי!"
+  },
+  "VO_DB_Clockwork_Outside_GenericReminder_Cody": {
+   "VL_0": "אנחנו חייבים להמשיך לעקוב אחרי הבובות!"
+  },
+  "VO_DB_Clockwork_Outside_GenericReminder_May": {
+   "VL_0": "היי, אל תפגר אחרי הבובות!"
+  },
+  "VO_DB_Clockwork_Outside_GenericSuccess_Cody": {
+   "VL_0": "ווהנה הם יוצאים לדרך!",
+   "VL_1": "יששש! הנה הם הולכים. נראה מה הלאה!"
+  },
+  "VO_DB_Clockwork_Outside_GenericSuccess_May": {
+   "VL_0": "יופי, הנה!"
+  },
+  "VO_DB_Clockwork_Outside_GenericSuccess_May_020": {
+   "Line_1": "הנה הם הולכים!",
+   "Line_2": "הנה אני הולכת?",
+   "Line_3": "המממ, זה מבלבל לי את המוח!"
+  },
+  "VO_DB_Clockwork_Outside_GrabBomb_Cody": {
+   "VL_0": "תפסתי אחת! אוי, עומד להיות פה בלגן!"
+  },
+  "VO_DB_Clockwork_Outside_GrabBomb_May": {
+   "VL_0": "בוא נראה מה אתה יודע לעשות!"
+  },
+  "VO_DB_Clockwork_Outside_HelltowerActivated": {
+   "VL_0": "וואו, זה גבוה!",
+   "VL_1": "בלי צחוק. מה יכול להיות שם למעלה?"
+  },
+  "VO_DB_Clockwork_Outside_HelltowerApproach_Cody": {
+   "VL_0": "מגדל הגיהנום, אה? שיבוא!"
+  },
+  "VO_DB_Clockwork_Outside_HelltowerApproach_May": {
+   "VL_0": "מגדל הגיהנום? נשמע מסקרן."
+  },
+  "VO_DB_Clockwork_Outside_HelltowerFail_Cody": {
+   "VL_0": "אוף! לעזאזל! עוד פעם אחת.",
+   "VL_1": "אוף! כמעט! הפעם זה שלי."
+  },
+  "VO_DB_Clockwork_Outside_HelltowerFail_May": {
+   "VL_0": "לא! פספסתי בקטנה.",
+   "VL_1": "אוף! עוד פעם."
+  },
+  "VO_DB_Clockwork_Outside_HelltowerSuccess_Cody": {
+   "VL_0": "ווהו! אני על גג העולם!"
+  },
+  "VO_DB_Clockwork_Outside_HelltowerSuccess_May": {
+   "VL_0": "יאללה, שירד גשם!"
+  },
+  "VO_DB_Clockwork_Outside_HorseDerby_Approach_Cody_010": {
+   "Line_1": "או, היי, זה מירוץ סוסים!",
+   "Line_2": "בואי נצא לרכיבה, מיי!"
+  }
+ }
+}

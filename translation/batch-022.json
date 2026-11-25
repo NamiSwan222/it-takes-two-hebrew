@@ -1,0 +1,496 @@
+{
+ "Nuts": {
+  "VO_DB_Garden_FrogPond_MainFountainPuzzle_Hatch": {
+   "VL_0": "טוב מיי, תיכנסי!",
+   "VL_1": "אוקיי! ומה איתך?",
+   "VL_2": "אני אקח את הצפרדע. תראי מה את מוצאת בפנים."
+  },
+  "VO_DB_Garden_FrogPond_MainFountainPuzzle_Hint_Cody_010": {
+   "Line_1": "הגועל הסגול הזה חוסם את הדרך.",
+   "Line_2": "צריך למצוא דרך לעבור אותו."
+  },
+  "VO_DB_Garden_FrogPond_MainFountainPuzzle_Hint_May": {
+   "VL_0": "קודי, מה עם הפתח הזה? אתה יכול לפתוח אותו?"
+  },
+  "VO_DB_Garden_FrogPond_MainFountainPuzzle_TaxiStand": {
+   "VL_0": "אוקיי, סוף הנסיעה. זהו, הגענו!",
+   "VL_1": "מעולה. תודה על הטרמפ."
+  },
+  "VO_DB_Garden_FrogPond_MainFountainPuzzle_Top": {
+   "VL_0": "אוף, נו, אפשר לרדת עכשיו.",
+   "VL_1": "אה! ...זהו?",
+   "VL_2": "אוח, אתם כבדים. תרדו כבר!",
+   "VL_3": "אוקיי, אוקיי. תודה על הטרמפ, חבר.",
+   "VL_4": "אוחח, אני צריך מנוחה."
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_LilyPads_Cody_020": {
+   "Line_1": "לא-לא-לא-לא! רגע, אני לא שתלתי את זה!",
+   "Line_2": "באתי להיפטר מזה!"
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_LilyPads_FrogFrench": {
+   "VL_2": "לנקות הכול. לנקות את הזבל הסגול הזה! אוי...",
+   "VL_3": "טוב, טוב!"
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_LilyPads_FrogFrench_010": {
+   "Line_1": "אתה רואה, הסגול הזה הוא צבע כזה מכוער!",
+   "Line_2": "אין לכם שום טעם.",
+   "Line_3": "אתם, העמים האמריקאים."
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_LilyPads_FrogNY_010": {
+   "Line_1": "תסתכלו על הזבל הסגול הזה!",
+   "Line_2": "הוא בכל מקום!",
+   "Line_3": "הוא הורס את ה... אווירה,",
+   "Line_4": "מבינים מה אני אומר?"
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_LilyPads_May_020": {
+   "Line_1": "כן, זה נורא.",
+   "Line_2": "אבל באנו למצוא את המקור ולנקות את זה!"
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_MainFountainPuzzle": {
+   "VL_1": "כן, הדבר הזה מכוער.",
+   "VL_2": "איכס, זה מסריח.",
+   "VL_3": "טוב, את זה אני מנקה!"
+  },
+  "VO_DB_Garden_FrogPond_PurpleInfection_MainFountainPuzzle_FrogFrench_010": {
+   "Line_1": "תראו את כל הזבל הסגול הזה.",
+   "Line_2": "אני לא אוהב את זה.",
+   "Line_3": "זה לא צבע מתוחכם!"
+  },
+  "VO_DB_Garden_FrogPond_Respawn_Generic": {
+   "VL_0": "וואו-אההה! אלוהים, אני מזדקן.",
+   "VL_1": "אל תגיד את זה. אתה הולך מעולה!"
+  },
+  "VO_DB_Garden_FrogPond_ScalePuzzle_Jump": {
+   "VL_0": "תחזיק מעמד! ",
+   "VL_1": "אני משתדל!",
+   "VL_2": "אוף! אוי, הגב שלי הורג אותי!"
+  },
+  "VO_DB_Garden_FrogPond_SinkingPuzzle_Cody": {
+   "VL_0": "או-או... זה שוקע!"
+  },
+  "VO_DB_Garden_FrogPond_SinkingPuzzle_Complete_FrenchFrog": {
+   "VL_0": "אתה בסדר, צפרדע?",
+   "VL_2": "נכון. אולי פעם אנסה את תנוחת הצפרדע מביטה מטה."
+  },
+  "VO_DB_Garden_FrogPond_SinkingPuzzle_Complete_FrogFrench_020": {
+   "Line_1": "יש לי גב חזק, אתה מבין.",
+   "Line_2": "כי אני עושה את ה... יוגה כל יום."
+  },
+  "VO_DB_Garden_FrogPond_SinkingPuzzle_Complete_FrogNY": {
+   "VL_0": "איך הולך שם מאחורה?",
+   "VL_2": "כן, הטרמפ הכי טוב בגינה הזאת!"
+  },
+  "VO_DB_Garden_FrogPond_SinkingPuzzle_Complete_May_020": {
+   "Line_1": "טוב, תודה.",
+   "Line_2": "זה יותר נוח ממה שדמיינתי."
+  },
+  "VO_DB_Garden_FrogPond_SinkingPuzzle_May": {
+   "VL_0": "כדאי שנזדרז עם זה!"
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Approach_Cody_010": {
+   "Line_1": "הממ.",
+   "Line_2": "חלזונות.",
+   "Line_3": "וקו זינוק.",
+   "Line_4": "אנחנו באמת הולכים לעשות מרוץ?"
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Approach_May": {
+   "VL_0": "חלזונות! זה מרוץ חלזונות!"
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_CodyWins": {
+   "VL_0": "יש! תאכלי ריר!",
+   "VL_1": "כל הקרדיט הולך לחילזון שלך."
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_MayWins": {
+   "VL_0": "ניצחנו! כל הכבוד, חילזון! "
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_MayWins_Cody_020": {
+   "Line_1": "מריח פה מרמה.",
+   "Line_2": "מה החילזון שלך אוכל בכלל?"
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Start": {
+   "VL_0": "למקומות...",
+   "VL_1": "היכון...",
+   "VL_2": "לאט!"
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Taunt_Cody": {
+   "VL_1": "קדימה חבר, בוא ננצח את מיי והחילזון הלוזר שלה!"
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Taunt_Cody_010": {
+   "Line_1": "קדימה חילזון!",
+   "Line_2": "קדימה."
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Taunt_Cody_030": {
+   "Line_1": "אנחנו גולשים אל הניצחון!",
+   "Line_2": "מתישהו."
+  },
+  "VO_DB_Garden_Frogpond_SnailRace_Taunt_May": {
+   "VL_0": "תחליק, חילזון, תחליק!",
+   "VL_1": "איזה מהלכים, חילזון!",
+   "VL_2": "קדימה, בוא נראה לקודי מי הצוות הכי מהיר!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControl_Halfway_Cody": {
+   "VL_0": "אנחנו נרפא אותך, ג'וי, אני מבטיח!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControl_Hint_Cody_010": {
+   "Line_1": "אני הולך...",
+   "Line_2": "להוריד את החלק הנגוע",
+   "Line_3": "כדי שתוכלי להסיר אותו."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControl_Hint_May_020": {
+   "Line_1": "אני אהיה פה, סתם קוצצת יצורים!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControl_Prep_Cody_010": {
+   "Line_1": "זהו, גמרנו את כולם.",
+   "Line_2": "מיי, תני לי קצת מים שם.",
+   "Line_3": "אני אנסה להוציא את ג'וי מזה."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControlPhaseThree_Halfway_Cody_010": {
+   "Line_1": "אני מרגיש את הכאב שלך, ג'וי. אוף!",
+   "Line_2": "ואנחנו ניפטר ממנו",
+   "Line_3": "אחת ולתמיד!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControlPhaseThree_Prep_Cody": {
+   "VL_0": "זהו זה. אני מרגיש שאנחנו פורצים דרך!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControlPhaseTwo_Halfway_Cody_010": {
+   "Line_1": "את חזקה, ג'וי.",
+   "Line_2": "אבל אני אעשה מה שהכי טוב בשבילך."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_CodyTakesControlPhaseTwo_Prep_Cody_010": {
+   "Line_1": "אני נכנס שוב בשביל ג'וי.",
+   "Line_2": "נראה לי שאני מתחיל להגיע אליה."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_EnemyGeneric_Cody": {
+   "VL_0": "בואי נחסל אותם, מיי!",
+   "VL_1": "תעשי את מה שאת הכי טובה בו, מיי! תשתמשי במגל!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_EnemyGeneric_May": {
+   "VL_0": "תסתער על הדברים האלה, קודי!",
+   "VL_1": "תן להם חזק, קודי! יש לך יד כבדה."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_EnemyWarning_May": {
+   "VL_0": "עוד יצורים!",
+   "VL_1": "יצורים בדרך!",
+   "VL_2": "הם פשוט לא מפסיקים לרדת לפה!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_GooSpitterIntro_May_010": {
+   "Line_1": "קודי, הדברים האלה",
+   "Line_2": "מפיצים את השרף הסגול!",
+   "Line_3": "תעצור אותם!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_GooSpitterSickle_May": {
+   "VL_0": "המגל שלי לא עובד!",
+   "VL_1": "העור שלו קשה מדי!",
+   "VL_2": "אני צריכה עזרה פה!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_GooSpitterSpawn_Cody": {
+   "VL_0": "הם עומדים לירוק עוד שרף סגול!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_GooSpitterSpawn_May": {
+   "VL_0": "יש לנו עוד יצור שרף נגוע!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_Lime": {
+   "VL_0": "זאת הצורה הסופית שלך?",
+   "VL_1": "כוחם של ההדרים גובר על הכול."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_LimeAttack_Cody": {
+   "VL_0": "ששששה!",
+   "VL_1": "הסתערות ליים!",
+   "VL_2": "תרגישו את הצריבה!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_PlantsPhase2_May": {
+   "VL_0": "היא לא מקשיבה, קודי!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_PlantsPhase3_May": {
+   "VL_0": "אוי חרא, הנה היא באה שוב!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_Potato": {
+   "VL_0": "קודי, תמיד ידעתי שאתה בטטה!",
+   "VL_1": "ברצינות, את באמת חושבת שזה הזמן לבדיחות?!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_PotatoAttack_Cody": {
+   "VL_0": "ראה!",
+   "VL_1": "הסתערות תפוח אדמה!",
+   "VL_2": "צ'יפס!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_Tomato": {
+   "VL_0": "\nאתה נראה עסיסי!",
+   "VL_1": "את יכולה להתרכז?!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_TomatoAttack_Cody": {
+   "VL_0": "היאה!",
+   "VL_1": "הסתערות עגבנייה!",
+   "VL_2": "ארצה!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_VinesPhase2": {
+   "VL_2": "אני רואה! ג'וי, באנו להציל אותך. בבקשה, תפסיקי!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_VinesPhase2_Cody_010": {
+   "Line_1": "כל הכבוד, מיי."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_VinesPhase2_May_020": {
+   "Line_1": "אסור לנוח עדיין!",
+   "Line_2": "משהו צומח ממנה!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_VinesPhase3": {
+   "VL_0": "נראה לי שאנחנו מתקדמים.",
+   "VL_1": "לעזאזל, קודי."
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_WaterGunHint": {
+   "VL_0": "מיי, השרף הסגול הזה נראה רעיל. תשטפי אותו!",
+   "VL_1": "טוב, הבנתי!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_WeakSpotPhaseOne_Cody": {
+   "VL_0": "זה הסיכוי שלך, מיי!",
+   "VL_1": "תחתכי את הזיהום, מיי!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_WeakSpotPhaseThree_Cody": {
+   "VL_0": "זהו... זה... מיי! תגמרי את זה!",
+   "VL_1": "למה את... מחכה?! תעזרי לג'וי!"
+  },
+  "VO_DB_Garden_Greenhouse_BossFight_WeakSpotPhaseTwo_Cody": {
+   "VL_0": "מיי, למעלה! פתחתי את זה שוב!",
+   "VL_1": "תחזרי לפה, מיי. אני לא אוכל להחזיק את ג'וי עוד הרבה!"
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_EnemyDefeat_May": {
+   "VL_0": "וככה עושים את זה."
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_EnemySpawn": {
+   "VL_0": "זהירות, מיי! עוד יצורים מגעילים.",
+   "VL_1": "אני מוכנה לקצוץ אותם!"
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_EnemySpawn_Cody_030": {
+   "Line_1": "כן.",
+   "Line_2": "נמאס לי מכל",
+   "Line_3": "היצורים, הזיהומים, המזיקים!",
+   "Line_4": "החוצה מהחממה שלי!"
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_Flower": {
+   "VL_1": "תודה, מיי. רואה? בגלל זה אני אוהב גינון!"
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_Flower_May_010": {
+   "Line_1": "וואו.",
+   "Line_2": "זה ממש קסום לראות אותך",
+   "Line_3": "גורם לכל זה לצמוח."
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_PurpleGoo_Cody": {
+   "VL_0": "היי מיי, יש פה עוד גועל סגול."
+  },
+  "VO_DB_Garden_Greenhouse_BottomFloor_PurpleGooWater_Cody": {
+   "VL_0": "אהההה, ככה הרבה יותר טוב!"
+  },
+  "VO_DB_Garden_Greenhouse_FinalInfection": {
+   "VL_1": "אני מוכנה אם אתה מוכן."
+  },
+  "VO_DB_Garden_Greenhouse_FinalInfection_Cody_010": {
+   "Line_1": "זהו.",
+   "Line_2": "נשאר לנו רק האחרון.",
+   "Line_3": "רוצה לעשות את הכבוד, מיי?"
+  },
+  "VO_DB_Garden_Greenhouse_GardenTool_Death_Cody": {
+   "VL_0": "אוף! מה היא עושה?"
+  },
+  "VO_DB_Garden_Greenhouse_GardenTool_Death_May": {
+   "VL_0": "מי שם את זה שם?!"
+  },
+  "VO_DB_Garden_Greenhouse_Magic_Mushrooms_Cody": {
+   "VL_0": "וואווו, זה פסיכדלי.",
+   "VL_1": "הה-מה-מה-מה-מה.",
+   "VL_2": "וואווו, היי... זה מדגדג."
+  },
+  "VO_DB_Garden_Greenhouse_Magic_Mushrooms_May": {
+   "VL_0": "ווהו!",
+   "VL_1": "פיוו!",
+   "VL_2": "אוי אלוהים!"
+  },
+  "VO_DB_Garden_Greenhouse_SecondWave_EnemyDefeat_Cody": {
+   "VL_0": "טוב, בואי ניפטר מהזיהום."
+  },
+  "VO_DB_Garden_Greenhouse_SecondWave_EnemySpawn_Cody": {
+   "VL_0": "עוד גל שלהם, מיי!"
+  },
+  "VO_DB_Garden_Greenhouse_ThirdWave_EnemyDefeat_May": {
+   "VL_0": "הה, המגל שלי עדיין חד. ועכשיו לזיהום!"
+  },
+  "VO_DB_Garden_Greenhouse_ThirdWave_EnemySpawn_May": {
+   "VL_0": "אה, אתם רוצים עוד?!"
+  },
+  "VO_DB_Garden_MoleTunnels_AfterStealth": {
+   "VL_0": "אוי! אוי, הצלחנו! הה הה! הלב שלי דופק.",
+   "VL_3": "כן, אז ממשיכים."
+  },
+  "VO_DB_Garden_MoleTunnels_AfterStealth_Cody_030": {
+   "Line_1": "אני ממש רוצה להיפטר מכל",
+   "Line_2": "המזיקים והזיהומים האלה.",
+   "Line_3": "הם לא שייכים לפה."
+  },
+  "VO_DB_Garden_MoleTunnels_AfterStealth_May_020": {
+   "Line_1": "כן...",
+   "Line_2": "היי קודי,",
+   "Line_3": "אני שמחה שאתה רוצה לטפל בגינה שוב."
+  },
+  "VO_DB_Garden_MoleTunnels_CentipedeCrawl": {
+   "VL_1": "נראה לי שהוא מת, קודי."
+  },
+  "VO_DB_Garden_MoleTunnels_CentipedeCrawl_Cody_010": {
+   "Line_1": "אוי, בבקשה אל תאכל אותי, אדון נדל.",
+   "Line_2": "בבקשה אל תאכל אותי."
+  },
+  "VO_DB_Garden_MoleTunnels_Exploration": {
+   "VL_1": "אני לא רואה דרך אחרת לצאת מפה."
+  },
+  "VO_DB_Garden_MoleTunnels_Exploration_Cody_010": {
+   "Line_1": "אהה, זה מתחיל לא למצוא חן בעיניי.",
+   "Line_2": "אנחנו באמת חייבים להיכנס?"
+  },
+  "VO_DB_Garden_MoleTunnels_GenericChase_Cody": {
+   "VL_0": "הצילו! הצילו!",
+   "VL_1": "אוי ואבוי! חייב לרוץ! חייב... לזוז! מהר!",
+   "VL_2": "אני לא תולעת. יש לי טעם ממש רע!",
+   "VL_3": "נו באמת, אני לא רוצה למות ככה!"
+  },
+  "VO_DB_Garden_MoleTunnels_GenericChase_May": {
+   "VL_0": "היא מתקרבת!",
+   "VL_1": "הלוואי שהיו לי רגליים ארוכות יותר!",
+   "VL_2": "אני לא יכולה לרוץ יותר מהר!",
+   "VL_3": "אוקיי, בלי חפרפרות כחיות מחמד!"
+  },
+  "VO_DB_Garden_MoleTunnels_GroundPoundMoleEnd": {
+   "VL_0": "לעזאזל, לבררררוח!",
+   "VL_1": "אההההה!!!"
+  },
+  "VO_DB_Garden_MoleTunnels_GroundPoundMoleHalfway_Cody": {
+   "VL_0": "עוד קצת!"
+  },
+  "VO_DB_Garden_MoleTunnels_GroundPoundMoleStart_May_010": {
+   "Line_1": "ממש...",
+   "Line_2": "נמאס לי...",
+   "Line_3": "מהחפרפרות האלה!",
+   "Line_4": "תדחוף אותה למטה!"
+  },
+  "VO_DB_Garden_MoleTunnels_MoleChase_Below": {
+   "VL_0": "יש עוד מתחתינו!",
+   "VL_1": "אני לא רוצה לדעת את זה!"
+  },
+  "VO_DB_Garden_MoleTunnels_ShellWalkFirst_Cody": {
+   "VL_0": "אוף, קונכיות! הן כל כך רועשות."
+  },
+  "VO_DB_Garden_MoleTunnels_ShellWalkFirst_May": {
+   "VL_0": "לעזאזל, אוף! הן עושות כזה רעש."
+  },
+  "VO_DB_Garden_MoleTunnels_Slomo_Sequence_Cody": {
+   "VL_0": "וואו... אחורה, אחורה, אחורה!"
+  },
+  "VO_DB_Garden_MoleTunnels_Slomo_Sequence_May": {
+   "VL_0": "אחורה, אחורה, אחורה!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_FirstWaterPlant_Cody": {
+   "VL_0": "תכווני בזהירות, מיי."
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_MoleSneeze": {
+   "VL_0": "איכס!",
+   "VL_1": "תמשיך לזוז ותתמודד עם זה!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthDialogueFirst": {
+   "VL_0": "זהירות, קודי. אל תעיר את הענקים."
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthDialogueFirst_Cody_020": {
+   "Line_1": "אני סופר זהיר.",
+   "Line_2": "את זאת שהיא לא שיח מתגנב!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthDialogueFourth": {
+   "VL_0": "אם הם מתעוררים, את מתה.",
+   "VL_1": "אם תנטוש אותי, אני לוקחת אותך איתי!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthDialogueSecond": {
+   "VL_0": "אולי יש להם שינה עמוקה...",
+   "VL_1": "אני לא רוצה להמר על זה."
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthDialogueThird": {
+   "VL_1": "ששששש. תשמור את זה לאחר כך, קודי."
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthDialogueThird_Cody_010": {
+   "Line_1": "תראי כמה הם!",
+   "Line_2": "הם הורסים לי את הגינה עם המנהרות שלהם."
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthWarning_Cody": {
+   "VL_0": "וואו, וואו, וואו! לאט לאט!",
+   "VL_1": "וואו, וואו, וואו, לאט לאט! רגע, בשקט!",
+   "VL_2": "הם עוד יתעוררו!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBush_StealthWarning_May": {
+   "VL_0": "אוי, לעזאזל!",
+   "VL_1": "לאט!",
+   "VL_2": "זה רועש מדי!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBushTransform": {
+   "VL_0": "וואו, תראה אותך. אתה נראה כל כך רך ו... מתגנב!"
+  },
+  "VO_DB_Garden_MoleTunnels_SneakyBushTransform_Cody_020": {
+   "Line_1": "הה הה. פשוט בואי כבר.",
+   "Line_2": "זה לא שנוח לי פה.",
+   "Line_3": "והיי, כדאי שתרחיקי ממני את המגל הזה."
+  },
+  "VO_DB_Garden_MoleTunnels_StartChase": {
+   "VL_0": "לבררררוח!",
+   "VL_1": "אוי! למה היית חייבת לפתוח פה לשטן?!",
+   "VL_2": "סליחה?! אני לא הכנסתי חפרפרות רוצחות לגינה שלנו!",
+   "VL_3": "נדבר על זה אחר כך!"
+  },
+  "VO_DB_Garden_MoleTunnels_StealthDialogueFirst": {
+   "VL_0": "הם בעצם די חמודים!",
+   "VL_1": "ראית את השיניים והציפורניים? אין מצב!"
+  },
+  "VO_DB_Garden_MoleTunnels_StealthDialogueSecond": {
+   "VL_0": "אני מרגישה שאנחנו פולשים להם לפרטיות!",
+   "VL_1": "\nמסכים. בואי נסתלק מפה כמה שיותר מהר!"
+  },
+  "VO_DB_Garden_MoleTunnels_StealthEnd": {
+   "VL_1": "הגיע הזמן לעשות את מה שאנחנו הכי טובים בו."
+  },
+  "VO_DB_Garden_MoleTunnels_StealthEnd_May_010": {
+   "Line_1": "הצלחנו.",
+   "Line_2": "סוף סוף, בלי חפרפרות.",
+   "Line_3": "אוי תראה, יש עוד צמח סגול!"
+  },
+  "VO_DB_Garden_MoleTunnels_StealthWarning_Cody": {
+   "VL_0": "שששששש!",
+   "VL_1": "מיי, שקט!",
+   "VL_2": "תירגעי, מיי!"
+  },
+  "VO_DB_Garden_MoleTunnels_StealthWarning_May": {
+   "VL_0": "תירגע, קודי!",
+   "VL_1": "יותר בשקט, קודי!",
+   "VL_2": "קודי, לאט!"
+  },
+  "VO_DB_Garden_Shrubbery_ApproachSecondSpider": {
+   "VL_0": "עוד עכביש! צריך להוציא אותו משם!",
+   "VL_1": "אוו כן, אוי, הוא לכוד."
+  },
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_Approach_Cody": {
+   "VL_0": "היי מיי, מה לדעתך בנה את הדבר הזה?"
+  },
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_Approach_May_010": {
+   "Line_1": "מעניין. זה כמו גורד שחקים.",
+   "Line_2": "קודי, מה אתה אומר על זה?"
+  },
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_CodyWins": {
+   "VL_0": "המשחק נגמר!",
+   "VL_1": "הם בטח היו מורעבים."
+  },
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_MayWins": {
+   "VL_0": "ניצחתי! והם שבעים. כולם מרוויחים!",
+   "VL_1": "אה כן, הם בטוח שבעים עכשיו."
+  },
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_Start": {
+   "VL_0": "אתה לא זוכר? אני צלפית.",
+   "VL_1": "כן, אבל אלה מטרות זזות.",
+   "VL_2": "זה רק הופך את זה ליותר כיף!"
+  },
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_Taunt_Cody": {
+   "VL_0": "תאכלו את זה!",
+   "VL_1": "מביא הביתה את הפרנסה!",
+   "VL_2": "בתיאבון!"
+  }
+ }
+}

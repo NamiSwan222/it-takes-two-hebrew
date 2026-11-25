@@ -1,0 +1,258 @@
+{
+ "Nuts": {
+  "EULA": {
+   "AcceptButton_EU": "המשך",
+   "AcceptButton_WW": "אישור",
+   "AcceptQuestion_EU": "אני מקבל/ת את הסכם המשתמש ומבין/ה שמדיניות הפרטיות והעוגיות של EA חלה על השימוש שלי בשירותי EA. אני מסכים/ה שכל מידע אישי שנאסף במהלך השימוש שלי בשירותי EA יועבר ל-EA בארצות הברית, כמפורט במדיניות הפרטיות והעוגיות.",
+   "AcceptQuestion_WW": "קראתי ואני מקבל/ת את הסכם המשתמש ואת מדיניות הפרטיות והעוגיות של EA.",
+   "Decline_Continue": "המשך",
+   "Decline_Exit": "יציאה מהמשחק",
+   "DeclineButton_EU": "ביטול",
+   "DeclineButton_WW": "דחייה",
+   "DeclinePrompt_EU": "כדי לשחק במשחק הזה יש לקבל את הסכם המשתמש. מדיניות הפרטיות והעוגיות של EA חלה עליך.",
+   "DeclinePrompt_WW": "כדי לשחק במשחק הזה יש לקבל את הסכם המשתמש ואת מדיניות הפרטיות והעוגיות של EA.",
+   "NextButton": "הבא"
+  },
+  "EV_Music_Backstage_Jukebox_CoinSuck": {
+   "Line_1": "CC: (קודי נאנק)",
+   "Line_2": "CC: (קודי צועק)\n(קודי ומיי נאנקים)",
+   "Line_3": "CC: (מיי צועקת)\n(קודי ומיי נאנקים)"
+  },
+  "EV_Tree_Boat_Ending_BoatSwarmCreation": {
+   "Line_1": "CC: (מים שוצפים)\n(רוח מייללת)",
+   "Line_2": "CC: - [מיי] כולם לעמדות.\nסערה מתקרבת.\nNO_CC: - כולם לעמדות.\nסערה מתקרבת."
+  },
+  "GameInvite": {
+   "AnswerPrompt": "לקבל את ההזמנה להצטרף ללובי המקוון של It Takes Two?",
+   "InviteText": "הזמין/ה אותך לשחק ב-It Takes Two"
+  },
+  "GiantBeetle": {
+   "Name": "חיפושית ענקית"
+  },
+  "HazeAnimNode_SequencePlayer": {
+   "AdditiveMismatchWarning": "ניסיון להפעיל אנימציה לא-אדיטיבית '{0}' על תנוחה שאמורה להיות אדיטיבית במופע האנימציה '{1}'"
+  },
+  "Hazeboy": {
+   "GiveUp": "לוותר"
+  },
+  "KingAndQueen": {
+   "Name": "המלך והמלכה"
+  },
+  "LarvaBasket": {
+   "GiveUp": "לוותר"
+  },
+  "Lobby": {
+   "CancelLeaveLobby": "ביטול",
+   "ConfirmLeaveLobby": "התנתקות",
+   "LeavyLobbyQuestion": "להתנתק מהלובי המקוון?",
+   "LocalPlayer": "שחקן/ית מקומי/ת",
+   "RemotePlayer": "שחקן/ית מרוחק/ת"
+  },
+  "LobbyFriend": {
+   "BlockedState": "חסום",
+   "BlockFriend": "חסימה",
+   "BlockQuestion": "לחסום את {0}?",
+   "BlockQuestion_Platform": "לחסום את {0}? ייתכן שיהיה צורך לחסום גם ברמת הפלטפורמה.",
+   "FriendRequestReceived": "התקבלה בקשת חברות",
+   "FriendRequestReceived_Sage": "התקבלה בקשת חברות",
+   "FriendRequestSent": "נשלחה בקשת חברות",
+   "FriendRequestSent_Sage": "נשלחה בקשת חברות",
+   "NotFriendState": "לא חברים",
+   "NotFriendState_Sage": "לא חברים",
+   "OfflineState": "לא מחובר",
+   "OnlineState": "מחובר",
+   "OtherGameState": "משחק במשחק אחר",
+   "RemoveFriend": "הסרת חבר",
+   "RemoveFriend_Sage": "הסרת חבר",
+   "SteamNetworkLabel": "Steam:",
+   "ThisGameState": "משחק ב-It Takes Two",
+   "ThisGameStateLobby": "It Takes Two - לובי מקוון",
+   "UnfriendQuestion": "להסיר את {0} מרשימת החברים ב-EA?",
+   "UnfriendQuestion_Sage": "להסיר את {0} מרשימת החברים ב-EA?",
+   "XboxNetworkLabel": "Gamertag:"
+  },
+  "LobbyPlayers": {
+   "EAFriendsList_AddFriend_Sage": "הוספת חבר ב-EA",
+   "EAFriendsList_AddFriendDescription_Sage": "הוספת חבר לרשימת החברים ב-EA באמצעות חיפוש שם חשבון ה-EA שלו",
+   "EAFriendsList_Sage": "רשימת חברים ב-EA",
+   "InviteEAFriends_Description_Sage": "ניהול רשימת החברים ב-EA ושליחת הזמנות לחברים שמשחקים בפלטפורמות אחרות",
+   "InviteSteam": "הזמנת חבר דרך Steam",
+   "InviteSteam_Description": "שליחת הזמנה למשחק לחבר מרשימת החברים ב-Steam",
+   "InviteXbox": "הזמנת חבר דרך רשת Xbox",
+   "InviteXbox_Description": "שליחת הזמנה למשחק לחבר שמשחק ב-Xbox",
+   "RequestFriend_Sage": "שליחת בקשת חברות",
+   "Unfriend_Sage": "הסרה מחברי EA"
+  },
+  "LobybPlayers": {
+   "AcceptFriend_Sage": "אישור בקשת חברות",
+   "CancelFriend_Sage": "ביטול בקשת חברות",
+   "DeclineFriend_Sage": "דחיית בקשת חברות"
+  },
+  "LongKeyboardKeys": {
+   "Backspace": "Backspace",
+   "CapsLock": "Caps Lock",
+   "Delete": "Delete",
+   "DownArrow": "חץ למטה",
+   "End": "End",
+   "Enter": "Enter",
+   "Escape": "Escape",
+   "Home": "Home",
+   "Insert": "Insert",
+   "LeftAlt": "Alt שמאלי",
+   "LeftArrow": "חץ שמאלה",
+   "LeftControl": "Control שמאלי",
+   "LeftMouseButton": "לחצן עכבר שמאלי",
+   "LeftShift": "Shift שמאלי",
+   "MiddleMouseButton": "לחצן עכבר אמצעי",
+   "NumLock": "Num Lock",
+   "NumPadEight": "Num 8",
+   "NumPadFive": "Num 5",
+   "NumPadFour": "Num 4",
+   "NumPadNine": "Num 9",
+   "NumPadOne": "Num 1",
+   "NumPadSeven": "Num 7",
+   "NumPadSix": "Num 6",
+   "NumPadThree": "Num 3",
+   "NumPadTwo": "Num 2",
+   "NumPadZero": "Num 0",
+   "PageDown": "Page Down",
+   "PageUp": "Page Up",
+   "Pause": "Pause",
+   "RightAlt": "Alt ימני",
+   "RightArrow": "חץ ימינה",
+   "RightControl": "Control ימני",
+   "RightMouseButton": "לחצן עכבר ימני",
+   "RightShift": "Shift ימני",
+   "ScrollLock": "Scroll Lock",
+   "Spacebar": "רווח",
+   "Tab": "Tab",
+   "ThumbMouseButton": "לחצן אגודל בעכבר",
+   "ThumbMouseButton2": "לחצן אגודל 2 בעכבר",
+   "UpArrow": "חץ למעלה"
+  },
+  "LS_Clockwork_LowerTower_EvilBirdRoom_EvilBirdFlying": {
+   "Line_2": "CC: (הגשר נסדק)",
+   "Line_3": "CC: (קודי ומיי צורחים)",
+   "Line_4": "CC: - [קודי] אוי לא-לא-לא-לא-לא!\nNO_CC: - אוי לא-לא-לא-לא-לא!",
+   "Line_5": "CC: (מיי צורחת)",
+   "Line_6": "מיי!!",
+   "Line_7": "CC: - [מיי] תחזיק מעמד, קודי!\nNO_CC: - תחזיק מעמד, קודי!",
+   "Line_8": "CC: (זכוכית מתנפצת)",
+   "Line_9": "CC: (מיי וקודי צורחים)",
+   "Line_10": "CC: (ציפור צווחת)",
+   "Line_11": "CC: - [מיי] זהירות!\nNO_CC: - זהירות!",
+   "Line_12": "CC: - [קודי] לא-לא-לא-לא-לא!!\nNO_CC: - לא-לא-לא-לא-לא!!",
+   "Line_13": "CC: (זכוכית מתנפצת)\n(מיי צורחת)"
+  },
+  "MainMenu": {
+   "PromoQRCodeText": "גלו את המשחק הבא שלנו",
+   "PromoText": "גלו את המשחק החדש שלנו",
+   "PromoTextPreRelease": "גלו את המשחק הבא שלנו"
+  },
+  "Melee": {
+   "MeleeKickTutorial": "בעיטה",
+   "MeleePunchTutorial": "אגרוף"
+  },
+  "MessageDialog": {
+   "CancelResponse": "ביטול",
+   "ConfirmResponse": "אישור",
+   "OKResponse": "אישור"
+  },
+  "Minigames": {
+   "Baseball": "בייסבול",
+   "BumblebeeBasket": "סל הדבורים",
+   "SpeedItUp": "להאיץ את הקצב",
+   "ThrowingHoops": "זריקה לטבעות"
+  },
+  "MinigameSelect": {
+   "CancelPrompt": "ביטול",
+   "PlayMinigame": "הפעלת המיני-משחק",
+   "Prompt": "לשחק במיני-משחק שנבחר?\nההתקדמות מאז השמירה האחרונה תאבד."
+  },
+  "MoonBaboon": {
+   "Name": "בבון הירח"
+  },
+  "MortarWasp": {
+   "2A8703AE4F26ABE2814CAF8BBF5DF610": "צרעת מרגמה"
+  },
+  "Online": {
+   "HostEADescription": "חברים שמשחקים ב-It Takes Two ב-Steam או באפליקציית EA יכולים להצטרף למשחק.\r\nכדי לשחק בשרתי EA, שני השחקנים צריכים להיות מחוברים לחשבון EA.",
+   "HostEATitle": "אירוח בשרתי EA",
+   "HostSteamTitle": "אירוח דרך Steam"
+  },
+  "OnlineLobby": {
+   "VersionMismatch": "לא ניתן להתחבר ללובי המשחק: השחקנים משתמשים בגרסאות משחק לא תואמות."
+  },
+  "OnlineRichPresence": {
+   "MainMenu": "תפריט ראשי",
+   "OnlineLobby": "לובי מקוון"
+  },
+  "OptionsMenu": {
+   "Back": "חזרה",
+   "KeepResolutionChange": "שמירת הרזולוציה",
+   "PromptReset": "לאפס את כל ההגדרות לערכי ברירת המחדל?",
+   "PromptResolutionChange": "לשמור את שינויי הרזולוציה?\n\nחזרה להגדרות הקודמות בעוד {} שניות.",
+   "ResetAllSettings": "איפוס כל ההגדרות"
+  },
+  "PauseMenu": {
+   "AcceptReturn": "חזרה לתפריט הראשי",
+   "CancelReturn": "ביטול",
+   "PromptReturnToMainMenu": "לחזור לתפריט הראשי?\nההתקדמות מאז השמירה האחרונה תאבד."
+  },
+  "PickupSystem": {
+   "PutDownPrompt": "הנחה",
+   "ThrowPrompt": "זריקה"
+  },
+  "PirateOctopus": {
+   "Name": "תמנון ענק"
+  },
+  "Plants": {
+   "Name": "יציאה מהאדמה"
+  },
+  "PlungerDunger": {
+   "GiveUp": "לוותר"
+  },
+  "ProgressStatics": {
+   "ChapterLockedMessage": "הפרק שנבחר עדיין לא נפתח."
+  },
+  "SAGEONLINE": {
+   "StandardConnectionLostErrorMessage": "Nintendo - החיבור אבד."
+  },
+  "SelfieCamera": {
+   "Prompt": "צילום תמונה"
+  },
+  "ShortKeyboardKeys": {
+   "Backspace": "BS",
+   "CapsLock": "CAPS",
+   "Escape": "ESC",
+   "LeftAlt": "LALT",
+   "LeftControl": "LCTRL",
+   "LeftMouseButton": "LMB",
+   "LeftShift": "LSHIFT",
+   "MiddleMouseButton": "MMB",
+   "NoKeyBound": "לא מוגדר",
+   "NumLock": "NUM",
+   "PageDown": "PgDn",
+   "PageUp": "PgUp",
+   "RightAlt": "RALT",
+   "RightControl": "RCTRL",
+   "RightMouseButton": "RMB",
+   "RightShift": "RSHIFT",
+   "ScrollLock": "SCROLL",
+   "Spacebar": "רווח"
+  },
+  "SlotCar": {
+   "StartRaceTutorial": "התחלת מירוץ"
+  },
+  "SONYONLINE": {
+   "ActivityLaunchErrorMessage": "שגיאה בהפעלת הפעילות."
+  },
+  "Spider": {
+   "SpiderAimWebTutorial": "כיוון רשת",
+   "SpiderShootWebTutorial": "ירי רשת"
+  },
+  "SteeringInvertTutorial": {
+   "SteeringInvertKeepTutorialPrompt": "אפשר לשנות את היפוך ההיגוי בתפריט האפשרויות."
+  }
+ }
+}

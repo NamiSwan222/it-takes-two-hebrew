@@ -1,0 +1,15 @@
+{
+  "id": "it-takes-two",
+  "name": "It Takes Two",
+  "nameHe": "צריך שניים",
+  "engine": "unreal",
+  "aboutHe": "תרגום מלא לעברית של כל הטקסט במשחק: תפריטים, הוראות, מיני-משחקים וכל הכתוביות. כתיבה מימין לשמאל ופונט עברי. העברית פעילה רק כשמפעילים מהמשגר; השותף/ה באונליין לא צריך/ה את התרגום. מתאים לגרסת Steam.",
+  "detect": {
+    "steamAppId": "1426210",
+    "epicAppName": null,
+    "markerFile": "Nuts/Binaries/Win64/ItTakesTwo.exe",
+    "processNames": ["ItTakesTwo.exe"]
+  },
+  "pack": { "github": "NamiSwan222/it-takes-two-hebrew", "tag": "it-takes-two-*", "asset": "it-takes-two-he-*.zip" },
+  "requires": []
+}
