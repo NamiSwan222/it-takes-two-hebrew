@@ -81,6 +81,15 @@ strings, including all cutscene and in-game subtitles (`CS_*`, `VO_*`). Strings 
 Made for the Steam build 26237470. The pack checks the game's exe. After a game update, rebuild:
 existing Hebrew is kept by key, and `coverage` lists new or changed lines.
 
+## Third-party downloads
+
+| what | version | from |
+|---|---|---|
+| Rubik variable fonts (`Rubik[wght].ttf`, `Rubik-Italic[wght].ttf`, `OFL.txt`) | google/fonts `main`, Nov 2026 | https://github.com/google/fonts/tree/main/ofl/rubik |
+
+No repak, UnrealPak or other pak tool is needed: `tools/pak.js` reads and writes the game's pak
+format itself. `fontTools` (already installed via pip) makes the static font weights.
+
 ## Credits
 
 - Translation and glossary: Tirgumim (own work).
