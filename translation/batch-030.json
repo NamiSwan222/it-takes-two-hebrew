@@ -1,0 +1,508 @@
+{
+ "Nuts": {
+  "VO_DB_SnowGlobe_Town_SunchairsGeneric_May_020": {
+   "Line_1": "אההה, יש משהו בלשכב",
+   "Line_2": "על כיסא נוח בחורף.",
+   "Line_3": "זה... מיוחד."
+  },
+  "VO_DB_Taunt_Generic_MortarWasp": {
+   "VL_0": "העץ שייך לצרעות!",
+   "VL_1": "זה הכי טוב שיש לסנאים?",
+   "VL_2": "אני אגיש את השאריות שלכם למלכה!",
+   "VL_3": "חיי למען המלכה!",
+   "VL_4": "להשמיד!"
+  },
+  "VO_DB_Taunt_Generic_ShieldWasp2": {
+   "VL_0": "הרגליים הקטנות והמטונפות שלכם לא רצויות פה!",
+   "VL_1": "אני המגן של המלכה!",
+   "VL_2": "המגן שלי לא יישבר!",
+   "VL_3": "שרף וגפרורים... איפה הכבוד שלכם?",
+   "VL_4": "כאן אתם תושמדו!"
+  },
+  "VO_DB_Taunt_Intro_MortarWasp": {
+   "VL_0": "הנה אתם, פולשים!"
+  },
+  "VO_DB_Taunt_Intro_ShieldWasp2": {
+   "VL_0": "מסע הצלב הקטן שלכם נגמר כאן, פולשים!"
+  },
+  "VO_DB_Taunt_TackleKey_DevilBaby1_020": {
+   "Line_1": "זה שלי!!"
+  },
+  "VO_DB_Tree_Approach_LevelSwing": {
+   "VL_0": "היי, הנה הנדנדה שלנו!",
+   "VL_1": "סוף סוף יש לדבר הזה שימוש.",
+   "VL_2": "טוב, בואו נעבור לצד השני."
+  },
+  "VO_DB_Tree_Approach_Mushrooms_Cody": {
+   "VL_0": "וו-הו-הו! קפיצי!"
+  },
+  "VO_DB_Tree_Approach_Mushrooms_May": {
+   "VL_0": "ווווו! מוזר, אבל שימושי!"
+  },
+  "VO_DB_Tree_Approach_Shoes": {
+   "VL_1": "אופס, הה, סיפרתי לה שעשיתי את זה כשהייתי קטנה.",
+   "VL_3": "ממילא הן כבר קטנות עליה."
+  },
+  "VO_DB_Tree_Approach_Shoes_Cody_010": {
+   "Line_1": "שוב? אוף!",
+   "Line_2": "אמרתי לרוז לא לזרוק את הנעליים שלה לפה."
+  },
+  "VO_DB_Tree_Approach_Windows": {
+   "VL_1": "לא. למה את שואלת?",
+   "VL_3": "אוי! מי כבר יכול היה לבנות אותם?"
+  },
+  "VO_DB_Tree_Boat_Acceleration_Effort_May": {
+   "VL_0": "וואו-וואה-אוו-אההההה!",
+   "VL_1": "וואההההה!"
+  },
+  "VO_DB_Tree_Boat_Acceleration_May": {
+   "VL_0": "אוהה, זה הולך להיות תלול!",
+   "VL_1": "הנה עוד ירידה!"
+  },
+  "VO_DB_Tree_Boat_DamApproach": {
+   "VL_0": "נראה לי שאני רואה דרך החוצה שם קדימה.",
+   "VL_1": "כן, כן, קפטנית!"
+  },
+  "VO_DB_Tree_Boat_DamBreaks": {
+   "VL_0": "הסכר נשבר!",
+   "VL_1": "אני לא מצליח להחזיר אותנו למסלול!"
+  },
+  "VO_DB_Tree_Boat_LarvaeImpact_Cody": {
+   "VL_0": "חרא, הן מכות חזק!",
+   "VL_1": "מאז מתי זחלים מתפוצצים?!"
+  },
+  "VO_DB_Tree_Boat_LarvaeImpact_May": {
+   "VL_0": "הסירה מתפרקת!",
+   "VL_1": "אנחנו לא במצב משהו פה, קודי!",
+   "VL_2": "הסירה עומדת להתמוטט!"
+  },
+  "VO_DB_Tree_Boat_LarvaeSpotted": {
+   "VL_0": "יש עוד זחלים מלמעלה!",
+   "VL_1": "הם כולם שלך, קפטנית! אני אנווט את הסירה."
+  },
+  "VO_DB_Tree_Boat_TornadoClose_Cody": {
+   "VL_0": "אהה! אוי, זה קרוב מדי!"
+  },
+  "VO_DB_Tree_Boat_TornadoClose_May": {
+   "VL_0": "זה שואב אותנו פנימה!"
+  },
+  "VO_DB_Tree_Boat_TornadoFreeFall_May": {
+   "VL_0": "תגיע לסירה!"
+  },
+  "VO_DB_Tree_Boat_TornadoSpotted": {
+   "VL_0": "יש עוד נחילי צרעות שם קדימה!",
+   "VL_1": "כן... אבל מה הם עושים?"
+  },
+  "VO_DB_Tree_Boat_TornadoSpotted_May_030": {
+   "Line_1": "כל הידיים על הסיפון.",
+   "Line_2": "סערה בדרך."
+  },
+  "VO_DB_Tree_Boat_Upstream": {
+   "VL_0": "אוף, אני לא יכול לנסוע יותר מהר!",
+   "VL_1": "הזרם נגדנו. אנחנו נעבור את זה."
+  },
+  "VO_DB_Tree_Boat_Wall_Impact_First_May": {
+   "VL_0": "בזהירות, קודי!"
+  },
+  "VO_DB_Tree_Boat_Wall_Impact_Second": {
+   "VL_0": "קודי, נו באמת!",
+   "VL_1": "אף פעם לא נהגתי בסירה!"
+  },
+  "VO_DB_Tree_Boat_Wall_Impact_Third": {
+   "VL_0": "כמה פעמים, קודי?",
+   "VL_1": "את רוצה לנסות?!",
+   "VL_2": "אה, לא תודה. אני נשארת עם הבום-בום שלי!"
+  },
+  "VO_DB_Tree_Boat_WobbleHard_Cody": {
+   "VL_0": "אוי, תחזיקי חזק, מיי!",
+   "VL_1": "אוי! אני הולך להקיא!"
+  },
+  "VO_DB_Tree_Darkroom_AnimalApproach_Cody": {
+   "VL_0": "הייייי, גדול!"
+  },
+  "VO_DB_Tree_Darkroom_AnimalApproach_May": {
+   "VL_0": "מה זה לעזאזל הדבר הזה?"
+  },
+  "VO_DB_Tree_Darkroom_AnimalRideEnd_Cody_020": {
+   "Line_1": "לא...",
+   "Line_2": "אוהה, רגע!"
+  },
+  "VO_DB_Tree_Darkroom_AnimalRideEnd_Fall": {
+   "VL_0": "לעזאזל איתך, קודי!",
+   "VL_1": "זאת לא אשמתי!"
+  },
+  "VO_DB_Tree_Darkroom_AnimalRideEnd_May_010": {
+   "Line_1": "אה, קודי?",
+   "Line_2": "התוכנית היא לשחות ישר דרך הקיר הזה?"
+  },
+  "VO_DB_Tree_Darkroom_FirefliesJump_Cody": {
+   "VL_0": "וואו הייייי, חחח! זה מדגדג!",
+   "VL_1": "אההה-יאה!",
+   "VL_2": "ויייי-הו!"
+  },
+  "VO_DB_Tree_Darkroom_FirefliesJump_May": {
+   "VL_0": "היי... חחח!",
+   "VL_1": "ווהו!",
+   "VL_2": "יש!"
+  },
+  "VO_DB_Tree_Darkroom_LanternGeneric_Cody": {
+   "VL_0": "אההה! יהי אור!"
+  },
+  "VO_DB_Tree_Darkroom_LanternGeneric_May": {
+   "VL_0": "וואו, יפהפה!"
+  },
+  "VO_DB_Tree_Darkroom_PaintingsApproach": {
+   "VL_0": "וואו... מגניב!",
+   "VL_1": "זאת בטח ההיסטוריה של הסנאים."
+  },
+  "VO_DB_Tree_Darkroom_PaintingsHouse_Cody": {
+   "VL_0": "רגע. זה אנחנו?"
+  },
+  "VO_DB_Tree_Darkroom_PaintingsHouse_May": {
+   "VL_0": "זה אמור להיות אנחנו?"
+  },
+  "VO_DB_Tree_Escape_BigCannonApproach_Cody": {
+   "VL_0": "וואו, זה מסלים מהר!"
+  },
+  "VO_DB_Tree_Escape_BossFight_LowHealth_Cody": {
+   "VL_0": "לאט לאט, מיי!",
+   "VL_1": "מיי, שימי לב לתנועות שלו!",
+   "VL_2": "מיי, את לא נראית טוב!"
+  },
+  "VO_DB_Tree_Escape_CannonShoot": {
+   "VL_0": "וואו, ואני חשבתי שרובה הגפרורים חזק!"
+  },
+  "VO_DB_Tree_Escape_CannonShoot_Cody_020": {
+   "Line_1": "כן, בלי צחוק!",
+   "Line_2": "איזה מין בלוטים נפיצים",
+   "Line_3": "הם שמו בדבר הזה?"
+  },
+  "VO_DB_Tree_Escape_CatapultApproach_Cody": {
+   "VL_0": "אההה, יש לנו עוד צרות קדימה!"
+  },
+  "VO_DB_Tree_Escape_FirstGatesClose": {
+   "VL_0": "קודי, השערים נסגרים! תפמפם!",
+   "VL_1": "אני הולך הכי מהר שאני יכול!"
+  },
+  "VO_DB_Tree_Escape_GenericKill_Cody": {
+   "VL_0": "יפה, מיי!",
+   "VL_1": "קליעה מעולה, מיי!",
+   "VL_2": "חה-חה! ווהו!"
+  },
+  "VO_DB_Tree_Escape_LowHealth_May": {
+   "VL_0": "זהירות! זה בעצם עשוי ממקלות!",
+   "VL_1": "המטוס לא נראה טוב!",
+   "VL_2": "התחתונים שלך לא יחזיקו עוד הרבה!"
+  },
+  "VO_DB_Tree_Escape_PlaneBoost": {
+   "VL_0": "וואו! איזה כוח סוס!",
+   "VL_1": "מעולה! תמשיך להאיץ, קודי!"
+  },
+  "VO_DB_Tree_Escape_PlaneBoost_Effort_May": {
+   "VL_0": "ווהו!",
+   "VL_1": "היי!",
+   "VL_2": "ווווהו!"
+  },
+  "VO_DB_Tree_Escape_SquirrelFighter_Spawn_Cody": {
+   "VL_0": "יש עוד סנאים מאחורינו!",
+   "VL_1": "אני רואה עוד כמה מאחורינו!",
+   "VL_2": "מיי, אני רואה עוד מטוסים מאחורינו!"
+  },
+  "VO_DB_Tree_Escape_SquirrelFighter_Spawn_May": {
+   "VL_0": "מטוסי קרב מתקרבים מאחורינו!",
+   "VL_1": "עוד מטוסים מאחורינו! תמרוני התחמקות!",
+   "VL_2": "אני אטפל באלה שמאחור, קודי!"
+  },
+  "VO_DB_Tree_Escape_StrawBarrier_Cody": {
+   "VL_0": "ממם ... יבש."
+  },
+  "VO_DB_Tree_Escape_StrawBarrier_Effort_Cody": {
+   "VL_0": "בה-בלך-פו!!",
+   "VL_1": "בלך! אוו! איכס!"
+  },
+  "VO_DB_Tree_Escape_StrawBarrier_Effort_May": {
+   "VL_0": "פו! אוף-יאה!",
+   "VL_1": "פו! אוף-אוף!"
+  },
+  "VO_DB_Tree_Escape_Tunnel": {
+   "VL_0": "את חושבת שהסנאים יכעסו בגלל המטוס?",
+   "VL_2": "אני כבר אף פעם לא אסתכל על סנאי אותו דבר!"
+  },
+  "VO_DB_Tree_Escape_Tunnel_May_020": {
+   "Line_1": "טוב, הם לא היו צריכים לגנוב",
+   "Line_2": "מאיתנו מלכתחילה!"
+  },
+  "VO_DB_Tree_Escape_UpRavine": {
+   "VL_0": "ווווהו! מחזיקים חזק!",
+   "VL_1": "היי, הנה המחסן! אה, והבית שלנו!",
+   "VL_2": "תכוון לחדר של רוז. החלון פתוח!",
+   "VL_3": "יו-הו!! הנה זה בא!"
+  },
+  "VO_DB_Tree_SquirrelHome_Backstory_MissQ_010": {
+   "Line_1": "- [מיס קיו] פעם בני מיננו חיו בשלום.",
+   "Line_2": "לקחנו מבני האדם רק את מה שהיינו צריכים,",
+   "Line_3": "אבל לפעמים לקחנו קצת יותר.",
+   "Line_4": "העץ יכול להיות קר וחלול כשהוא ריק,",
+   "Line_5": "אבל החפצים האנושיים המשונים האלה",
+   "Line_6": "חיממו את כולנו בחודשי החורף."
+  },
+  "VO_DB_Tree_SquirrelHome_Backstory_MissQ_020": {
+   "Line_1": "- [מיס קיו] אתם צריכים לראות כמה",
+   "Line_2": "כפתורים הם שמו על המכשיר",
+   "Line_3": "\"שלט רחוק\" הזה.",
+   "Line_4": "פשוט לא הצלחתי להבין",
+   "Line_5": "למה צריך כל כך הרבה!"
+  },
+  "VO_DB_Tree_SquirrelHome_Backstory_MissQ_030": {
+   "Line_1": "- [מיס קיו] כך או כך, הגיע היום",
+   "Line_2": "שבו הופיעו הצרעות.",
+   "Line_3": "בהתחלה רק אחת, אחר כך כמה.",
+   "Line_4": "עד שכל הנחיל ירד עלינו",
+   "Line_5": "וניסה לדחוק אותנו מהעץ."
+  },
+  "VO_DB_Tree_SquirrelHome_Backstory_MissQ_040": {
+   "Line_1": "- [מיס קיו] רבים מאחינו",
+   "Line_2": "ואחיותינו אבדו ב\"מלחמה הארוכה\".",
+   "Line_3": "אולי שניכם תהיו נקודת המפנה שאנחנו צריכים",
+   "Line_4": "כדי להטות את הכף לטובתנו"
+  },
+  "VO_DB_Tree_SquirrelHome_Baseball": {
+   "VL_0": "היי, זה כדור הפוטבול שלנו!",
+   "VL_1": "ואתה חשבת שזרקתי אותו!",
+   "VL_3": "עוד דבר אחד שהסנאים לקחו מאיתנו."
+  },
+  "VO_DB_Tree_SquirrelHome_Baseball_Cody_030_ALT01": {
+   "Line_1": "כן, סליחה על זה... הה.",
+   "Line_2": "רוז ואני שיחקנו בו כל הזמן."
+  },
+  "VO_DB_Tree_SquirrelHome_BlackBoardApproach_Cody": {
+   "VL_0": "אההה, לא אוהב איך שזה נראה."
+  },
+  "VO_DB_Tree_SquirrelHome_BlackBoardApproach_May": {
+   "VL_0": "רגע, אלה חישובים מעניינים..."
+  },
+  "VO_DB_Tree_SquirrelHome_CageLift": {
+   "VL_0": "למעלה!",
+   "VL_1": "יופי! התקדמות!"
+  },
+  "VO_DB_Tree_SquirrelHome_Entry": {
+   "VL_0": "וואו, הסנאים האלה לא צחקו.",
+   "VL_1": "כן, זה שדה קרב."
+  },
+  "VO_DB_Tree_SquirrelHome_FamilyPhotos": {
+   "VL_0": "עוד תמונות משפחתיות שלנו!"
+  },
+  "VO_DB_Tree_SquirrelHome_FamilyPhotos_Cody_020": {
+   "Line_1": "את יודעת, הן בהחלט",
+   "Line_2": "עושות את המקום הזה יותר נעים."
+  },
+  "VO_DB_Tree_SquirrelHome_FamilyPhotos_May_030": {
+   "Line_1": "אולי הסנאים האלה עוזרים לנו",
+   "Line_2": "לחזור הביתה,",
+   "Line_3": "אבל אני ממש לא אוהבת שהם מבלגנים לי את הבית."
+  },
+  "VO_DB_Tree_SquirrelHome_FirstBigExplosion_Cody": {
+   "VL_0": "וואו! בומים ענקיים!"
+  },
+  "VO_DB_Tree_SquirrelHome_FirstExplosion_May": {
+   "VL_0": "אה, מבריק! קצת מדע בפעולה."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Approach_MissQ_010": {
+   "Line_1": "אה, ואתם יכולים פשוט להתעלם",
+   "Line_2": "ממה שמאחורי הקיר שבהמשך.",
+   "Line_3": "תמשיכו הלאה, בבקשה."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Approach_MissQ_010_ALT02": {
+   "Line_1": "- [מיס קיו] אה, ואתם יכולים פשוט להתעלם",
+   "Line_2": "ממה שמאחורי הקיר שבהמשך.",
+   "Line_3": "תמשיכו הלאה, בבקשה.",
+   "Line_4": "אל תלחצו על הכפתור האדום."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodyAcorn": {
+   "VL_1": "כן, זאת טכנולוגיית סנאים, בלי ספק."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodyElectrocuted": {
+   "VL_1": "אופס, אה... סליחה!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodyEnters": {
+   "VL_0": "וואו! היי, תוציאי אותי מפה!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodyEntersReply": {
+   "VL_0": "הכפתורים האדומים האלה נראים מעניינים..."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodyGas": {
+   "VL_1": "אוי לעזאזל, איך מכבים את זה?"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodyGeneric_Cody": {
+   "VL_0": "את זה הרגשתי, מיי!",
+   "VL_1": "נו באמת, מיי, תוציאי אותי!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_CodySpins": {
+   "VL_1": "חחח, סיבוב!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Exit_Cody": {
+   "VL_1": "חחחח! אבל אתה נראה בסדר!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Exit_Cody_010": {
+   "Line_1": "זה לא היה כל כך מצחיק."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Exit_May": {
+   "VL_0": "את זה אני לא אתן לך לשכוח.",
+   "VL_1": "חחחח! תירגעי, את נראית בסדר! ...בערך."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Exit_MissQ_030": {
+   "Line_1": "- [מיס קיו] אה, הה-הה, אני רואה שמצאתם את",
+   "Line_2": "מכונת \"אגוזים, אמבט וסאונה\" שלנו.",
+   "Line_3": "פטנט רשום, כמובן.",
+   "Line_4": "עוד לא סידרנו את כל...",
+   "Line_5": "הבאגים שבה."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Exit_NoButton_Cody": {
+   "VL_0": "תודה."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_Exit_NoButton_May": {
+   "VL_0": "תודה רבה."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MayAcorn": {
+   "VL_1": "כן, הייתי צריך לצפות לזה מסנאים..."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MayElectrocuted": {
+   "VL_1": "אופס! כפתור לא נכון!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MayEnters": {
+   "VL_0": "היי! אוף, אני לכודה!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MayEntersReply": {
+   "VL_0": "הייייי, מעניין מה הכפתורים האלה עושים..."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MayGas": {
+   "VL_1": "אוי, אה, אני נשבע שזה לא הייתי אני! אה-אה."
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MayGeneric_May": {
+   "VL_0": "תוציא אותי כבר, קודי?!",
+   "VL_1": "נמאס לי מזה, קודי!"
+  },
+  "VO_DB_Tree_SquirrelHome_IsoChamber_MaySpins": {
+   "VL_1": "חחחחח! מהלכים יפים, מיי!"
+  },
+  "VO_DB_Tree_SquirrelHome_LabEntry": {
+   "VL_0": "אהה... טוב, זה נהיה מעניין."
+  },
+  "VO_DB_Tree_SquirrelHome_LabEntry_Cody_020_ALT01": {
+   "Line_1": "הם עורכים ניסויים על בלוט.",
+   "Line_2": "הם באמת מטורפים על אגוזים!"
+  },
+  "VO_DB_Tree_SquirrelHome_LabEntry_May_030": {
+   "Line_1": "תראה את סלילי טסלה האלה.",
+   "Line_2": "הסנאים האלה נראים הרבה יותר \nמוכשרים ממה שחשבתי."
+  },
+  "VO_DB_Tree_SquirrelHome_LabEntry_MissQ_040": {
+   "Line_1": "- [מיס קיו] אני רואה שנתקלתם במתקנים הישנים שלי.",
+   "Line_2": "באמת שאין שם מה לראות.",
+   "Line_3": "פשוט תמשיכו הלאה.",
+   "Line_4": "הצרעות הברבריות האלה",
+   "Line_5": "לעולם לא יבינו את הפוטנציאל",
+   "Line_6": "של טכנולוגיית אגוזי הלוז."
+  },
+  "VO_DB_Tree_SquirrelHome_MineCarts_Add_Cody": {
+   "VL_0": "לאן המסילות האלה בכלל מובילות?"
+  },
+  "VO_DB_Tree_SquirrelHome_MineCarts_Add_May": {
+   "VL_0": "העץ הזה מדהים!"
+  },
+  "VO_DB_Tree_SquirrelHome_MineCarts_Cody": {
+   "VL_0": "מי נוהג בקרונות המכרה האלה?!"
+  },
+  "VO_DB_Tree_SquirrelHome_MineCarts_Halfway_Cody": {
+   "VL_0": "מתי המסילות האלה ייגמרו? אוי, שייגמרו כבר!"
+  },
+  "VO_DB_Tree_SquirrelHome_MineCarts_Halfway_May": {
+   "VL_0": "הם מובילים אגוזים?!"
+  },
+  "VO_DB_Tree_SquirrelHome_MineCarts_May": {
+   "VL_0": "יש לנו מכשולים קדימה!"
+  },
+  "VO_DB_Tree_SquirrelHome_MinigameWon_MissQ": {
+   "VL_0": "- [מיס קיו] כל הכבוד!"
+  },
+  "VO_DB_Tree_SquirrelHome_OvenBridge": {
+   "VL_0": "היי מיי, נראה לי שיש פה גשר.",
+   "VL_1": "אז בוא נפיל אותו!"
+  },
+  "VO_DB_Tree_SquirrelHome_OvenBridgeHint_May": {
+   "VL_0": "אני לא מצליחה לכוון טוב מפה, קודי!"
+  },
+  "VO_DB_Tree_SquirrelHome_OvenHint_Cody": {
+   "VL_0": "תדליקי את זה, מיי!",
+   "VL_1": "תציתי את זה, מיי!"
+  },
+  "VO_DB_Tree_SquirrelHome_SappedCombat_Cody": {
+   "VL_0": "הוא נפל!",
+   "VL_1": "זה מכוסה בשרף!",
+   "VL_2": "תני לי פה גפרור!"
+  },
+  "VO_DB_Tree_SquirrelHome_SappedCombatBoom_May": {
+   "VL_0": "תפסתי אותך!",
+   "VL_1": "בום!",
+   "VL_2": "לאן נעלמת?!"
+  },
+  "VO_DB_Tree_SquirrelHome_SapTutorial": {
+   "VL_1": "נראה שטכנולוגיית סנאים לא חסינה מטעויות."
+  },
+  "VO_DB_Tree_SquirrelHome_SapTutorialReminders_Cody": {
+   "VL_1": "אה נכון, על זה אני לא יכול לשים שרף.",
+   "VL_2": "אולי משטח אחר יעבוד יותר טוב."
+  },
+  "VO_DB_Tree_SquirrelHome_ShieldWaspEnd": {
+   "VL_0": "חיסלנו אותו?",
+   "VL_1": "כן, נראה שכן. בוא נעבור דרך הכספת."
+  },
+  "VO_DB_Tree_SquirrelHome_ShieldWaspHint_Cody": {
+   "VL_0": "אוי, השרף שלי לא נדבק למגן שלו!"
+  },
+  "VO_DB_Tree_SquirrelHome_ShieldWaspHint_May": {
+   "VL_0": "קודי, הגב שלו לא משוריין! תירה לו בגב!"
+  },
+  "VO_DB_Tree_SquirrelHome_ShootingGame_Approach_Cody_010": {
+   "Line_1": "מיי?",
+   "Line_2": "נראה לי... שזה מטווח ירי.",
+   "Line_3": "בואי ננסה."
+  },
+  "VO_DB_Tree_SquirrelHome_ShootingGame_Approach_May": {
+   "VL_0": "תראה, קודי, מטרות ירי! בוא נתאמן!"
+  },
+  "VO_DB_Tree_SquirrelHome_Start_MissQ_010": {
+   "Line_1": "- [מיס קיו] בדיקה, בדיקה, אחת, שתיים.",
+   "Line_2": "מה שאתם שומעים עכשיו הוא עוד אחת",
+   "Line_3": "מהיצירות האחרונות שלי בטכנולוגיית אגוזי לוז.",
+   "Line_4": "תמצאו אותן בנקודות אסטרטגיות",
+   "Line_5": "ברחבי העץ."
+  },
+  "VO_DB_Tree_SquirrelHome_Start_MissQ_020": {
+   "Line_1": "- [מיס קיו] מתיז השרף הבשאייקי",
+   "Line_2": "ורובה הגפרורים דרילבאזר חזקים כל אחד לבד,",
+   "Line_3": "אבל ביחד הם שילוב קטלני.",
+   "Line_4": "נסו להצית את השרף."
+  },
+  "VO_DB_Tree_SquirrelHome_Start_MissQ_030": {
+   "Line_1": "- [מיס קיו] כל הכבוד.",
+   "Line_2": "עכשיו לכו תנו לצרעות האלה קבלת פנים חמה."
+  },
+  "VO_DB_Tree_SquirrelHome_Start_Tutorial_Cody": {
+   "VL_0": "מה זה שתלוי שם?"
+  },
+  "VO_DB_Tree_SquirrelHome_Start_Tutorial_May": {
+   "VL_0": "מטרה, הא?"
+  },
+  "VO_DB_Tree_SquirrelHome_TestChamberExit": {
+   "VL_0": "נראה שהחזיקו פה משהו.",
+   "VL_1": "כן... משהו גדול. מה שזה לא היה, הוא כבר לא פה."
+  },
+  "VO_DB_Tree_SquirrelHome_TestChamberHint_Cody": {
+   "VL_0": "היי, המכסה הזה נראה רופף."
+  },
+  "VO_DB_Tree_SquirrelHome_TestChamberHint_May": {
+   "VL_0": "הממ, המכסה הזה לא נראה כל כך יציב."
+  }
+ }
+}

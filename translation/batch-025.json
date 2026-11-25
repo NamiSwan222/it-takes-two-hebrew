@@ -1,0 +1,552 @@
+{
+ "Nuts": {
+  "VO_DB_Playroom_Castle_CourtyardStuck_FreeFirst_Cody": {
+   "VL_0": "טוב, מיד מוציאים אותך."
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_FreeFirst_May": {
+   "VL_0": "זה נראה דביק. חכה רגע!"
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_FreeRepeat_Cody": {
+   "VL_0": "אוקיי, הפעם אני מכוון!",
+   "VL_1": "וואו, יש לך את המזל הכי גרוע!",
+   "VL_2": "אם תיתקעי שוב... אוף!"
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_FreeRepeat_May": {
+   "VL_0": "ננסה שוב!",
+   "VL_1": "רובי דבק מטופשים!",
+   "VL_2": "יאללה! פעם אחרונה!"
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_LandFirst_Cody": {
+   "VL_0": "אוף! ברצינות?"
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_LandFirst_May": {
+   "VL_0": "אין מצב!"
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_LandRepeat_Cody": {
+   "VL_0": "כן, אוקיי. הגיוני לגמרי!",
+   "VL_1": "אוי לא-לא-לא-לא-לא!",
+   "VL_2": "מה לעזאזל?! נו באמת!"
+  },
+  "VO_DB_Playroom_Castle_CourtyardStuck_LandRepeat_May": {
+   "VL_0": "אוי, למען השם...!",
+   "VL_1": "רק לא שוב!",
+   "VL_2": "ארררגגג!"
+  },
+  "VO_DB_Playroom_Castle_DartBoard_Bullseye_Cody": {
+   "VL_0": "אוף! פגיעה!"
+  },
+  "VO_DB_Playroom_Castle_DartBoard_Bullseye_May": {
+   "VL_0": "בול! אוו!"
+  },
+  "VO_DB_Playroom_Castle_DartBoard_NotBullseye_Cody": {
+   "VL_0": "אוף! אה, לא בדיוק."
+  },
+  "VO_DB_Playroom_Castle_DartBoard_NotBullseye_May": {
+   "VL_0": "כמעט!"
+  },
+  "VO_DB_Playroom_Castle_Dominoes_Cody_010": {
+   "Line_1": "אוי, תראו אותם נופלים...",
+   "Line_2": "וואו! וואו-וואו-וואו!",
+   "Line_3": "זהירות!!"
+  },
+  "VO_DB_Playroom_Castle_Dominoes_Fall_Cody_010": {
+   "Line_1": "חה-חה, הוא בסדר.",
+   "Line_2": "נכון?! כלומר...",
+   "Line_3": "אני בטוח שהוא בסדר...",
+   "Line_4": "נכון?!"
+  },
+  "VO_DB_Playroom_Castle_Dominoes_Fall_May": {
+   "VL_0": "א-אף אחד לא ראה את זה, נכון?"
+  },
+  "VO_DB_Playroom_Castle_Dominoes_May_010": {
+   "Line_1": "אה! איזו הרגשה מעולה.",
+   "Line_2": "רגע! מה עשיתי?!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_ChargerChainHint_May": {
+   "VL_0": "כן! בדיוק! תשמיד את שאר השרשראות!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_ChargerDamageHint_May": {
+   "VL_0": "ככה לא נצליח לפגוע בו!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_ChargerFirePit_Cody": {
+   "VL_0": "מהר, זאת ההזדמנות שלנו!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_ChargerInitial": {
+   "VL_0": "אוי חרא, שכחתי מהטרול האלמותי!",
+   "VL_1": "מה?!",
+   "VL_2": "נו, משהו גדול ומפחיד שאוכל אסירים!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_Crusher_Dead": {
+   "VL_0": "הצלחנו!",
+   "VL_1": "זה היה קרוב. "
+  },
+  "VO_DB_Playroom_Castle_Dungeon_Crusher_Gate_May": {
+   "VL_0": "זה מבוי סתום?!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_Crusher_Halfway": {
+   "VL_0": "יאללה מיי, תתנדנדי מהר יותר!",
+   "VL_1": "אני מתנדנדת הכי מהר שאני יכולה!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_DashPuzzle_May": {
+   "VL_0": "עכשיו תסתכל עליי!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_DashPuzzleSuccess_May": {
+   "VL_0": "הא, קלי קלות!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_FirePlatformPuzzleReaction_Cody": {
+   "VL_0": "תודה על הלבה, מיי!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_FirePlatformPuzzleSuccess_Cody": {
+   "VL_0": "פיו! טוב שלי יש כוחות שבאמת מועילים!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_FirePlatforms": {
+   "VL_0": "ועוד לבה.",
+   "VL_1": "את סתם כועסת שאת צריכה לסמוך עליי.",
+   "VL_2": "אוי, די כבר.",
+   "VL_3": "טוב, אל תדאגי מיי. אני אעביר אותנו."
+  },
+  "VO_DB_Playroom_Castle_Dungeon_FireTornado_FirstReaction_Cody": {
+   "VL_0": "את לוהטת מדי, מיי!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_FireTornado_May": {
+   "VL_0": "תישרפו!",
+   "VL_1": "עשיתי מכם טוסט!",
+   "VL_2": "לכו לעזאזל!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_IceBeam_Cody": {
+   "VL_0": "קפאו!",
+   "VL_1": "תתקררו קצת!",
+   "VL_2": "אתם לא הולכים לשום מקום!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_IceBeam_FirstReaction_May": {
+   "VL_0": "וואו, אוקיי. זה די מגניב, קודי!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_SpikeTrap_Approach_May": {
+   "VL_0": "אה כן, מלכודות לאסירים. שום דבר אף פעם לא קל."
+  },
+  "VO_DB_Playroom_Castle_Dungeon_TeleporterHint_Cody": {
+   "VL_0": "תורך, מיי! תני להם בראש!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_TeleporterHint_May": {
+   "VL_0": "תתפוס אותו, קודי! אני אעכב פה את האחרים!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_TeleporterSpotted": {
+   "VL_0": "נראה שאתה לא היחיד שמשתמש בקסמים!",
+   "VL_1": "יש מקום רק לקוסם חצר אחד!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_TeleportPuzzleDoor_Cody": {
+   "VL_0": "אין בעד מה."
+  },
+  "VO_DB_Playroom_Castle_Dungeon_TeleportPuzzleStart_Cody": {
+   "VL_0": "אה, אותי לא תעצור, שער!"
+  },
+  "VO_DB_Playroom_Castle_Dungeon_TeleportPuzzleSwitch_May": {
+   "VL_0": "יפה! עכשיו תן לי לעבור."
+  },
+  "VO_DB_Playroom_Castle_Gate_Spotted_Cody": {
+   "VL_0": "הנה שער הטירה. שם למעלה."
+  },
+  "VO_DB_Playroom_Castle_Gate_Spotted_May": {
+   "VL_0": "זה בטח שער הטירה, שם."
+  },
+  "VO_DB_Playroom_Castle_Horse_Death_Cody": {
+   "VL_0": "היי, זה לא היה מצחיק!"
+  },
+  "VO_DB_Playroom_Castle_Horse_Death_May": {
+   "VL_0": "אוקיי, בגלל זה אני לא סומכת על סוסים."
+  },
+  "VO_DB_Playroom_Castle_Paints_Approach_Cody": {
+   "VL_0": "רוז השאירה את הצבעים בחוץ. תראי איזה בלגן!"
+  },
+  "VO_DB_Playroom_Castle_Paints_Approach_May": {
+   "VL_0": "וואו, תראה כמה צבעים יש לבחור!"
+  },
+  "VO_DB_Playroom_Castle_Printer_Input_May": {
+   "VL_0": "רגע, אההה!"
+  },
+  "VO_DB_Playroom_Castle_Printer_Output_Cody": {
+   "VL_0": "לעולם לא עוד... או אולי כן."
+  },
+  "VO_DB_Playroom_Castle_Printer_Output_May": {
+   "VL_0": "אני לא מקנאה בנייר."
+  },
+  "VO_DB_Playroom_Castle_TrainRide_Cody": {
+   "VL_0": "אני אוהב רכבות!",
+   "VL_1": "\"קודי אקספרס\" היא הנסיעה הכי שווה בעיר!"
+  },
+  "VO_DB_Playroom_Castle_TrainRide_May": {
+   "VL_1": "נראה לי שמעכשיו אקרא לרכבת הזאת \"מייפלאואר\"!"
+  },
+  "VO_DB_Playroom_Castle_TrainRide_May_010": {
+   "Line_1": "יופי!",
+   "Line_2": "בוא נראה אם נמצא",
+   "Line_3": "תצפית טובה יותר על הטירה."
+  },
+  "VO_DB_Playroom_Castle_TrainRidePassenger_Cody": {
+   "VL_0": "וואו, מדהים לראות את העבודה שלך קמה לתחייה."
+  },
+  "VO_DB_Playroom_Castle_TrainRidePassenger_May": {
+   "VL_0": "בוא נראה אם זה ייקח אותנו ליד השער."
+  },
+  "VO_DB_Playroom_Castle_TrainSpotted": {
+   "VL_0": "וואו, בנית גם מסילת רכבת!",
+   "VL_1": "אה כן, ויש לה את הנופים הכי יפים!"
+  },
+  "VO_DB_PlayRoom_Circus_BallPickup_May": {
+   "VL_0": "אוקיי, הכדור אצלי! הגיע זמן הקלע!"
+  },
+  "VO_DB_PlayRoom_Circus_CannonMiss_Cody": {
+   "VL_0": "חה חה, וואו, זה היה רחוק מהמטרה.",
+   "VL_1": "אולי כדאי שאני, אה, אראה לך איך עושים את זה..."
+  },
+  "VO_DB_PlayRoom_Circus_CannonMiss_May": {
+   "VL_0": "וואו, ממש עפת הרחק מעבר לזה!",
+   "VL_1": "נראה לי שאני צריכה לנסות בעצמי..."
+  },
+  "VO_DB_PlayRoom_Circus_Carousel": {
+   "VL_1": "היי, זה הכדור שלנו!",
+   "VL_2": "אה, נכון. יאללה, נביא אותו!"
+  },
+  "VO_DB_PlayRoom_Circus_HandcartApproach": {
+   "VL_0": "וואו, וואו, וואו, רגע! תני לי לקחת קצת מזה!",
+   "VL_1": "אין לך כיסים, קודי!"
+  },
+  "VO_DB_PlayRoom_Circus_MonowheelDanger_Cody": {
+   "VL_0": "וואו מיי, זהירות!",
+   "VL_1": "מ-מ-מיי!"
+  },
+  "VO_DB_PlayRoom_Circus_MonowheelDanger_May": {
+   "VL_0": "לאט... לאט...",
+   "VL_1": "קודי, זהירות!"
+  },
+  "VO_DB_PlayRoom_Circus_MonowheelDoubleInteract_Cody": {
+   "VL_0": "יאללה מיי, תעלי!"
+  },
+  "VO_DB_PlayRoom_Circus_MonowheelDoubleInteract_May": {
+   "VL_0": "קודי, תקפוץ לעלות!"
+  },
+  "VO_DB_PlayRoom_Circus_MonowheelStart_Cody": {
+   "VL_0": "טוב, טוב, בעדינות. לאט ובזהירות!"
+  },
+  "VO_DB_PlayRoom_Circus_SealsCarousel_May": {
+   "VL_0": "תראה את כלבי הים! כמה חמודים!"
+  },
+  "VO_DB_PlayRoom_Circus_SecondRoomEnter": {
+   "VL_1": "נראה שכולם מחוברים זה לזה.",
+   "VL_2": "יאללה, נגלה.",
+   "VL_3": "אוקיי, אז בואו נגלגל את העניינים!"
+  },
+  "VO_DB_PlayRoom_Circus_SecondRoomEnter_Cody_010": {
+   "Line_1": "תראי את כל הקוביות והגלגלים האלה.",
+   "Line_2": "נראה לי שהגיע שוב הזמן לקצת אקשן של אוגרים."
+  },
+  "VO_DB_PlayRoom_Circus_Slingshot_DoubleInteract_May": {
+   "VL_0": "אני מוכנה, קודי!"
+  },
+  "VO_DB_PlayRoom_Circus_TrapezeFail_May": {
+   "VL_0": "אתה יכול יותר טוב מזה. תזרוק רחוק יותר!"
+  },
+  "VO_DB_PlayRoom_Circus_TrapezeFailCatch_May": {
+   "VL_0": "עיניים על הכדור, קודי! יאללה!"
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_Approach_Cody_010": {
+   "Line_1": "היי, תראי!",
+   "Line_2": "זה נראה כמו איזה משחק וידאו!",
+   "Line_3": "רוצה לנסות?"
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_Approach_May": {
+   "VL_0": "תראה, איזה משחק... ציפורים? בוא נשחק!"
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_CodyWins": {
+   "VL_0": "עבודת צוות מעולה, חברה מכונפת!",
+   "VL_1": "שלי עדיין יותר חמודה."
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_MayWins": {
+   "VL_0": "המנצחת: קבוצת הציפור הכחולה!",
+   "VL_1": "באסה!"
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_Start": {
+   "VL_0": "הציפור שלי תנצח.",
+   "VL_1": "לא משנה. הציפור שלי יותר טובה משלך.",
+   "VL_2": "טוב, הציפור שלי יותר חמודה."
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_Taunt_Cody": {
+   "VL_0": "קרע, קרע!",
+   "VL_1": "אוי, זה בכיס, ציפור!",
+   "VL_2": "קדימה, עד הסוף!"
+  },
+  "VO_DB_Playroom_Courtyard_BirdStar_Taunt_May": {
+   "VL_0": "כל הכבוד, ציפורונת!",
+   "VL_1": "אני מתחילה להתחבר למוזיקה הזאת!",
+   "VL_2": "כמעט שם, ציפורונת!"
+  },
+  "VO_DB_PlayRoom_DinoLand_DinoCrash_Cody": {
+   "VL_0": "את בסדר?",
+   "VL_1": "כן. רק כמעט נכחדתי, זה הכול."
+  },
+  "VO_DB_PlayRoom_DinoLand_DinoCrash_Cutscene_Cody": {
+   "VL_0": "אה! אוווי לא!"
+  },
+  "VO_DB_PlayRoom_DinoLand_DinoCrash_Cutscene_May": {
+   "VL_0": "אוווי לא! אוווו! אהה! אוי!"
+  },
+  "VO_DB_PlayRoom_DinoLand_DinoCrash_May": {
+   "VL_0": "אתה בסדר שם?",
+   "VL_1": "כן. לגמרי ראיתי את זה בא!"
+  },
+  "VO_DB_PlayRoom_DinoLand_GreenDinoStart_Cody": {
+   "VL_0": "הזה שלי! את תיקחי את האדום על הפלטפורמה."
+  },
+  "VO_DB_PlayRoom_DinoLand_GreenDinoStart_Cody_010": {
+   "Line_1": "הזה שלי!",
+   "Line_2": "ראוור!",
+   "Line_3": "את תיקחי את האדום על הפלטפורמה."
+  },
+  "VO_DB_PlayRoom_DinoLand_GreenDinoStart_May_010": {
+   "Line_1": "אני אטפל בגדול.",
+   "Line_2": "אתה תלך על האדום הקטן שעל הפלטפורמה."
+  },
+  "VO_DB_PlayRoom_Goldberg_BoatCollisionGeneric_Cody": {
+   "VL_0": "זהירות, אל תטביעי לנו את הסירה!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BoatCollisionGeneric_May": {
+   "VL_0": "תסתכל לאן אנחנו שטים!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_BossHint_May": {
+   "VL_0": "זה עובד. תמשיך לירות!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_BossJabReactFirst": {
+   "VL_0": "וואו! את בסדר, מיי?",
+   "VL_1": "הראש שלי מסתובב, אבל עדיין במקום!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_BossJabReactSecond": {
+   "VL_0": "אוקיי, עכשיו גם מתחיל לבחול לי!",
+   "VL_1": "רק אל תקיאי עכשיו!",
+   "VL_2": "אוי, שתוק ותמשיך לירות!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_Ducks_May": {
+   "VL_0": "אלה לא ברווזים ידידותיים. תרחיק אותם!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_End": {
+   "VL_0": "היי, נראה לי שהוא מתעייף!",
+   "VL_1": "איך אפשר לדעת? הוא נראה בסדר גמור!",
+   "VL_2": "תסמכי עליי, יש לי חוש שישי!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_TentacleHitReaction_Cody": {
+   "VL_0": "בקצב הזה הם יטביעו את הסירה!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_TentacleHitReaction_May": {
+   "VL_0": "זה לא היה נחמד!"
+  },
+  "VO_DB_PlayRoom_Goldberg_BossFight_Whirlpool": {
+   "VL_0": "אוף, נתקענו!",
+   "VL_1": "זאת מערבולת! צריך לירות כדי לצאת!"
+  },
+  "VO_DB_PlayRoom_Goldberg_DestroyingTheTrap": {
+   "VL_0": "וואו! הרגשתי את החום של זה!",
+   "VL_1": "יו-הו, כן! חה חה! עכשיו אנחנו בוערים!"
+  },
+  "VO_DB_PlayRoom_Goldberg_EnemyDefeated": {
+   "VL_0": "יופי של שי-תוף פ-עו-לה!",
+   "VL_1": "כן, זה היה די טוב!"
+  },
+  "VO_DB_PlayRoom_Goldberg_EnemyDefeatedGeneric_Cody": {
+   "VL_0": "בום, אתה בחוץ!"
+  },
+  "VO_DB_PlayRoom_Goldberg_EnemyDefeatedGeneric_May": {
+   "VL_0": "זוזו לנו מהדרך!"
+  },
+  "VO_DB_PlayRoom_Goldberg_FirstGateDestroy_Cody": {
+   "VL_0": "כן! אני מת על כוח האש הזה!"
+  },
+  "VO_DB_PlayRoom_Goldberg_IncomingFire_Cody": {
+   "VL_0": "פיצוצים גדולים בדרך!",
+   "VL_1": "עוד כדור תותח, זוזי!"
+  },
+  "VO_DB_PlayRoom_Goldberg_IncomingFire_May": {
+   "VL_0": "יש להם גם תותחים!",
+   "VL_1": "איך הם בכלל מפעילים את הדברים האלה?"
+  },
+  "VO_DB_PlayRoom_Goldberg_PiratePenguins": {
+   "VL_0": "ברררר, וישר לתוך המקרר.",
+   "VL_1": "היי, חמודים קטנים!"
+  },
+  "VO_DB_PlayRoom_Goldberg_PirateStart": {
+   "VL_0": "תשמרי על כיוון ישר, מיי!",
+   "VL_1": "שנינו צריכים לשמור על כיוון ישר!"
+  },
+  "VO_DB_PlayRoom_Goldberg_TentacleInitial": {
+   "VL_0": "אההה, זאת מפלצת הים!",
+   "VL_1": "אה! אולי היא סתם עושה מתיחות..."
+  },
+  "VO_DB_PlayRoom_Hopscotch_BallPitDeath_May": {
+   "VL_0": "כן, ברור שזאת בריכת כדורים של מוות!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_BallpitRoom": {
+   "VL_0": "מפל הכדורים הזה חוסם את הדרך!",
+   "VL_1": "צריך למצוא דרך לכבות אותו!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_BallpitRoomHalfway": {
+   "VL_0": "יופי! מסלול מכשולים!",
+   "VL_1": "שמחה שאתה אוהב! רוז בנתה הרבה ממנו.",
+   "VL_2": "היא לא עושה לנו את זה קל!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_BallPitSpotted": {
+   "VL_0": "היי, מתי בפעם האחרונה היית בבריכת כדורים?",
+   "VL_1": "אה, הייתה הפעם ההיא שרוז דחפה אותי פנימה.",
+   "VL_2": "בואי נקפוץ פנימה! יכול להיות כיף.",
+   "VL_3": "כן... לך על זה."
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_Approach_Cody": {
+   "VL_0": "או-הו, בייסבול! המשחק האהוב עליי!"
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_Approach_May": {
+   "VL_0": "בוא נשחק בייסבול, קודי!"
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_CodyWins": {
+   "VL_0": "העפתי אותו אל מחוץ למגרש!",
+   "VL_1": "נכון. הפעם."
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_MayWins": {
+   "VL_0": "הא! ניצחתי אותך במשחק שלך!",
+   "VL_1": "רק התחממתי."
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_Start": {
+   "VL_0": "תיזהרי, מיי. פעם הייתי ממש טוב בזה.",
+   "VL_1": "אני יודעת לחבוט בכדור. ",
+   "VL_2": "לא כמו שאני יודע."
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_Taunt_Cody": {
+   "VL_0": "בום, החוצה!",
+   "VL_1": "תראו אותו עף!",
+   "VL_2": "פגיעה!"
+  },
+  "VO_DB_Playroom_Hopscotch_Baseball_Taunt_May": {
+   "VL_0": "חבטה לבסיס!",
+   "VL_1": "כדור גבוה!",
+   "VL_2": "הום ראן!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_ChallengeFail_May": {
+   "VL_0": "טוב, זה מביך."
+  },
+  "VO_DB_PlayRoom_Hopscotch_CheeseButton_May": {
+   "VL_0": "נראה שזה מתעניין בקצת גבינה."
+  },
+  "VO_DB_PlayRoom_Hopscotch_CoatHanger": {
+   "VL_1": "אני על הקולב!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_CoatHanger_DoubleInteract_May": {
+   "VL_0": "אההה, זמן לנשום קצת."
+  },
+  "VO_DB_PlayRoom_Hopscotch_ExplodingCar_Cody": {
+   "VL_0": "אוי! אולי זה היה קצת יותר מדי."
+  },
+  "VO_DB_PlayRoom_Hopscotch_ExplodingCar_May": {
+   "VL_0": "אופס!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_FirstGrindComplete": {
+   "VL_0": "בוא נראה, לאן עכשיו?",
+   "VL_1": "אם את מוכנה, אנחנו מטפסים על החשבונייה."
+  },
+  "VO_DB_PlayRoom_Hopscotch_FirstGrindComplete_May_030": {
+   "Line_1": "אה, כן!",
+   "Line_2": "החשבונייה הגדולה!",
+   "Line_3": "זמן רב חלמתי לכבוש את פסגותיה."
+  },
+  "VO_DB_PlayRoom_Hopscotch_FirstGrindSingle_May": {
+   "VL_0": "יאללה קודי, בוא לפה!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_FirstTunnel": {
+   "VL_0": "אוף, מקווה שלא ניתקל בעכברים.",
+   "VL_2": "אין סיכוי."
+  },
+  "VO_DB_PlayRoom_Hopscotch_FirstTunnel_Cody_020": {
+   "Line_1": "כן.",
+   "Line_2": "אולי הם ידידותיים",
+   "Line_3": "ואפילו יעזרו לנו בעולם הזה."
+  },
+  "VO_DB_PlayRoom_Hopscotch_FrogTeeth_Death_Cody": {
+   "VL_0": "טוב, טוב... סליחה! וואלה."
+  },
+  "VO_DB_PlayRoom_Hopscotch_FrogTeeth_Death_May": {
+   "VL_0": " איזו צפרדע ערמומית!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_KaleidoscopePuzzle": {
+   "VL_0": "אוי, אוי, סוף סוף! מה המקום הזה?",
+   "VL_1": "הלב של הקליידוסקופ... בוא נסתכל מסביב."
+  },
+  "VO_DB_PlayRoom_Hopscotch_KaleidoscopePuzzleHint_May": {
+   "VL_0": "נראה לי שאפשר לסובב את המגדל הזה כמו קליידוסקופ."
+  },
+  "VO_DB_PlayRoom_Hopscotch_PigBank_Approach_Cody": {
+   "VL_0": "אוו, מה קורה, חזרזיר?"
+  },
+  "VO_DB_PlayRoom_Hopscotch_PigBank_Approach_May": {
+   "VL_0": "איזו קופת חזיר חמודה!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_PigBank_CodySmash_May": {
+   "VL_0": "וואו, קודי! זה באמת היה נחוץ?"
+  },
+  "VO_DB_PlayRoom_Hopscotch_PigBank_LastCoin_Cody": {
+   "VL_0": "אוי, אתה פשוט מת על כל המטבעות האלה, מה?"
+  },
+  "VO_DB_PlayRoom_Hopscotch_PigBank_LastCoin_May": {
+   "VL_0": "אוו, הבטן הקטנה והחמודה שלך מלאה במטבעות?"
+  },
+  "VO_DB_PlayRoom_Hopscotch_PigBank_MaySmash_Cody": {
+   "VL_0": "וואו, מיי! קרה כמו קרח."
+  },
+  "VO_DB_PlayRoom_Hopscotch_PillowFortEntrance_Cody": {
+   "VL_0": "נראה לי שהספיק לי חלל ליום אחד."
+  },
+  "VO_DB_PlayRoom_Hopscotch_PillowFortEntrance_May_010": {
+   "Line_1": "נראה לי שבבון הירח",
+   "Line_2": "צריך קצת חלל אישי עכשיו."
+  },
+  "VO_DB_PlayRoom_Hopscotch_RainbowTube": {
+   "VL_0": "תראה את הצבעים המדהימים האלה, קודי!",
+   "VL_1": "כן, זה כמו קשת כפולה מטורפת פה!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_RainbowTubeSolo_May": {
+   "VL_0": "וואו, זה מדהים!"
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_Approach_Cody": {
+   "VL_0": "תראי את השוורים האלה! בואי לרודיאו!"
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_Approach_May": {
+   "VL_0": "רכיבה על שוורים! יאללה, קודי!"
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_CodyWins": {
+   "VL_0": "אני מנצח!",
+   "VL_1": "אתה מנצח עם תחת כואב."
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_MayWins": {
+   "VL_0": "ההתמדה מנצחת!",
+   "VL_1": "אוף! מהתמדה כואב התחת."
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_Start": {
+   "VL_0": "נראה לי שמחכה לך רכיבה משקשקת.",
+   "VL_1": "אני מחכה לראות את השור מעיף אותך.",
+   "VL_2": "זה לא יקרה. השור הזה ואני דבוקים."
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_Taunt_Cody": {
+   "VL_0": "וואו, השור הזה פראי!",
+   "VL_1": "מתנדנדת שם, מיי?",
+   "VL_2": "יי-הא! איפה כובע הבוקרים שלי?"
+  },
+  "VO_DB_Playroom_Hopscotch_Rodeo_Taunt_May": {
+   "VL_0": "תפסתי אותך, שור! יאללה!",
+   "VL_1": "אתה נראה קצת רופף שם, קודי!",
+   "VL_2": "אני אדהר לניצחון!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_Shark_Death_Cody": {
+   "VL_0": "אוי, כבר לא אסתכל על בריכות באותה צורה."
+  },
+  "VO_DB_PlayRoom_Hopscotch_Shark_Death_May": {
+   "VL_0": "איך הדבר הזה הגיע לשם?!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SketchingTool": {
+   "VL_0": "אה, הימים הפשוטים. נחמד שיש מגבלות."
+  }
+ }
+}

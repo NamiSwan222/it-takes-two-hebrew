@@ -1,0 +1,562 @@
+{
+ "Nuts": {
+  "VO_DB_Music_Classic_Heaven_MeditateSolo_Cody": {
+   "VL_1": "ממממ-אההה... וואו, המוזיקה הזאת מסטולה, אחי."
+  },
+  "VO_DB_Music_Classic_Heaven_MeditateSolo_Cody_010": {
+   "Line_1": "לנשום אל תוך כפות הרגליים.",
+   "Line_2": "ולהוציא דרך הראש.",
+   "Line_3": "אההההה... אוי! הנבט שלי מעקצץ."
+  },
+  "VO_DB_Music_Classic_Heaven_MeditateSolo_May": {
+   "VL_1": "אוי, אני מתחילה להרגיש שאני מגיעה למקום כלשהו..."
+  },
+  "VO_DB_Music_Classic_Heaven_MeditateSolo_May_010": {
+   "Line_1": "לא להילחם במחשבות.",
+   "Line_2": "לתת להן להיות.",
+   "Line_3": "להתבונן בהן.",
+   "Line_4": "להתבונן במתבונן."
+  },
+  "VO_DB_Music_Classic_Heaven_Notes_Cody": {
+   "VL_0": "אוווו, התווים מחוברים לדלתות!"
+  },
+  "VO_DB_Music_Classic_Heaven_Notes_May": {
+   "VL_0": "הבנתי! התווים מחוברים לדלתות!"
+  },
+  "VO_DB_Music_Classic_Heaven_Orchestra_Cody_010": {
+   "Line_1": "טוב, נראה לי שזה כולם.",
+   "Line_2": "בואי נחזור לבמה!"
+  },
+  "VO_DB_Music_Classic_Heaven_OrchestraDoubleInteract_Cody": {
+   "VL_0": "מיי, תראי את התזמורת!"
+  },
+  "VO_DB_Music_Classic_Heaven_OrchestraDoubleInteract_May": {
+   "VL_0": "היי קודי, בוא תראה את התזמורת."
+  },
+  "VO_DB_Music_Classic_Heaven_OrchestraHalf_May_010": {
+   "Line_1": "טוב.",
+   "Line_2": "זה חצי מהם.",
+   "Line_3": "בוא נעבור לצד השני."
+  },
+  "VO_DB_Music_Classic_Heaven_WheelApproach_Cody": {
+   "VL_0": "אוווו! זה נראה יוקרתי."
+  },
+  "VO_DB_Music_Classic_Heaven_WheelApproach_May": {
+   "VL_0": "אוי, זה יגיד לי מה צופן לי העתיד?"
+  },
+  "VO_DB_Music_Classic_Heaven_WheelDeath_Cody": {
+   "VL_0": "נו באמת...?! אני מבקש רק דבר אחד נחמד, בסדר?!"
+  },
+  "VO_DB_Music_Classic_Heaven_WheelDeath_May": {
+   "VL_0": "העולם יכול להיות מקום אכזרי."
+  },
+  "VO_DB_Music_Classic_Heaven_WheelSpin_Cody": {
+   "VL_0": "יאללה, תן לי משהו טוב!"
+  },
+  "VO_DB_Music_Classic_Heaven_WheelSpin_May": {
+   "VL_0": "אני מרגישה שיש לי מזל!"
+  },
+  "VO_DB_Music_Classic_ShutterPuzzle_Hint_Cody": {
+   "VL_0": "מיי, לכי לשני!"
+  },
+  "VO_DB_Music_Classic_ShutterPuzzle_Hint_May": {
+   "VL_0": "קודי, לך לשני!"
+  },
+  "VO_DB_Music_Classic_Volleyball_Approach_Cody": {
+   "VL_0": "תראי, מיי! ידעתי שיש כדורעף בגן עדן."
+  },
+  "VO_DB_Music_Classic_Volleyball_Approach_May": {
+   "VL_0": "כדורעף בגן עדן? בטח, למה לא!"
+  },
+  "VO_DB_Music_Classic_Volleyball_CodyWins": {
+   "VL_0": "אה, הקהל משתולל! איזה אֵייס!",
+   "VL_1": "הפעם. נראה מה יהיה בפעם הבאה."
+  },
+  "VO_DB_Music_Classic_Volleyball_MayWins": {
+   "VL_0": "וואו. הכדור הזה ממש אהב אותך, קודי.",
+   "VL_1": "השמש סנוורה אותי! בסדר? בואי עוד פעם."
+  },
+  "VO_DB_Music_Classic_Volleyball_Start": {
+   "VL_0": "תביאו את הכי טוב שלכם.",
+   "VL_1": "אוי, זה גדול עליך.",
+   "VL_2": "יאללה! נסה אותי!"
+  },
+  "VO_DB_Music_Classic_Volleyball_Taunt_Cody": {
+   "VL_0": "הנחתה יפה!",
+   "VL_1": "או! עף מפה!",
+   "VL_2": "כדאי שתזיזי את הרגליים, מיי!"
+  },
+  "VO_DB_Music_Classic_Volleyball_Taunt_May": {
+   "VL_0": "מחוץ לטווח!",
+   "VL_1": "זאת הייתה מכה רצחנית!",
+   "VL_2": "צריך לזוז יותר מהר, קודי!"
+  },
+  "VO_DB_Music_ConcertHall_Backstage_Orchestra": {
+   "VL_2": "הה. כיף, באמת."
+  },
+  "VO_DB_Music_ConcertHall_Backstage_Orchestra_Cody_010": {
+   "Line_1": "היי, מיי.",
+   "Line_2": "את יודעת, זאת הייתה בלי ספק",
+   "Line_3": "החוויה הכי מוזרה בחיים שלי.",
+   "Line_4": "אני שמח שלא הייתי צריך לעבור אותה לבד."
+  },
+  "VO_DB_Music_ConcertHall_Backstage_Orchestra_May_020": {
+   "Line_1": "כן.",
+   "Line_2": "זה היה מטורף, מסוכן, מורט עצבים...",
+   "Line_3": "אבל כיף."
+  },
+  "VO_DB_Music_ConcertHall_Blender_Death_Cody": {
+   "VL_0": "עכשיו אני יודע איך זה להיות בתוך בלנדר."
+  },
+  "VO_DB_Music_ConcertHall_Blender_Death_May": {
+   "VL_0": "לקפוץ לתוך בלנדר. ממש הגיוני."
+  },
+  "VO_DB_Music_ConcertHall_Carousel_Approach_Cody": {
+   "VL_0": "הו-הו היי, בוא נראה אם זה עוד עובד."
+  },
+  "VO_DB_Music_ConcertHall_Carousel_Approach_May": {
+   "VL_0": "אוי, הדבר הזה עוד פה?"
+  },
+  "VO_DB_Music_ConcertHall_Carousel_Ride_Cody": {
+   "VL_0": "יאללה, דהרי, מותק!",
+   "VL_1": "את מעולה! מגיעים לישורת האחרונה!"
+  },
+  "VO_DB_Music_ConcertHall_Carousel_Ride_May": {
+   "VL_1": "אה, ימים פשוטים יותר."
+  },
+  "VO_DB_Music_ConcertHall_Carousel_Ride_May_010": {
+   "Line_1": "יוהו! בדיוק כמו שאני זוכרת.",
+   "Line_2": "אם כי קצת מזייף..."
+  },
+  "VO_DB_Music_Concerthall_Chess_CodyWins": {
+   "VL_0": "וזהו זה! אלוהים, איזה מוח ענק יש לי!",
+   "VL_1": "נו, אי אפשר לנצח בכל פעם."
+  },
+  "VO_DB_Music_Concerthall_Chess_MayWins": {
+   "VL_0": "אה, בדיוק כמו שציפיתי.",
+   "VL_1": "משחק חוזר?"
+  },
+  "VO_DB_Music_Concerthall_Chess_Start": {
+   "VL_0": "לא יכול לחכות להגיד מט.",
+   "VL_1": "אז תצטרך לחכות לנצח.",
+   "VL_2": "ממ, בספק."
+  },
+  "VO_DB_Music_Concerthall_Chess_Taunt_Cody": {
+   "VL_0": "מהלך חכם, הא?",
+   "VL_1": "אני מתרשם מעצמי.",
+   "VL_2": "אפשר לקרוא לי רב-אמן?"
+  },
+  "VO_DB_Music_Concerthall_Chess_Taunt_May": {
+   "VL_0": "כן, זה יספיק.",
+   "VL_2": "אני באה לקחת לך את המלך בקרוב!"
+  },
+  "VO_DB_Music_Concerthall_Chess_Taunt_May_020": {
+   "Line_1": "אם המהלך הזה מפחיד אותך, קודי,",
+   "Line_2": "חכה למהלך הבא."
+  },
+  "VO_DB_Music_ConcertHall_ClassicGate_Books_Cody": {
+   "VL_0": "וואו, שכחתי שיש לנו פה למעלה מין ספרייה קטנה."
+  },
+  "VO_DB_Music_ConcertHall_ClassicGate_Books_May_010": {
+   "Line_1": "אלוהים, יש לנו פה למעלה המון ספרים.",
+   "Line_2": "הלוואי שיום אחד יהיה לי זמן לקרוא כמה."
+  },
+  "VO_DB_Music_ConcertHall_ExclamationButton_Activate_Cody": {
+   "VL_0": "אה... מה, זהו?"
+  },
+  "VO_DB_Music_ConcertHall_ExclamationButton_Activate_May": {
+   "VL_0": "אה, זה הכול?"
+  },
+  "VO_DB_Music_ConcertHall_HammerTrap_Activate_Cody": {
+   "VL_0": "אוף! כפתורים אדומים מחורבנים!"
+  },
+  "VO_DB_Music_ConcertHall_HammerTrap_Activate_May": {
+   "VL_0": "איי, אוווו, זה כאב!"
+  },
+  "VO_DB_Music_ConcertHall_Letter_Approach_Cody": {
+   "VL_0": "אחד המכתבים שלי!"
+  },
+  "VO_DB_Music_ConcertHall_Letter_Approach_May": {
+   "VL_0": "היי, זה מה שאני חושבת שזה?"
+  },
+  "VO_DB_Music_ConcertHall_Letter_Read": {
+   "VL_0": "שכחתי מהמכתב הזה.",
+   "VL_1": "אותו לעולם לא אשכח.",
+   "VL_2": "כן, גם אני. אבל עכשיו זה קצת מר-מתוק.",
+   "VL_3": "זה עדיין מעלה לי חיוך.",
+   "VL_4": "אוי... טוב לשמוע."
+  },
+  "VO_DB_Music_ConcertHall_MemorySequence_Activate_Cody_010": {
+   "Line_1": "אוי לא, אני גרוע בדברים האלה...",
+   "Line_2": "טוב, בוא נראה כמה רחוק אגיע."
+  },
+  "VO_DB_Music_ConcertHall_MemorySequence_Activate_May_010": {
+   "Line_1": "אוווו, אחד מאלה.",
+   "Line_2": "מעניין אם אשבור את השיא שלי."
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_Approach_Cody": {
+   "VL_0": "מוזיקה, וכיסא אחד. הא! שיתחילו המשחקים!"
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_Approach_May_010": {
+   "Line_1": "יש רק כיסא אחד?",
+   "Line_2": "היי קודי,",
+   "Line_3": "אתה יודע מה זה אומר!"
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_CodyWins": {
+   "VL_0": "יאהו! הכס שלי!",
+   "VL_1": "תירגע, זה רק כיסא."
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_MayWins": {
+   "VL_0": "כןןן! תחזור לבית הספר, קודי.",
+   "VL_1": "טוב. קחי את הכיסא המטומטם שלך... בינתיים."
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_Start": {
+   "VL_0": "אוי, הייתי הכי טוב בזה בבית הספר.",
+   "VL_1": "בטוח שאתה עפת ראשון.",
+   "VL_2": "או-הו! את עוד תראי!"
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_Taunt_Cody": {
+   "VL_0": "הו! לא מספיק מהירה, מיי.",
+   "VL_1": "נרדמת בשמירה?",
+   "VL_2": "זה הכס שלי!"
+  },
+  "VO_DB_Music_Concerthall_MusicalChairs_Taunt_May": {
+   "VL_0": "סליחה, קודי, אבל אמרתי לך שהוא שלי! ",
+   "VL_1": "אההה, נוח פה למעלה.",
+   "VL_2": "איטי מדי!"
+  },
+  "VO_DB_Music_ConcertHall_Nightclub_DoubleInteract_Cody": {
+   "VL_0": "היי מיי, תראי את המקום הזה!"
+  },
+  "VO_DB_Music_ConcertHall_Nightclub_DoubleInteract_May": {
+   "VL_0": "היי קודי, בוא תראה את זה!"
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_FirstPhotoSolo_Cody": {
+   "VL_0": "וואו, תראו את אלה..."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_FirstPhotoSolo_May": {
+   "VL_0": "אוי, עוד תמונות משפחתיות שלנו..."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_SecondPhoto_Cody": {
+   "VL_0": "ותראי כמה היא אוהבת להיות עם אמא שלה."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_SecondPhoto_May": {
+   "VL_0": "היית ממש הכי טוב עם רוז."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_SecondPhotoSolo_Cody": {
+   "VL_0": "היא הייתה התינוקת הכי חמודה."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_SecondPhotoSolo_May": {
+   "VL_0": "תראו את רוז, כמה היא קטנטנה פה!"
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_ThirdPhoto": {
+   "VL_0": "פעם באמת היה לנו המון כיף ביחד, הא?",
+   "VL_1": "כן, היה."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_ThirdPhotoSolo_Cody": {
+   "VL_0": "הטיולים המשפחתיים שלנו היו הכי טובים."
+  },
+  "VO_DB_Music_ConcertHall_OldPictureToy_ThirdPhotoSolo_May": {
+   "VL_0": "כל כך אהבתי את הטיול הזה ביחד."
+  },
+  "VO_DB_Music_ConcertHall_PartyPoppers_End_Cody": {
+   "VL_0": "אוף, נגמרו הבומים."
+  },
+  "VO_DB_Music_ConcertHall_PartyPoppers_End_May": {
+   "VL_0": "ואנחנו יוצאים עם פיצוץ..."
+  },
+  "VO_DB_Music_ConcertHall_Scale_Activate_Cody": {
+   "VL_0": "אה כן! זה ממש חימר מפלדה."
+  },
+  "VO_DB_Music_ConcertHall_Scale_Activate_May": {
+   "VL_0": "קל, אבל יציב. אני אוהבת."
+  },
+  "VO_DB_Music_Concerthall_Slotcars_Approach_Cody": {
+   "VL_0": "מרוץ מכוניות על מסילה! אני בפנים, מיי!"
+  },
+  "VO_DB_Music_Concerthall_Slotcars_Approach_May": {
+   "VL_0": "מכוניות מסילה! קודי, אני מוכנה למרוץ!"
+  },
+  "VO_DB_Music_Concerthall_Slotcars_CodyWins": {
+   "VL_0": "לשמור על קור רוח, ולנצח במרוץ.",
+   "VL_1": "טוב, ניצחת. אבל קור רוח בטוח לא היה לך."
+  },
+  "VO_DB_Music_Concerthall_Slotcars_MayWins": {
+   "VL_0": "אההה, הריח החריף של הניצחון!",
+   "VL_1": "ממ, מריח כמו גומי שרוף."
+  },
+  "VO_DB_Music_Concerthall_Slotcars_Start": {
+   "VL_0": "אווו, יש לי צורך ב...",
+   "VL_1": "בהפסד. כן, אני יודעת!",
+   "VL_2": "או, את הולכת לאכול אותה."
+  },
+  "VO_DB_Music_Concerthall_Slotcars_Taunt_Cody": {
+   "VL_0": "בזהירות, בזהירות!",
+   "VL_1": "נראית קצת איטית שם, מיי!",
+   "VL_2": "תראי את המהירות המטורפת שלי!"
+  },
+  "VO_DB_Music_Concerthall_Slotcars_Taunt_May": {
+   "VL_0": "מהיר ויציב מנצח במרוץ!",
+   "VL_1": "תעמוד בקצב, קודי!",
+   "VL_2": "אני משאירה אחריי סימני צמיגים!"
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_Approach_Cody": {
+   "VL_0": "אחלה, מכונת ארקייד! מיי, בואי נבדוק!"
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_Approach_May": {
+   "VL_0": "קודי, מכונת ארקייד ישנה! בוא ננסה!"
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_CodyWins": {
+   "VL_0": "הצלחה היא בחירה, ניצחון הוא הרגל.",
+   "VL_1": "רק אל תהפוך את ההתרברבות להרגל."
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_MayWins": {
+   "VL_0": "אפילו לא הזעתי!",
+   "VL_1": "כנראה שזה לא היה טוב לך. היית נרקבת."
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_Start": {
+   "VL_0": "אוו, זה כל כך נוסטלגי.",
+   "VL_1": "כן, כמו כשכיסחתי לך את הצורה.",
+   "VL_2": "כלומר, כמו מה שהולך לקרות עכשיו?"
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_Taunt_Cody": {
+   "VL_0": "יוהו! נתראה אחר כך, מיי!",
+   "VL_1": "שום דבר לא יעצור אותי!",
+   "VL_2": "אני מהיר יותר מהרוח!"
+  },
+  "VO_DB_Music_Concerthall_TrackRunner_Taunt_May": {
+   "VL_0": "נתראה בקו הסיום, קודי!",
+   "VL_1": "נראה שאני בנתיב המהיר!",
+   "VL_2": "ביי, בומר!"
+  },
+  "VO_DB_Music_ConcertHall_VinylRecorder_Activate_Cody": {
+   "VL_0": "אחלה! זה השיר האהוב עליי בכל הזמנים!"
+  },
+  "VO_DB_Music_ConcertHall_VinylRecorder_Activate_May": {
+   "VL_0": "אוי, אני זוכרת את השיר הזה. הוא היה להיט!"
+  },
+  "VO_DB_Music_ConcertHall_VinylRecorder_Speedup_Cody": {
+   "VL_0": "ממ! קצב כפול!"
+  },
+  "VO_DB_Music_ConcertHall_VinylRecorder_Speedup_May": {
+   "VL_0": "כן, תני בראש!"
+  },
+  "VO_DB_Music_Ending_FirstWalk_OutsideDressingRoom_May": {
+   "VL_0": "לשיר מהלב..."
+  },
+  "VO_DB_Music_Ending_SecondWalk_BeforeFlipSwitch_Cody": {
+   "VL_0": "וואו-הו-הו... זה הולך להיות מיוחד."
+  },
+  "VO_DB_Music_Ending_ThirdWalk_BeforeCurtains_May": {
+   "VL_0": "היי, כולם..."
+  },
+  "VO_DB_Music_NightClub_Audiosurf_Intro": {
+   "VL_0": "וואאאו! איפה אנחנו?",
+   "VL_1": "אהההה, נראה לי שאנחנו בתוך כבל האודיו!"
+  },
+  "VO_DB_Music_NightClub_Audiosurf_Intro_Cody_040": {
+   "Line_1": "זה...",
+   "Line_2": "זה הוברבורד!",
+   "Line_3": "אין מצב! תמיד רציתי כזה!"
+  },
+  "VO_DB_Music_NightClub_Audiosurf_Intro_May_030": {
+   "Line_1": "אוי, כבר לא משנה בשלב הזה!",
+   "Line_2": "רגע, על מה אנחנו רוכבים?"
+  },
+  "VO_DB_Music_NightClub_Audiosurf_MayPass": {
+   "VL_0": "תסתכל עליי, קודי!",
+   "VL_1": "חחח כן! נולדת לזה."
+  },
+  "VO_DB_Music_Nightclub_BeatSection_CymbalHint_May_010": {
+   "Line_1": "היי קודי,",
+   "Line_2": "אתה רואה את הכדור הזוהר מתחת ללב?"
+  },
+  "VO_DB_Music_Nightclub_BeatSection_DiscoballHint_May": {
+   "VL_0": "ביחד עכשיו, קודי! ניתן לו הטחה רצינית."
+  },
+  "VO_DB_Music_Nightclub_BeatSection_DiscoballPound_May": {
+   "VL_0": "עוד פעם אחת!"
+  },
+  "VO_DB_Music_Nightclub_BeatSection_DiscoballSpotted_Cody": {
+   "VL_0": "וואו! זה כדור דיסקו?! אה, שלום! זמן מסיבה!"
+  },
+  "VO_DB_Music_Nightclub_BeatSection_DiscoballSpotted_May": {
+   "VL_0": "וואו, כדור הדיסקו הזה ענקי!"
+  },
+  "VO_DB_Music_Nightclub_BeatSection_Intro": {
+   "VL_0": "זה המועדון הכי מוזר שהייתי בו אי פעם.",
+   "VL_1": "הכי מוזר... והכי... מדהים, אי פעם!!!"
+  },
+  "VO_DB_Music_Nightclub_BeatSection_PlatformsMove_Cody": {
+   "VL_0": "מגניב! הפלטפורמות זזות לפי הקצב!"
+  },
+  "VO_DB_Music_Nightclub_BeatSection_PlatformsMove_May": {
+   "VL_0": "וואו, הפלטפורמות זזות לפי הקצב!"
+  },
+  "VO_DB_Music_NightClub_Discoball_Crowd": {
+   "VL_0": "את שומעת את הקהל, מיי?",
+   "VL_1": "כן! זה מרגש!"
+  },
+  "VO_DB_Music_Nightclub_Discoball_IncreaseSpeed": {
+   "VL_0": "זה נהיה מהיר יותר!",
+   "VL_1": "תחגוג חזק יותר, קודי! תזיז את הרגליים!"
+  },
+  "VO_DB_Music_Nightclub_Discoball_Jump": {
+   "VL_0": "אוווו, הוא הולך לקפוץ!",
+   "VL_1": "אוווו, בבקשה לא-לא-לא-לא!"
+  },
+  "VO_DB_Music_Nightclub_DiscoBall_Tutorial_May": {
+   "VL_0": "כדור הדיסקו הזה לא נראה יציב במיוחד. אולי נוכל לשחרר אותו."
+  },
+  "VO_DB_Music_NightClub_DJ_Failing": {
+   "VL_0": "לעזאזל, אנחנו מאבדים אותם. צריך להעלות הילוך, מיי!",
+   "VL_1": "כן, אנחנו נגרום להם לרקוד!"
+  },
+  "VO_DB_Music_NightClub_DJ_SuccessCody": {
+   "VL_1": "כן! בואי נמשיך ככה!"
+  },
+  "VO_DB_Music_NightClub_DJ_SuccessCody_Cody_010": {
+   "Line_1": "אנחנו דווקא הולכים טוב, מיי!",
+   "Line_2": "הקהל חוזר!"
+  },
+  "VO_DB_Music_NightClub_DJ_SuccessMay": {
+   "VL_1": "גבירותיי ורבותיי, די.ג'יי קודי ו-אם.סי מיי, יו! ...מה?!"
+  },
+  "VO_DB_Music_NightClub_DJ_SuccessMay_May_010": {
+   "Line_1": "וואו, הקהל ממש מת על זה!",
+   "Line_2": "אולי זה צריך להיות הקטע החדש שלנו, קודי."
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_BigJump_Cody": {
+   "VL_0": "כן, בסטייל!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_BigJump_May": {
+   "VL_0": "יוהו! הצלחתי!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_CodyWin": {
+   "VL_0": "גלישה מרשימה, קודי!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_CodyWin_Cody_020": {
+   "Line_1": "זה כישרון שאני גאה בו.",
+   "Line_2": "אבל זה היה ממש כיף."
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_HalfwayCodyAhead": {
+   "VL_0": "תדביקי את הקצב, מיי, ביחד יותר כיף!",
+   "VL_1": "הא! נראה כמה זמן תצליח לשמור על היתרון!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_HalfwayMayAhead": {
+   "VL_0": "אתה תיתן לי לסיים לבד, קודי?",
+   "VL_1": "אוי, כדאי לך להיזהר! אני בא לקחת אותך!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_MayWin": {
+   "VL_0": "לעזאזל! את די טובה בקטע הזה של הגלישה!",
+   "VL_1": "נו, תודה רבה, קודי. זה היה ממש כיף."
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_Respawn_Cody": {
+   "VL_0": "זה אנייי, קודי!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_Respawn_May": {
+   "VL_0": "יאללה!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_Revive_Hakim": {
+   "VL_0": "חזרתם!",
+   "VL_1": "בואו ננסה שוב!",
+   "VL_2": "אה-אה! והפעם בלי ליפול!",
+   "VL_3": "אנדלה!",
+   "VL_4": "אתם יכולים!"
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_Win_Cody": {
+   "VL_0": "נו, כנראה שאני עדיין מלך המהירות."
+  },
+  "VO_DB_Music_Nightclub_RainbowSlide_Win_May": {
+   "VL_0": "נו, כנראה שאני עדיין מלכת המהירות."
+  },
+  "VO_DB_Music_NightClub_Space_CodyPass": {
+   "VL_0": "וו-הו-הו-הו! אני מת על זה!",
+   "VL_1": "היי, אתה נראה כמו מקצוען!"
+  },
+  "VO_DB_Music_NightClub_Space_End": {
+   "VL_0": "מיי...",
+   "VL_1": "קודי..."
+  },
+  "VO_DB_Music_NightClub_Space_Entrance_Cody": {
+   "VL_0": "וואו... זה מדהים."
+  },
+  "VO_DB_Music_NightClub_Space_Entrance_May": {
+   "VL_0": "אוו... פשוט מדהים..."
+  },
+  "VO_DB_Playroom_Castle_BalloonMachine_Activate_Cody": {
+   "VL_0": "אה! זה ישדרג פה את המקום, הא!"
+  },
+  "VO_DB_Playroom_Castle_BalloonMachine_Activate_May": {
+   "VL_0": "עוד אחד למסיבת יום הולדת!"
+  },
+  "VO_DB_Playroom_Castle_CakeSmash_Cody_010": {
+   "Line_1": "אוווו חרא!",
+   "Line_2": "אהה, זה בסדר!",
+   "Line_3": "אהה, יהיה בסדר."
+  },
+  "VO_DB_Playroom_Castle_CakeSmash_May": {
+   "VL_0": "אוי, סליחה! פשוט לא יכולתי להתאפק."
+  },
+  "VO_DB_Playroom_Castle_CastleCompliment": {
+   "VL_0": "וואו! אתה ורוז בניתם את כל זה?",
+   "VL_1": "בטח שכן!",
+   "VL_2": "לא רע, קודי, לא רע."
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Bishop_Warning_Cody": {
+   "VL_0": "עוד דברים לוהטים בדרך!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Bishop_Warning_May": {
+   "VL_0": "אש בדרך!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Knight_Warning_Cody": {
+   "VL_0": "סוסונים עצבניים!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Knight_Warning_May": {
+   "VL_0": "זאת דהרה המונית!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Pawn_Warning_Cody": {
+   "VL_0": "זה לא נראה טוב!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Pawn_Warning_May": {
+   "VL_0": "הם עומדים להתפוצץ!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Rook_Warning_Cody": {
+   "VL_0": "אני לא רוצה ליפול!"
+  },
+  "VO_DB_Playroom_Castle_Chessboard_Rook_Warning_May": {
+   "VL_0": "או-הו! שים לב לרגליים!"
+  },
+  "VO_DB_Playroom_Castle_Courtyard_CraneApproach_Cody_010": {
+   "Line_1": "אהה, השער נעול עם עיפרון!",
+   "Line_2": "או, בטוח שנמצא דרך לעקוף את זה."
+  },
+  "VO_DB_Playroom_Castle_Courtyard_CraneApproach_May": {
+   "VL_0": "השער נעול. אבל חייבת להיות דרך להיכנס."
+  },
+  "VO_DB_Playroom_Castle_Courtyard_CraneHint_May_010": {
+   "Line_1": "אז יש לנו פה מנוף גדול.",
+   "Line_2": "אני בטוחה שהוא יכול לעזור עם השער הזה."
+  },
+  "VO_DB_Playroom_Castle_Courtyard_WreckingBallDestroy_Cody": {
+   "VL_0": "אני הולך על סטרייק עם המותק הזה!"
+  },
+  "VO_DB_Playroom_Castle_Courtyard_WreckingBallDestroy_May": {
+   "VL_0": "אוווו, זה כל כך מספק!"
+  },
+  "VO_DB_Playroom_Castle_Courtyard_WreckingBallFinal_Cody": {
+   "VL_0": "עוד אחד!"
+  },
+  "VO_DB_Playroom_Castle_Courtyard_WreckingBallHintCody": {
+   "VL_0": "היי מיי, יש לי רעיון. בואי נשחק באולינג!"
+  },
+  "VO_DB_Playroom_Castle_Courtyard_WreckingBallHintCody_May_020": {
+   "Line_1": "טוב, הדבר הכי מנומס",
+   "Line_2": "זה באמת לדפוק על דלת הכניסה."
+  },
+  "VO_DB_Playroom_Castle_Courtyard_WreckingBallHintMay": {
+   "VL_0": "היי קודי! בא לך קצת באולינג?",
+   "VL_1": "אהה, את משוגעת! ...אבל אני אוהב את זה."
+  }
+ }
+}

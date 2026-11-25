@@ -1,0 +1,426 @@
+{
+ "Nuts": {
+  "VO_SB_Garden_Shrubbery_PlantHelicopter_Attack": {
+   "VL_0": "מה זה הדבר המעופף הזה?!",
+   "VL_1": "מה שזה לא יהיה, צריך לחסל אותם!",
+   "VL_2": "בסדר! הנה בא איש הנבט!"
+  },
+  "VO_SB_Garden_Shrubbery_SpinningLog_LogCollapse": {
+   "VL_0": "אההה! חניתות! זהירות!",
+   "VL_1": "אלה צמחים! צמחים חדים!",
+   "VL_2": "צמחים חדים בטירוף!"
+  },
+  "VO_SB_Garden_VegetablePatch_Entrance_Intro": {
+   "VL_0": "הדבר הסגול הזה חוסם לנו את הדרך.",
+   "VL_3": "הוא נראה די מכוער.",
+   "VL_4": "כן, מה שזה לא יהיה, צריך להיפטר מזה."
+  },
+  "VO_SB_Garden_VegetablePatch_Entrance_Outro": {
+   "VL_0": "אוף, לא ייאמן כמה שזה התפשט!",
+   "VL_1": "ככה זיהומים עובדים.",
+   "VL_2": "ברור, אבל איך זה השתלט כל כך מהר?",
+   "VL_3": "זה כנראה חזק ממש.",
+   "VL_4": "חייבים להציל את הגינה לפני שהיא מתה!"
+  },
+  "VO_SB_Garden_VegetablePatch_Greenhouse_Intro": {
+   "VL_1": "נראה לי שכבר תפסתי את העניין.",
+   "VL_2": "כן, תפסת. תודה שאת עוזרת לי.",
+   "VL_3": "זה דווקא די מספק.",
+   "VL_4": "נכון? אולי בכל זאת יש לך יד ירוקה.",
+   "VL_6": "אה-קיי. מזל שלי שאנחנו באותה קבוצה."
+  },
+  "VO_SB_Garden_VegetablePatch_Greenhouse_Intro_Cody_010": {
+   "Line_1": "עוד חרא סגול צץ פה.",
+   "Line_2": "נצטרך לעשות פה ניכוש רציני, מיי."
+  },
+  "VO_SB_Garden_VegetablePatch_Greenhouse_Intro_May_060": {
+   "Line_1": "לא, פשוט כיף לי",
+   "Line_2": "לגרוס כל מה שעומד בדרכי!"
+  },
+  "VO_SB_Music_Backstage_Accordion_Blow": {
+   "VL_0": "אה, מה זאת המכונה הזאת?!",
+   "VL_1": "נראה כמו סוג של אקורדיון!",
+   "VL_2": "אקורדיון עצבני! הפיצוצים האלה נראים כואבים."
+  },
+  "VO_SB_Music_Backstage_AudioTrigger_Intro": {
+   "VL_0": "אה, היי, שיחקתי עם אלה קצת כשהייתי צעירה.",
+   "VL_1": "כן? אז תראי לי מה את שווה.",
+   "VL_2": "נו, גם אתה תנסה! כיף לעשות מוזיקה ביחד.",
+   "VL_3": "יאללה, בואי נעשה להיט, יו!"
+  },
+  "VO_SB_Music_Backstage_BassRoom_InstrumentsActivateFirst_May": {
+   "VL_0": "וואו! הם בהחלט אמיתיים!"
+  },
+  "VO_SB_Music_Backstage_BassRoom_InstrumentsActivateSecond": {
+   "VL_0": "הו-הו! שמעת את זה? אני כמו מלחין עכשיו!"
+  },
+  "VO_SB_Music_Backstage_BassRoom_InstrumentsActivateSecond_May_020": {
+   "Line_1": "בטח.",
+   "Line_2": "יצירת אמנות מפוארת",
+   "Line_3": "שהלחין גוש חימר."
+  },
+  "VO_SB_Music_Backstage_BassRoom_InstrumentsSpotted": {
+   "VL_0": "איזה כיף! כלי נגינה!",
+   "VL_1": "הם נראים אמיתיים.",
+   "VL_2": "יאללה, ננסה אותם!"
+  },
+  "VO_SB_Music_Backstage_BassRoom_LightRigTipping": {
+   "VL_0": "אההה, אוי לא-לא-לא-לא-לא!",
+   "VL_1": "לא לעזוב!"
+  },
+  "VO_SB_Music_Backstage_Instruments_Piano": {
+   "VL_2": "כל הדברים האלה מעלים זיכרונות טובים.",
+   "VL_3": "מאמין לך. ... אה, היי, זה הפסנתר הישן שלך?",
+   "VL_4": "כן! בוא נראה אם הוא עדיין מכוון."
+  },
+  "VO_SB_Music_Backstage_Microphone_Reveal": {
+   "VL_0": "מה זה? זה מיקרופון?",
+   "VL_1": "נראה לי..."
+  },
+  "VO_SB_Music_Backstage_Microphone_Reveal_Cody_030": {
+   "Line_1": "טוב, בסדר.",
+   "Line_2": "הספר אמר שצריך מיקרופונים כדי להכין את הבמה!"
+  },
+  "VO_SB_Music_Backstage_MicrophoneRoom_MotherReveal": {
+   "VL_0": "רוץ, רוץ, רוץ, קודי!!!",
+   "VL_1": "אלוהים! זה יתפוס אותנו, זה יתפוס אותנו!",
+   "VL_2": "לא אם תרוץ מהר יותר!",
+   "VL_3": "זה הכי מהר שאני יכול!"
+  },
+  "VO_SB_Music_Backstage_MusicTechWall_InsideMonitor": {
+   "VL_0": "וואו! זה הזוי! אני רואה אותך על מסך!",
+   "VL_1": "עיניים על הכפתורים!",
+   "VL_2": "טוב, טוב!"
+  },
+  "VO_SB_Music_Backstage_MusicTechWall_Reveal": {
+   "VL_0": "בטוח?",
+   "VL_1": "אל דאגה, לסובב כפתורים זה הצד החזק שלי!"
+  },
+  "VO_SB_Music_Backstage_Orchestra_Chess": {
+   "VL_0": "אוף, מה?! עוד לוח שחמט?",
+   "VL_2": "את יודעת שאני לא טוב בשחמט.",
+   "VL_3": "לא משנה. זה סתם בשביל הכיף!"
+  },
+  "VO_SB_Music_Backstage_Orchestra_Chess_May_020": {
+   "Line_1": "אוי, זה היה הראשון שלי!",
+   "Line_2": "והפעם הוא לא מנסה להרוג אותנו."
+  },
+  "VO_SB_Music_Backstage_PortableSpeakerRoom_InsideJukebox": {
+   "VL_0": "וואו, הלוואי שסבא שלי היה יכול לראות אותנו עכשיו!",
+   "VL_1": "הוא היה מת על זה!",
+   "VL_3": "הם היו הזוג הכי מתוק."
+  },
+  "VO_SB_Music_Backstage_PortableSpeakerRoom_InsideJukebox_Cody_030": {
+   "Line_1": "או שונא את זה!",
+   "Line_2": "הוא תמיד אמר לי להיזהר איתו,",
+   "Line_3": "אהבת חייו, אחרי סבתא."
+  },
+  "VO_SB_Music_Backstage_PortableSpeakerRoom_InsideJukebox_Cody_050": {
+   "Line_1": "כן, כן, אני מתגעגע אליו.",
+   "Line_2": "סבא, אם אתה שומע אותי,",
+   "Line_3": "אני מבטיח לא להרוס אותו."
+  },
+  "VO_SB_Music_Backstage_PortableSpeakerRoom_JukeBox": {
+   "VL_0": "זה לא הג'וקבוקס של סבא שלך?",
+   "VL_1": "כן! הא! שכחתי שאחסנו אותו בעליית הגג!",
+   "VL_2": "אתה חושב שהוא עדיין עובד?",
+   "VL_3": "אה, בטוח נצליח להפעיל אותו."
+  },
+  "VO_SB_Music_Backstage_PortableSpeakerRoom_MiniMicrophone_Cody": {
+   "VL_0": "וואאא! מיי, עזרה!"
+  },
+  "VO_SB_Music_Classic_Heaven_OpenBirdCage": {
+   "VL_0": "יו, שדים, הצחוק שלכם מבאס!",
+   "VL_1": "קודי, תתרכז בלהשיג את המפתחות!",
+   "VL_3": "הם לא יקשיבו לך. פשוט תחסל אותם!"
+  },
+  "VO_SB_Music_Classic_Heaven_OpenBirdCage_Cody_030": {
+   "Line_1": "טוב!",
+   "Line_2": "היי, שדים, אין לכם מה לחפש פה!",
+   "Line_3": "תנו לנו את המפתחות!"
+  },
+  "VO_SB_Music_Classic_Heaven_OpenCloudRoom": {
+   "VL_0": "קודי, תמשיך להכות בעננים!",
+   "VL_1": "סליחה, עננים! אנחנו צריכים את הדמעות שלכם כדי לפזר את הערפל!"
+  },
+  "VO_SB_Music_Classic_Heaven_Reveal": {
+   "VL_0": "וואו! אני עף! כמו מלאך בגן עדן!"
+  },
+  "VO_SB_Music_ConcertHall_Abilities_Intro": {
+   "VL_1": "למה אני לא קיבלתי מגן?",
+   "VL_2": "קיבלת את הנשק הכי חזק שיש: הקול שלך!",
+   "VL_3": "הייתי מחליפה אותו בכל רגע.",
+   "VL_4": "הקול שלך חזק. לעולם אל תשכחי את זה!"
+  },
+  "VO_SB_Music_ConcertHall_Abilities_Intro_Cody_010": {
+   "Line_1": "אוהו, המצילה הזאת היא כמו מגן.",
+   "Line_2": "וואאא!! אני גיבור-העל של המצלתיים!"
+  },
+  "VO_SB_Music_ConcertHall_Backstage_Intro": {
+   "VL_0": "טוב, בואי נכין את הבמה.",
+   "VL_1": "הלוואי שלא היינו צריכים.",
+   "VL_2": "אה, יהיה בסדר, מיי. יש לך קול נהדר.",
+   "VL_3": "כבר לא. אני לא אשיר ואעשה מעצמי צחוק.",
+   "VL_4": "רק תירגעי, אני המעריץ הכי גדול שלך, זוכרת?",
+   "VL_5": "לפני מלא זמן, כן. עכשיו, אני כבר לא בטוחה.",
+   "VL_6": "אל תדאגי, אני מבטיח לא לצחוק.",
+   "VL_7": "תודה, קודי. ממש מעודד."
+  },
+  "VO_SB_Music_NightClub_Basement_Elevator": {
+   "VL_0": "טוב, ננסה להבין את כל עניין ה\"די-ג'יי\" הזה.",
+   "VL_1": "בטח נצליח לגרום להם לרקוד שוב."
+  },
+  "VO_SB_Music_NightClub_Discoball_GroundpoundStart": {
+   "VL_2": "וואו, זה מתגלגל! קדימה, לזוז!",
+   "VL_3": "תרקוד, תרקוד, קודי!",
+   "VL_4": "תפסיקי להתגרות בי!",
+   "VL_5": "אבל אמרת שאתה רוצה לחגוג!",
+   "VL_6": "כן, אבל לא כשהחיים שלי על הכף!"
+  },
+  "VO_SB_Music_NightClub_RainbowSlide_Intro": {
+   "VL_0": "וואו! זה סוריאליסטי!",
+   "VL_1": "סוריאליסטי, אבל כיף!"
+  },
+  "VO_SB_Music_NightClub_RainbowSlide_Intro_Cody_030": {
+   "Line_1": "היי, את יודעת...",
+   "Line_2": "המקום הזה מזכיר לי משהו."
+  },
+  "VO_SB_Music_NightClub_RainbowSlide_Intro_Part2": {
+   "VL_1": "או, כן, באמת!"
+  },
+  "VO_SB_PlayRoom_Bookshelf_EdgeHangEnd": {
+   "VL_1": "אוי, אנחנו לא יכולים. אנחנו חייבים לחזור לגוף האמיתי שלנו!",
+   "VL_2": "אחרת נתקע פה לנצח!"
+  },
+  "VO_SB_PlayRoom_Bookshelf_EdgeHangStart": {
+   "VL_1": "אתם לא חייבים לעשות את זה! אני אוהבת את רוז!"
+  },
+  "VO_SB_PlayRoom_Bookshelf_EdgeHangStart_Cody_030": {
+   "Line_1": "אוי, אל תגידי לנו את זה!",
+   "Line_2": "ככה זה עוד יותר כואב לעשות את זה!"
+  },
+  "VO_SB_PlayRoom_Bookshelf_EdgeHangStart_Cutie_040": {
+   "Line_1": "ר-רוצים עוגיות?",
+   "Line_2": "אני יכולה להכין לכם עוד עוגיות אם תפסיקו!"
+  },
+  "VO_SB_PlayRoom_Castle_Dungeon_ToyCrusher": {
+   "VL_0": "אההה! מה זה?!",
+   "VL_1": "אה, זה נראה כמו בובת אופה?!"
+  },
+  "VO_SB_PlayRoom_DinoLand_DinoCrash_FireRide_Cody_020": {
+   "Line_1": "עשן? אני לא מריח כלום.",
+   "Line_2": "האף שלך תמיד היה רגיש."
+  },
+  "VO_SB_PlayRoom_DinoLand_DinoCrash_FireRide_Spotted": {
+   "VL_0": "אה, כן? אז למה אני רואה אש לפנינו?!",
+   "VL_1": "אוי-אוי..."
+  },
+  "VO_SB_PlayRoom_DinoLand_DinoCrash_FireRide_Start": {
+   "VL_0": "קודי, למה אני מריחה עשן?"
+  },
+  "VO_SB_PlayRoom_Elephant_BookShelf_Intro": {
+   "VL_0": "קיוטי, אנחנו לא רוצים לעשות את זה, אבל אנחנו חייבים!",
+   "VL_1": "אנחנו חייבים לגרום לרוז לבכות!"
+  },
+  "VO_SB_PlayRoom_Elephant_BookShelf_Intro_Cody_040": {
+   "Line_1": "זה לא אישי,",
+   "Line_2": "אנחנו רק צריכים לשבור את הכישוף הזה!"
+  },
+  "VO_SB_PlayRoom_Goldberg_Pirate_SquidDefeated": {
+   "VL_0": "היי, זה קצת כמו המתקן של בית הרוחות!",
+   "VL_1": "בבקשה אל תזכיר לי!",
+   "VL_2": "חה חה חה! כל כך פחדת!",
+   "VL_3": "הייתי צעירה. גם אתה לא אהבת את זה.",
+   "VL_4": "לא אהבתי. הדייט הראשון הכי גרוע אי פעם.",
+   "VL_5": "אבל שרדנו.",
+   "VL_6": "כן, אני רק מקווה שנשרוד גם את המתקן הזה!"
+  },
+  "VO_SB_PlayRoom_Goldberg_Trainstation_DinoRide_Spotted": {
+   "VL_0": "זה היה דינוזאור?!",
+   "VL_1": "כן! אנחנו בארץ הדינוזאורים.",
+   "VL_2": "וואו! זה יפהפה!",
+   "VL_3": "בהחלט. והוא לוקח אותנו ישר לטירה!"
+  },
+  "VO_SB_PlayRoom_Goldberg_Trainstation_DinoRide_Start": {
+   "VL_0": "זה לא נראה כמו הדרך לטירה?",
+   "VL_1": "אמרתי לך לסמוך עליי!"
+  },
+  "VO_SB_PlayRoom_Hopscotch_Desk_Drawing": {
+   "VL_0": "אוף, עוד מתמטיקה.",
+   "VL_1": "זה ציור לפי מספרים.",
+   "VL_2": "אה! את זה אני יודע לעשות!"
+  },
+  "VO_SB_PlayRoom_Hopscotch_Desk_Math": {
+   "VL_0": "אלה שיעורי הבית של רוז!",
+   "VL_1": "נראה ש... אנחנו צריכים לפתור אותם?",
+   "VL_2": "עזרתי לה עם זה לפני כמה ערבים. זה יהיה קל!"
+  },
+  "VO_SB_PlayRoom_Hopscotch_Dungeon_TreasureChest": {
+   "VL_0": "ווהוו! וואו, זה מגניב!",
+   "VL_1": "אמרתי לך שהם יועילו!",
+   "VL_2": "אני מתה עליהם!",
+   "VL_3": "תסתובבי, תסתובבי, מיי!"
+  },
+  "VO_SB_PlayRoom_Hopscotch_Intro": {
+   "VL_0": "יש לה כל כך הרבה צעצועים.",
+   "VL_4": "האמת שחשבתי שהיא כבר גדלה מהפילה?",
+   "VL_6": "טוב, אז בוא פשוט נמצא אותה."
+  },
+  "VO_SB_PlayRoom_Hopscotch_Intro_Cody_020": {
+   "Line_1": "כן, כן, בדיוק. הא.",
+   "Line_2": "אחד פחות זה דווקא טוב."
+  },
+  "VO_SB_PlayRoom_Hopscotch_Intro_Cody_040": {
+   "Line_1": "כן.",
+   "Line_2": "כן, פשוט נקנה לה תחליף.",
+   "Line_3": "כן, זה, הגיע הזמן לחבר חדש."
+  },
+  "VO_SB_PlayRoom_Hopscotch_Intro_Cody_060": {
+   "Line_1": "היא גדלה!",
+   "Line_2": "אבל...",
+   "Line_3": "לאחרונה היא שוב נקשרה אליה.",
+   "Line_4": " אני... אני לא יודע למה."
+  },
+  "VO_SB_PlayRoom_Hopscotch_Intro_May_030": {
+   "Line_1": "אבל היא ממש אוהבת את הפילה הזאת.",
+   "Line_2": "נצטרך לקנות לה תחליף אחר כך."
+  },
+  "VO_SB_PlayRoom_Hopscotch_Kaleidoscope_Elevator": {
+   "VL_0": "אההההה! הצילו?! איפה אני?",
+   "VL_1": "תירגע, אנחנו בתוך הקליידוסקופ של רוז!",
+   "VL_2": "להירגע?! מטורף פה לגמרי!",
+   "VL_3": "זאת רק אשליה! ככה קליידוסקופים עובדים.",
+   "VL_4": "אשליה? אני עוד רגע מקיא פה! ברצינות!",
+   "VL_5": "תירגע! אל תיתן למוח שלך לעבוד עליך!"
+  },
+  "VO_SB_PlayRoom_Hopscotch_LabyrinthGame_Intro": {
+   "VL_1": "משחקי מבוך! אוי, הם כיפיים!",
+   "VL_2": "למה את כל כך מתלהבת?",
+   "VL_3": "אה, הייתי מתה עליהם בתור ילדה.",
+   "VL_4": "טוב, אף פעם לא ראיתי אותך משחקת בהם עם רוז.",
+   "VL_5": "ברור ששיחקתי. היא מנצחת אותי כל פעם."
+  },
+  "VO_SB_PlayRoom_Hopscotch_LabyrinthGame_Intro_Cody_010": {
+   "Line_1": "אוף, אל תגידי לי שאנחנו צריכים לשחק",
+   "Line_2": "עם כל צעצוע שיש לרוז!"
+  },
+  "VO_SB_PlayRoom_PillowFort_BeamUp_Intro": {
+   "VL_0": "צריך למצוא דרך לצאת מפה.",
+   "VL_2": "טוב, היא זו שבחרה אותו.",
+   "VL_3": "כן, ואת שילמת עליו. הוא היה מפחיד.",
+   "VL_6": "מקובל. עכשיו, ממשיכים."
+  },
+  "VO_SB_PlayRoom_PillowFort_BeamUp_Intro_Cody_020": {
+   "Line_1": "בפעם הבאה,",
+   "Line_2": "אפשר בבקשה לא לקנות לרוז קוף חלל מטורף?"
+  },
+  "VO_SB_PlayRoom_PillowFort_BeamUp_Intro_Cody_060": {
+   "Line_1": "כן, טוב, אנחנו לא פוגעים ברוז.",
+   "Line_2": "כלומר, אנחנו רק צריכים את הדמעות שלה,",
+   "Line_3": "כדי שההורים שלה יחזרו אליה."
+  },
+  "VO_SB_PlayRoom_PillowFort_BeamUp_Intro_May_050": {
+   "Line_1": "הוא פשוט היה מגונן.",
+   "Line_2": "כמו שאתה היית אם מישהו היה מאיים לפגוע ברוז."
+  },
+  "VO_SB_PlayRoom_PillowFort_FinalRoom": {
+   "VL_0": "הנה! רוז בצד השני.",
+   "VL_2": "השער... חסום במשהו.",
+   "VL_3": "כן, כן, נכון. באיזשהו כוח.",
+   "VL_4": "אה, הנה, משחק וידאו!",
+   "VL_5": "אולי הם מחוברים..."
+  },
+  "VO_SB_PlayRoom_PillowFort_Landing_Intro": {
+   "VL_0": "וואו, יש פה המון כריות.",
+   "VL_1": "כן, זה מבצר כריות.",
+   "VL_3": "רוז ואני בנינו אותו. אבל הוא מבולגן.",
+   "VL_4": "כן, טוב, את לא שיחקת פה לאחרונה.",
+   "VL_5": "אבל אתה בטח כן?",
+   "VL_7": "אה, לא ידעתי...",
+   "VL_8": "כי את תמיד עובדת.",
+   "VL_9": "קודי, בוא לא נדבר על זה שוב.",
+   "VL_10": "רק אומר..."
+  },
+  "VO_SB_PlayRoom_PillowFort_Landing_Intro_Cody_070": {
+   "Line_1": "אה, לא, אסור לי להיכנס לפה.",
+   "Line_2": "רוז קוראת לזה \"החלל של אמא\".",
+   "Line_3": "את יודעת, כמו, כמו בחלל החיצון."
+  },
+  "VO_SB_Shed_Awakening_Divorce_Intro": {
+   "VL_0": "איך מגיעים אליה למעלה?",
+   "VL_1": "אה, יש שם מדרגות!",
+   "VL_2": "אבל אי אפשר להגיע אליהן! אנחנו קטנטנים!",
+   "VL_3": "טוב, נמצא דרך!"
+  },
+  "VO_SB_Shed_Awakening_Fusesocket_JumpOut": {
+   "VL_0": "מיי... מיי, הגוף שלי מרגיש מוזר.",
+   "VL_3": "קצת נוקשה.",
+   "VL_4": "כן, גם לי!",
+   "VL_5": "אבל זה משתפר ככל שאני זזה.",
+   "VL_6": "אני מקווה.",
+   "VL_7": "אוף, קודי, אתה יכול בבקשה להתרכז?",
+   "VL_8": "טוב, טוב! בואי נשיג את הנתיכים!"
+  },
+  "VO_SB_Shed_Awakening_Fusesocket_JumpOut_Cody_030": {
+   "Line_1": "בסדר.",
+   "Line_2": "את לא מרגישה מוזר?",
+   "Line_3": "כלומר, את יודעת, עשויה מעץ?"
+  },
+  "VO_SB_Shed_Awakening_Fusesocket_JumpOut_May_020": {
+   "Line_1": "כי אתה עשוי מחימר?",
+   "Line_2": "תתרכז בנתיכים!"
+  },
+  "VO_SB_Shed_Awakening_Saw_Success_Cody_050_ALT01": {
+   "Line_1": "אוי, לא, את צודקת.",
+   "Line_2": "זה רציני.",
+   "Line_3": "אנחנו צדים נתיכים עם רגליים!"
+  },
+  "VO_SB_Shed_Awakening_Saw_Success_Part1": {
+   "VL_0": "וואאאא! הצילו!!",
+   "VL_1": "ווהו! וואו!"
+  },
+  "VO_SB_Shed_Awakening_Saw_Success_Part2": {
+   "VL_0": "וואו! מיי, ראית את הסלטה שלי?! בואי נעשה את זה שוב!",
+   "VL_1": "אנחנו לא פה כדי לעשות סלטות!",
+   "VL_3": "טוב, זה האחרון. יאללה, מכניסים אותו!"
+  },
+  "VO_SB_Shed_Main_Abyss_Intro": {
+   "VL_0": "איפה אנחנו?",
+   "VL_1": "את אמורה לדעת, את משתמשת במקום הזה.",
+   "VL_3": "כן, זה כמו איזו... גרסה מעוותת של המציאות."
+  },
+  "VO_SB_Shed_Main_Abyss_Intro_May_030": {
+   "Line_1": "לא הייתי פה כבר שנים.",
+   "Line_2": "וחוץ מזה, הכול נראה אחרת."
+  },
+  "VO_SB_Shed_Main_Abyss_Rust": {
+   "VL_1": "טוב, אז אל תפילי את הפטיש הזה על הבוהן שלי!",
+   "VL_2": "אל תדאג, אני יודעת להשתמש בכלים.",
+   "VL_3": "אה, כן? טוב, גם אני.",
+   "VL_6": "טוב, טוב. רק תיזהר."
+  },
+  "VO_SB_Shed_Main_Abyss_Rust_Cody_060": {
+   "Line_1": "כן, טוב...",
+   "Line_2": " בסדר, ריסקתי.",
+   "Line_3": "אבל עכשיו אני אחראי על המסמר!"
+  },
+  "VO_SB_Shed_Main_Abyss_Rust_May_010_ALT01": {
+   "Line_1": "תיזהר עם המסמר הזה, קודי.",
+   "Line_2": "אני לא רוצה אותו בעין."
+  },
+  "VO_SB_Shed_Main_Abyss_Rust_May_050": {
+   "Line_1": "פפף! בפעם האחרונה שהשתמשת בפטיש,",
+   "Line_2": "ריסקת לעצמך את האגודל."
+  },
+  "VO_SB_Shed_Main_MineMainHub": {
+   "VL_0": "אגב, את נשמעת ממש כמו האנושית חסרת הלב ההיא?"
+  },
+  "VO_SB_Shed_Main_MineMainHub_May_020": {
+   "Line_1": "פשוט יש לנו אותו שם.",
+   "Line_2": "יאללה, רק נגיע לארגז הכלים."
+  },
+  "VO_SB_Shed_Main_MineMainHub_SecondNail": {
+   "VL_0": "יש עוד מסמר. יאללה, הולכים להביא אותו!"
+  }
+ }
+}

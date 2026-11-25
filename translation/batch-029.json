@@ -1,0 +1,531 @@
+{
+ "Nuts": {
+  "VO_DB_SnowGlobe_Lake_PirateShipSpotted_Cody_010": {
+   "Line_1": "ספינת פיראטים?!",
+   "Line_2": "וואו! תמיד רציתי להיות פיראט!",
+   "Line_3": "יו-הו-הוווו!"
+  },
+  "VO_DB_SnowGlobe_Lake_PirateShipSpotted_May": {
+   "VL_0": "ספינת פיראטים. הא! קודי, תמיד רצית להיות פיראט."
+  },
+  "VO_DB_SnowGlobe_Lake_StreamFanAvoid_Cody": {
+   "VL_0": "שלא תיתפסי במאווררים!"
+  },
+  "VO_DB_SnowGlobe_Lake_StreamFanAvoid_May": {
+   "VL_0": "זהירות בקצוות!"
+  },
+  "VO_DB_SnowGlobe_Lake_UnderwaterInitial": {
+   "VL_0": "אני לא יכול לנשום!",
+   "VL_1": "אנחנו בובות, קודי. אנחנו נושמים מצוין.",
+   "VL_2": "אה... אה, נכון."
+  },
+  "VO_DB_SnowGlobe_Lake_UnderwaterLife_Cody": {
+   "VL_0": "היי, מה קורה, דגים?"
+  },
+  "VO_DB_SnowGlobe_Lake_UnderwaterLife_May": {
+   "VL_0": "וואו, כמה יפה פה! תראה את כל הדגים!"
+  },
+  "VO_DB_SnowGlobe_Mountain_CollapseGeneric_Cody": {
+   "VL_0": "אוווו! חייבים לצאת מפה!",
+   "VL_1": "וזה היה אמור להיות טיול נעים!",
+   "VL_2": "אוווו, אל תאטי, מיי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_CollapseGeneric_Effort_Cody": {
+   "VL_2": "אוווו לא!!"
+  },
+  "VO_DB_SnowGlobe_Mountain_CollapseGeneric_Effort_May": {
+   "VL_0": "אוו!",
+   "VL_2": "ווהו!"
+  },
+  "VO_DB_SnowGlobe_Mountain_CollapseGeneric_May": {
+   "VL_0": "להמשיך לזוז!",
+   "VL_1": "מהר יותר, קודי! או שזה יהרוג אותנו!",
+   "VL_2": "ודווקא התחלתי ליהנות!"
+  },
+  "VO_DB_SnowGlobe_Mountain_FirstMayHolding_May": {
+   "VL_0": "קודי, תיתפס בי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_FirstWindHint_Cody": {
+   "VL_0": "מיי, תיתפסי בשלט!"
+  },
+  "VO_DB_SnowGlobe_Mountain_HouseSpotted_May_010": {
+   "Line_1": "תראה, בקתה!",
+   "Line_2": "בוא נראה אם הם יודעים איך מגיעים לפסגה."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveEntranceCody": {
+   "VL_0": "אה, יפה שהדבקת את הקצב!",
+   "VL_1": "כן, ממתי אתה כזה מהיר?",
+   "VL_2": "הו-הו! אני מכונת מהירות!"
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveEntranceMay": {
+   "VL_0": "היי, אני רואה שהגעת.",
+   "VL_1": "הא! וואו! ממתי את כל כך מהירה?",
+   "VL_2": "הרגליים האלה נולדו למרוצים."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveHooks_Cody": {
+   "VL_0": "מיי! תסתכלי על הווים למעלה."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveHooks_May": {
+   "VL_0": "אהה, הווים האלה בתקרה יעזרו לנו."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveMammoth_Cody_020": {
+   "Line_1": "כיף לראות אותך מתחרפנת",
+   "Line_2": "על הדברים האלה, הה,",
+   "Line_3": "אבל אני רק מקווה שהם יחזיקו!"
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveMammoth_May_010": {
+   "Line_1": "מדהים!",
+   "Line_2": "השרידים האלה בטח בני אלפי שנים."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveMammoth_May_030": {
+   "Line_1": "אלה היו יצורים אדירים.",
+   "Line_2": "אנחנו כמו נמלים לידם!"
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveObject_May": {
+   "VL_0": "תראה, אפשר להחליק את הדבר הזה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveTroll": {
+   "VL_0": "הו! ...זה מפלצת?",
+   "VL_1": "מה שזה לא יהיה, טוב שזה קפוא."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveWarning_Cody": {
+   "VL_0": "הקרח הזה לא נראה יציב במיוחד."
+  },
+  "VO_DB_SnowGlobe_Mountain_IceCaveWarning_May": {
+   "VL_0": "המממ, אני רואה סדקים בקרח הזה."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionCarryCody_Cody": {
+   "VL_0": "אפשר טרמפ?",
+   "VL_1": "את מסתדרת, נכון?",
+   "VL_2": "אוווו, הנוף יותר יפה מפה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionCarryCodyReply_May": {
+   "VL_0": "בסדר.",
+   "VL_1": "ברור.",
+   "VL_2": "אוף! חימר זה כבד."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionCarryMay_May": {
+   "VL_0": "אוי, תודה על הקוקו!",
+   "VL_1": "זה בסדר אם אשב פה קצת?",
+   "VL_2": "ממם! נוח פה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionCarryMayReply_Cody": {
+   "VL_0": "בטח.",
+   "VL_1": "אוקיי.",
+   "VL_2": "עץ זה לא צחוק."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionGeneric_Cody": {
+   "VL_0": "וואו, אני ממש מרגיש את המגנט הזה נמשך אלייך.",
+   "VL_1": "בטוח שהמגנט שלי יכול למשוך גם את שלך.",
+   "VL_3": "קשה לעמוד בפני הכוח הזה!",
+   "VL_4": "רגע, מגנט, עוד מעט תחזור אליה."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionGeneric_May": {
+   "VL_0": "המגנט שלך מושך את המגנט שלי.",
+   "VL_2": "המגנטים שלנו יכולים לקרב אותנו!",
+   "VL_3": "אני ממש מרגישה את המשיכה המגנטית אליך.",
+   "VL_4": "המשיכה בין המגנטים מתחזקת."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionGeneric_May_020": {
+   "Line_1": "הספר צדק.",
+   "Line_2": "המגנטים שלנו שוב מגיבים זה לזה."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionIceWall_Cody": {
+   "VL_0": "בטוח ששנינו ביחד נשבור את הקיר הזה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionIceWall_May": {
+   "VL_0": "נראה לי שביחד נוכל לנפץ את קיר הקרח הזה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionIceWallSuccess": {
+   "VL_0": "וואו, החמודים האלה חזקים!",
+   "VL_1": "בהחלט. השלם גדול מסכום חלקיו."
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionSync_Cody": {
+   "VL_0": "היי מיי, צריך לעשות את זה ביחד. בתיאום!"
+  },
+  "VO_DB_SnowGlobe_Mountain_MagnetAttractionSync_May_010": {
+   "Line_1": "טוב קודי, ננסה באותו רגע.",
+   "Line_2": "ניפגש באמצע."
+  },
+  "VO_DB_SnowGlobe_Mountain_WindGust_Cody": {
+   "VL_0": "הסערה!",
+   "VL_1": "הנה באה הרוח!",
+   "VL_2": "אה, אני שומע אותה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindGust_May": {
+   "VL_0": "הרוח מתחזקת!",
+   "VL_1": "עיניים קדימה, זה מגיע!",
+   "VL_2": "משבי רוח בדרך!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalk_Cody": {
+   "VL_0": "תחזיקי חזק, מיי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalk_May": {
+   "VL_0": "אל תעזוב, קודי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkCover_Cody": {
+   "VL_0": "אוו, ברררר, מוגנים מהרוח!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkCover_May": {
+   "VL_0": "אהה, הרוח לא מגיעה אלינו פה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkFinalPuzzleHint": {
+   "VL_0": "אחד מאיתנו צריך להגיע לצד השני!",
+   "VL_1": "אז מישהו יצטרך לעשות את זה לבד!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkFinalPuzzleHintGeneric_Cody_010": {
+   "Line_1": "מיי,",
+   "Line_2": "את חושבת שתצליחי להגיע לבד\nלצד השני?"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkFinalPuzzleHintGeneric_May_010": {
+   "Line_1": "קודי, זה יהיה קשה,",
+   "Line_2": "אבל אתה יכול לעבור לצד השני?"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkFirstGust_May": {
+   "VL_0": "אאאאה, נראה לי שזה לא יהיה כל כך קל!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkHoldGeneric_Cody": {
+   "VL_0": "אתה יכול, קודי! תמשיך לדחוף!",
+   "VL_1": "אנחנו נעבור את זה!",
+   "VL_2": "אני סומך עלייך, מיי! תילחמי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkHoldGeneric_May": {
+   "VL_0": "אל תוותרי, מיי! בלעדייך זה לא ילך!",
+   "VL_1": "תמשיכי, מיי! ביחד נעבור את זה!",
+   "VL_2": "אהההה, נילחם בזה ביחד!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkOtherSide_Cody": {
+   "VL_0": "יש מחסה בצד השני, מיי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkOtherSide_May": {
+   "VL_0": "נוכל למצוא מחסה בצד השני!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkSwept_Cody": {
+   "VL_0": "אני מאבד אחיזה, הצילו!",
+   "VL_1": "הרוח סוחפת אותיייי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkSwept_May": {
+   "VL_0": "הרוווח. אאאאה, הצייייילו!",
+   "VL_1": "אוף, היא חזקה מדי!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkTowerNear_Cody": {
+   "VL_0": "הנה המגדל! רק עוד מאמץ אחרון."
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkTowerNear_May": {
+   "VL_0": "אנחנו כמעט ליד המגדל!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkTowerSpotted": {
+   "VL_0": "הנה המגדל!",
+   "VL_1": "אה, מעולה, רק צריך לטפס על הגבעה הזאת. קלי קלות!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkTunnel_Cody": {
+   "VL_0": "קדימה מיי. דרך המנהרה!"
+  },
+  "VO_DB_SnowGlobe_Mountain_WindWalkTunnel_May": {
+   "VL_0": "לשם, דרך המנהרה!"
+  },
+  "VO_DB_SnowGlobe_Town_AfterSki": {
+   "VL_0": "נו הייייי, יש לנו פה מסיבה! מגניב!",
+   "VL_1": "כן, זה כבר משהו אחר!"
+  },
+  "VO_DB_SnowGlobe_Town_BigWheel": {
+   "VL_0": "וואו, זאת מכונה רצינית.",
+   "VL_1": "כן, ראיתי את מגדל הפעמון למעלה."
+  },
+  "VO_DB_SnowGlobe_Town_BigWheelHint_Cody": {
+   "VL_0": "נראה לי שצריך ללכת באותו רגע!"
+  },
+  "VO_DB_SnowGlobe_Town_BigWheelHint_May": {
+   "VL_0": "אנחנו צריכים לעבוד בתיאום!"
+  },
+  "VO_DB_SnowGlobe_Town_BigWheelHint2_Cody": {
+   "VL_0": "היי מיי, תעלי לפה!"
+  },
+  "VO_DB_SnowGlobe_Town_BigWheelHint2_May": {
+   "VL_0": "תעלה אליי לפה, קודי!"
+  },
+  "VO_DB_SnowGlobe_Town_BigWheelSpinning_Cody": {
+   "VL_0": "תראי! הגלגל הגדול מסתובב!"
+  },
+  "VO_DB_SnowGlobe_Town_BigWheelSpinning_May": {
+   "VL_0": "נראה שזה מה שמסובב את הגלגל הגדול!"
+  },
+  "VO_DB_SnowGlobe_Town_Bobsled_Whale_Enter_Cody": {
+   "VL_0": "אוי לא! זה לווייתן?!"
+  },
+  "VO_DB_SnowGlobe_Town_Bobsled_Whale_Enter_May": {
+   "VL_0": "ווהו! לתוך בטן החיה!"
+  },
+  "VO_DB_SnowGlobe_Town_Bobsled_Whale_Inside": {
+   "VL_0": "אוי! טוב, זהו. תוציאי אותי מפה, מיי!",
+   "VL_2": "אוי! אני מרגיש כמו במובי דיק!"
+  },
+  "VO_DB_SnowGlobe_Town_Bobsled_Whale_Inside_May_020": {
+   "Line_1": "חחחח! על מה אתה מדבר?",
+   "Line_2": "זה מגניב בטירוף!"
+  },
+  "VO_DB_SnowGlobe_Town_CableCartReminder_Cody": {
+   "VL_0": "טוב, אולי הגיע הזמן ללכת לרכבל."
+  },
+  "VO_DB_SnowGlobe_Town_CableCartSpotted_May": {
+   "VL_0": "אה! אנחנו צריכים להגיע לרכבל!"
+  },
+  "VO_DB_SnowGlobe_Town_CranePuzzle_Cody": {
+   "VL_0": "אני יכול להחזיק את זה רק לרגע!"
+  },
+  "VO_DB_SnowGlobe_Town_CranePuzzle_May": {
+   "VL_0": "המממ, אולי אפשר להשתמש במנוף הזה..."
+  },
+  "VO_DB_SnowGlobe_Town_Eating_Food_Cody": {
+   "VL_0": "ממממ, טעים!",
+   "VL_1": "אוו, ממם! כל כך טעים!",
+   "VL_2": "אוף, אני לא יכול לאכול עוד ביס... אולי כן."
+  },
+  "VO_DB_SnowGlobe_Town_Eating_Food_May": {
+   "VL_0": "ממם! זה מעולה.",
+   "VL_1": "אהההה, כמה טוב!",
+   "VL_2": "אני לא יכולה יותר. אוו, אבל אני רוצה עוד!"
+  },
+  "VO_DB_SnowGlobe_Town_FirstBellApproach_May": {
+   "VL_0": "נו, מה יש להפסיד!"
+  },
+  "VO_DB_SnowGlobe_Town_FirstBellRing": {
+   "VL_0": "הצליל המתוק של ההצלחה! כל הכבוד לנו!!",
+   "VL_1": "צודק לגמרי. עשינו עבודה טובה!"
+  },
+  "VO_DB_SnowGlobe_Town_IceWallBellTowerApproach_Cody": {
+   "VL_0": "איך עוד אפשר לעלות לשם?"
+  },
+  "VO_DB_SnowGlobe_Town_IceWallBellTowerApproach_May": {
+   "VL_0": "אממ, אני לא רואה דרך לעלות מפה."
+  },
+  "VO_DB_SnowGlobe_Town_IceWallBirds_Cody_010": {
+   "Line_1": "אוו, נראה שהערנו את הציפורים!",
+   "Line_2": "אולי הן ייתנו לנו טרמפ."
+  },
+  "VO_DB_SnowGlobe_Town_IceWallCannon_FirstPlatform_Cody": {
+   "VL_0": "וואו! איזה תנועות חלקות, מיי!"
+  },
+  "VO_DB_SnowGlobe_Town_IceWallCannon_Midway_May_010": {
+   "Line_1": "אוי, אני ממש ממש למעלה.",
+   "Line_2": "תמשיך לשלוח מגנטים!",
+   "Line_3": "אני לא רוצה ליפול!"
+  },
+  "VO_DB_SnowGlobe_Town_IceWallCannon_Start_Cody": {
+   "VL_0": "אה-הא! נראה לי שאני והתותח הזה נסתדר מצוין."
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_Approach_Cody": {
+   "VL_0": "מגניב! בואי נזרוק חצים מנטיפי קרח!"
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_Approach_May": {
+   "VL_0": "לוחות מטרה! עם קרח? מגניב!"
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_CodyWins": {
+   "VL_0": "או יה! אני אלוף העולם!",
+   "VL_1": "יופי. אבל אנחנו בתוך כדור שלג. זה עולם קטנטן."
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_MayWins": {
+   "VL_0": "וזאת זריקת הניצחון!",
+   "VL_1": "אוףףף, האצבעות שלי קפואות!"
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_Start": {
+   "VL_0": "חצים זה בדיוק המשחק שלי.",
+   "VL_1": "כן, אבל אף פעם לא שיחקת חצים מקרח.",
+   "VL_2": "אותם עקרונות."
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_Taunt_Cody": {
+   "VL_0": "זריקת קרח!",
+   "VL_1": "אני מת על הצליל הזה!",
+   "VL_2": "הקפאתי אותו!"
+  },
+  "VO_DB_SnowGlobe_Town_IcicleThrowing_Taunt_May": {
+   "VL_0": "קלע בול, חץ שלי!",
+   "VL_1": "זריקה מושלמת!",
+   "VL_2": "קר לי בידיים, אבל זה שווה את זה!"
+  },
+  "VO_DB_SnowGlobe_Town_MagnetHats_GetNew_Cody": {
+   "VL_0": "אוווו, מהמם!",
+   "VL_1": "אוו, זה מרגיש טוב.",
+   "VL_2": "היי, אני רק שואל אותו!"
+  },
+  "VO_DB_SnowGlobe_Town_MagnetHats_GetNew_May": {
+   "VL_0": "אוי, אני מתה על הכובע הזה!",
+   "VL_1": "אפשר לשמור אותו?",
+   "VL_2": "הוא יושב עליי בול."
+  },
+  "VO_DB_SnowGlobe_Town_MagnetHats_HatStolen_Cody": {
+   "VL_0": "היי, זה שלי!",
+   "VL_1": "תחזירי את זה, טוב?!",
+   "VL_2": "הייי, עליי הוא יושב יותר טוב!"
+  },
+  "VO_DB_SnowGlobe_Town_MagnetHats_HatStolen_May": {
+   "VL_0": "היי! עליי זה נראה הרבה יותר טוב!",
+   "VL_1": "קודי, תחזיר את זה!",
+   "VL_2": "ממם... זה לא הסגנון שלך."
+  },
+  "VO_DB_SnowGlobe_Town_PostBellRing_Cody": {
+   "VL_0": "אוו, נראה לי שאני רואה שוק קטן. איזה חמוד!"
+  },
+  "VO_DB_SnowGlobe_Town_PostBellRing_May": {
+   "VL_0": "תראה את האורות. עכשיו הרבה יותר חם פה!"
+  },
+  "VO_DB_SnowGlobe_Town_PostBellRing2_Cody": {
+   "VL_0": "היי, אקווריום!"
+  },
+  "VO_DB_SnowGlobe_Town_PostBellRing2_May_010": {
+   "Line_1": "אוווו, מישהו עושה מלאכי שלג!",
+   "Line_2": "כל כך אהבתי לעשות את זה כשהייתי ילדה!"
+  },
+  "VO_DB_SnowGlobe_Town_PostBellRing3_Cody": {
+   "VL_0": "וואו, יש למקום הזה אנרגיה מעולה עכשיו."
+  },
+  "VO_DB_SnowGlobe_Town_PostBellRing3_May": {
+   "VL_0": "אוווו, עכשיו העיירה נראית כמו שאני זוכרת אותה."
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_Approach_Cody": {
+   "VL_0": "תראי, מיי! שאפלבורד על קרח!"
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_Approach_May": {
+   "VL_0": "קודי, מצאתי שאפלבורד על קרח!"
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_CodyWins": {
+   "VL_0": "זאת דיסקית מנצחת!",
+   "VL_1": "זה נקרא מזל."
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_MayWins": {
+   "VL_0": "מי האלופה, קודי?",
+   "VL_1": "נראה לי שמישהו נגע לי בדיסקיות!"
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_Start": {
+   "VL_0": "אני הולך להעיף אותך.",
+   "VL_1": "חלומות באספמיה.",
+   "VL_2": "עיניים על הדיסקית שלי."
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_Taunt_Cody": {
+   "VL_0": "סעי, דיסקית!",
+   "VL_1": "נקודה!",
+   "VL_2": "ככה משחק אלוף!"
+  },
+  "VO_DB_SnowGlobe_Town_ShuffleBoard_Taunt_May": {
+   "VL_0": "החלקה חלקה!",
+   "VL_1": "נקודות בשבילי!",
+   "VL_2": "יכולתי לשחק בזה כל היום."
+  },
+  "VO_DB_SnowGlobe_Town_SnowAngels_Interact_Cody": {
+   "VL_0": "אני מלאך. תראי את הכנפיים שלי!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowAngels_Interact_May": {
+   "VL_0": "הא-הא! עדיין כל כך כיף!"
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_Approach_Cody_010": {
+   "Line_1": "אוווו, ערימה של כדורי שלג!",
+   "Line_2": "חחחח!",
+   "Line_3": "בוא נראה אם עוד יש לי את זה!"
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_Approach_May": {
+   "VL_0": "ערימה של כדורי שלג... הא! אולי אזרוק אחד או שניים."
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_HitReactionOther_Cody_010": {
+   "Line_1": "אוווו! טוב, נו,",
+   "Line_2": "את יודעת, מ-מסוכן פה בחוץ!"
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_HitReactionOther_May": {
+   "VL_0": "אופס, סליחה! אין לך סיכוי, צב."
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_HitTaunt_Cody": {
+   "VL_0": "תפסתי אותך!"
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_HitTaunt_May": {
+   "VL_0": "היהי, בול!"
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_PickUp_Cody": {
+   "VL_0": "אוו, אני אתפוס אותך!"
+  },
+  "VO_DB_SnowGlobe_Town_Snowballs_PickUp_May": {
+   "VL_0": "זהירות, זה מגיע!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowCannon_Activate_Cody": {
+   "VL_0": "היי חבר'ה, עוד שלג! אתם צריכים את זה, הה!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowCannon_Activate_May": {
+   "VL_0": "שירד שלג!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowglobersSpotted_May": {
+   "VL_0": "אוי היי, יש פה אנשים... אה, יצורים?"
+  },
+  "VO_DB_Snowglobe_Town_SnowTurtles_FirstDiscovery_Cody": {
+   "VL_0": "צב? פה בחוץ?"
+  },
+  "VO_DB_Snowglobe_Town_SnowTurtles_FirstDiscovery_May": {
+   "VL_0": "אוי, אתה פה לבד, צב?"
+  },
+  "VO_DB_Snowglobe_Town_SnowTurtles_FirstTurtleBack_Cody": {
+   "VL_0": "תירגע, צב. אנחנו נחזיר לך את הילדים."
+  },
+  "VO_DB_Snowglobe_Town_SnowTurtles_FirstTurtleBack_May": {
+   "VL_0": "אל תדאג, אנחנו מבטיחים להחזיר את הילדים שלך הביתה."
+  },
+  "VO_DB_Snowglobe_Town_SnowTurtles_OnCompletion_Cody": {
+   "VL_0": "הנה! המשפחה התאחדה!"
+  },
+  "VO_DB_Snowglobe_Town_SnowTurtles_OnCompletion_May": {
+   "VL_0": "ועכשיו המשפחה שלמה!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_Approach_Cody": {
+   "VL_0": "מיי! כדורי שלג! הגיע הזמן למלחמה. "
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_Approach_May": {
+   "VL_0": "היי קודי, מוכן לחטוף כדור שלג?"
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_CodyWins": {
+   "VL_0": "אה, הטעם המתוק של הניצחון.",
+   "VL_1": "נו באמת, זה רק קרב כדורי שלג."
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_MayWins": {
+   "VL_0": "באתי, ראיתי, כבשתי.",
+   "VL_1": "מישהי ממש נכנסה לקרב כדורי השלג הזה."
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_Start": {
+   "VL_0": "הוכרזה מלחמה!",
+   "VL_1": "ואני אנצח אותך, נבל השלג!",
+   "VL_2": "גם לך מחכה נפילה, כמו לכל השאר!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_Taunt_Cody": {
+   "VL_0": "הו! קדימה, תביאי!",
+   "VL_1": "הא-הא-הא! אין כמו קרב כדורי שלג!",
+   "VL_2": "אוו! ריסקתי!"
+  },
+  "VO_DB_SnowGlobe_Town_SnowWarfare_Taunt_May": {
+   "VL_0": "באם!",
+   "VL_1": "ווהו! אני בוערת.",
+   "VL_2": "הא! אמנות המלחמה!"
+  },
+  "VO_DB_SnowGlobe_Town_Sunchairs": {
+   "VL_0": "פיו, הזדמנות להירגע. תודה!",
+   "VL_1": "פה בילינו גם בפעם הקודמת, זוכר?",
+   "VL_2": "את צודקת! אוי, אני אוהב את הכיסאות האלה.",
+   "VL_3": "ממם, אני מרגישה את השמש מחממת לי את הפנים."
+  },
+  "VO_DB_SnowGlobe_Town_SunchairsGeneric_Cody": {
+   "VL_0": "אוווו אחי, כמה שזה טוב!"
+  },
+  "VO_DB_SnowGlobe_Town_SunchairsGeneric_Cody_020": {
+   "Line_1": "מגיע לי.",
+   "Line_2": "הייתי ילד טוב.",
+   "Line_3": "אולי לא מצוין, אבל טוב מספיק."
+  },
+  "VO_DB_SnowGlobe_Town_SunchairsGeneric_Cody_030": {
+   "Line_1": "לא, באמת?",
+   "Line_2": "כן, מגיע לך, קודי.",
+   "Line_3": "תן לעצמך טפיחה על השכם, קדימה.",
+   "Line_4": "אוי, זה קשה מדי.",
+   "Line_5": "טוב.",
+   "Line_6": "הנה, טפיחה מחשבתית על השכם.",
+   "Line_7": "זה טוב באותה מידה."
+  },
+  "VO_DB_SnowGlobe_Town_SunchairsGeneric_May": {
+   "VL_0": "אוי, אם הייתי יכולה לעשות את זה כל יום, זה היה גן עדן!",
+   "VL_2": "אוי, כמעט נרדמתי פה לרגע."
+  }
+ }
+}

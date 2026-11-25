@@ -1,0 +1,530 @@
+{
+ "Nuts": {
+  "VO_DB_Garden_Shrubbery_BumbleBeeBasket_Taunt_May": {
+   "VL_0": "תאכלו, תאכלו!",
+   "VL_1": "זה טירוף של זלילה!",
+   "VL_2": "בתיאבון! "
+  },
+  "VO_DB_Garden_Shrubbery_DandelionReminder_Cody": {
+   "VL_0": "אני צריך הקפצה פה, מיי!"
+  },
+  "VO_DB_Garden_Shrubbery_FinalCombat_EnemyReact_Cody": {
+   "VL_0": "תרגישו את הצריבה של איש הנבט!",
+   "VL_1": "אה, גם אתם רוצים?",
+   "VL_2": "יש לי עוד מאיפה שזה בא!",
+   "VL_3": "ותישארו למטה!"
+  },
+  "VO_DB_Garden_Shrubbery_FinalCombat_EnemyReact_May": {
+   "VL_0": "אני אקצור את כולכם, קדימה!",
+   "VL_1": "זוזו לי מהדרך!",
+   "VL_2": "איך אתם אוהבים את הניכוש הזה?",
+   "VL_3": "תמשיכו לרוץ לי לתוך החרמש!",
+   "VL_4": "רוצים עוד?"
+  },
+  "VO_DB_Garden_Shrubbery_FinalCombatEnd": {
+   "VL_0": "תודה ששמרת עליי, קודי.",
+   "VL_1": "עוד יום עבודה רגיל של איש הקקטוס."
+  },
+  "VO_DB_Garden_Shrubbery_FinalCombatHalfway": {
+   "VL_0": "איך הולך עם הפרח, מיי? הם לא מפסיקים לבוא!",
+   "VL_1": "הוא צמא רצח, אבל אני עובדת על זה!"
+  },
+  "VO_DB_Garden_Shrubbery_FinalCombatHalfwayReminder_May_010": {
+   "Line_1": "תרחיק אותם ממני, קודי!",
+   "Line_2": "אני לא רוצה לחטוף קוץ בגב!"
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_Approach_Cody": {
+   "VL_0": "אוי, מיי, תראי את אלה! מתערב שלא תעזי להתנדנד!"
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_Approach_May": {
+   "VL_0": "אוי, נדנדות! אני ממש צריכה לשחרר קצת לחץ!"
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_CodyWins": {
+   "VL_0": "זאת הייתה קפיצה של אלוף!",
+   "VL_1": "קפיצה אחת לא עושה אותך אלוף."
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_MayWins": {
+   "VL_0": "ראית את הקפיצה שלי? ברמה עולמית!",
+   "VL_1": "כלומר, היא הייתה סבירה, במקרה הטוב."
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_Start": {
+   "VL_0": "אז מי נופל ראשון?",
+   "VL_1": "הא! הגיע הזמן לעוף!",
+   "VL_2": "טוב, אצלי זה ישר להמראה!"
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_Taunt_Cody": {
+   "VL_0": "אוי, זאת הנדנדה הכי טובה שלך, מיי?",
+   "VL_1": "מיי, קשה לראות אותך מכאן למעלה!",
+   "VL_2": "אני מוכן לשיגור!"
+  },
+  "VO_DB_Garden_Shrubbery_GardenSwings_Taunt_May": {
+   "VL_0": "קודי, כדאי שתתנדנד חזק יותר אם אתה רוצה לנצח!",
+   "VL_1": "וואו, עכשיו אני מרגישה את זה!",
+   "VL_2": "בקרת קרקע, אני מוכנה להמראה."
+  },
+  "VO_DB_Garden_Shrubbery_GenericExploration_Cody": {
+   "VL_0": "אוי, הלוואי שרוז הייתה פה לראות את זה!"
+  },
+  "VO_DB_Garden_Shrubbery_GenericExploration_May": {
+   "VL_0": "אוי, אני מתגעגעת לטיולים ביערות."
+  },
+  "VO_DB_Garden_Shrubbery_MushroomField": {
+   "VL_0": "יו-הו! קפיצי!",
+   "VL_1": "מושלם!"
+  },
+  "VO_DB_Garden_Shrubbery_SapWall_Cody_010": {
+   "Line_1": "אוף, הזבל הסגול הזה חוסם את הדרך!",
+   "Line_2": "מיי, את יכולה לשטוף את זה?"
+  },
+  "VO_DB_Garden_Shrubbery_SapWallCodySprayed": {
+   "VL_0": "לא עליי! על הקיר!"
+  },
+  "VO_DB_Garden_Shrubbery_SapWallReminder_Cody": {
+   "VL_0": "היי מיי, אפשר לקבל קצת מים שם?"
+  },
+  "VO_DB_Garden_Shrubbery_SapWallWhipWheelReminder": {
+   "VL_0": "קודי, חכה! אני תקועה פה.",
+   "VL_1": "אה! הה, נכון. אה, בואי נראה, אממ..."
+  },
+  "VO_DB_Garden_Shrubbery_SinkingLog_PostEscape": {
+   "VL_0": "או!! מיי, איפה את?",
+   "VL_1": "אני אסתדר. ניפגש בהמשך.",
+   "VL_2": "בסדר."
+  },
+  "VO_DB_Garden_Shrubbery_SinkingLogGeneric_Cody": {
+   "VL_0": "אההה! או!",
+   "VL_1": "וואו-הו! אההה!",
+   "VL_2": "רגע, רק-- או!!"
+  },
+  "VO_DB_Garden_Shrubbery_SinkingLogGeneric_May": {
+   "VL_0": "אה!",
+   "VL_1": "וואו!",
+   "VL_2": "אהה!"
+  },
+  "VO_DB_Garden_Shrubbery_SinkingLogHalfway_May": {
+   "VL_0": "מהר! לפני שנטבע פה!"
+  },
+  "VO_DB_Garden_Shrubbery_SpawnEnemies_Warning_Cody": {
+   "VL_0": "יש עוד מהם!",
+   "VL_1": "זה עוד לא נגמר!",
+   "VL_2": "זהירות, מיי! עוד יצורים!"
+  },
+  "VO_DB_Garden_Shrubbery_SpawnEnemies_Warning_May": {
+   "VL_0": "עיניים פקוחות! הנה הם באים!",
+   "VL_1": "נראה שיש עוד צרות!",
+   "VL_2": "זהירות, קודי! באים עוד!"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderFirstJump_Cody": {
+   "VL_0": "הא, חושב שתוכל להוציא אותנו מפה, עכבישון?"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderGenericReact_Cody": {
+   "VL_0": "היי עכבישון, הכול בסדר שם למטה?",
+   "VL_1": "עכביש חזק מאוד. אני ממש גאה בך!"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderGenericReact_May": {
+   "VL_1": "יש לך כמה טריקים יפים, עכביש קטן!"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderGenericReact_May_010": {
+   "Line_1": "אף פעם לא היה לי עכביש מחמד,",
+   "Line_2": "אבל אתה פשוט כזה חמוד ומתחבק."
+  },
+  "VO_DB_Garden_Shrubbery_SpiderGnome_Spotted": {
+   "VL_0": "היי, הנה גמד הגינה שלי!",
+   "VL_1": "אף פעם לא אהבתי אותם.",
+   "VL_2": "יש בהם סטייל.",
+   "VL_3": "הם מצמררים."
+  },
+  "VO_DB_Garden_Shrubbery_SpiderHalfwayReact_May": {
+   "VL_0": "תודה שוב על הטרמפ, עכביש!"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderSpeedReact_May": {
+   "VL_0": "וואו, אתה עכביש מהיר!"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderUpsideDown_Cody": {
+   "VL_0": "וואו, לאן אנחנו הולכים?!",
+   "VL_1": "אוי, אוי-אוי, נראה לי שאני מתחיל להרגיש בחילה שוב."
+  },
+  "VO_DB_Garden_Shrubbery_SpiderUpsideDown_Effort_May": {
+   "VL_0": "הו-הו! אהה!",
+   "VL_1": "ווווו!"
+  },
+  "VO_DB_Garden_Shrubbery_SpiderUpsideDown_May": {
+   "VL_0": "וואו! כדאי שאחזיק את המשקפיים!",
+   "VL_1": "קודי, תחזיק חזק בקטע הזה!"
+  },
+  "VO_DB_Garden_Shrubbery_TreeCombat_Halfway": {
+   "VL_0": "אנחנו מחלישים אותו, מיי. תמשיכי ככה!",
+   "VL_1": "גם אתה!"
+  },
+  "VO_DB_Garden_Shrubbery_TreeCombat_SliceReaction_May": {
+   "VL_0": "אוף, אני לא מצליחה לחדור!"
+  },
+  "VO_DB_Garden_Shrubbery_TreeCombatHint": {
+   "VL_0": "קודי, תזיז לו את המגן!",
+   "VL_1": "אני על זה!"
+  },
+  "VO_DB_Garden_Shrubbery_WaterPlant_FirstOpen_Cody": {
+   "VL_0": "פה גדול."
+  },
+  "VO_DB_Garden_VegetablePatch_Beanstalk": {
+   "VL_0": "וואו, אתה כל כך יפה, קודי!",
+   "VL_1": "נכון? אה, ונראה לי שאני יכול לעזור לך לעבור!"
+  },
+  "VO_DB_Garden_VegetablePatch_Beanstalk_VinesCluster": {
+   "VL_1": "יהיה בסדר! רק צריך לקצוץ את הכול, נכון?",
+   "VL_2": "טוב, הלוואי שזה כזה פשוט."
+  },
+  "VO_DB_Garden_VegetablePatch_Beanstalk_VinesCluster_Cody_010": {
+   "Line_1": "אוווו, זה באמת בכל מקום!",
+   "Line_2": "איך נתתי לזה לקרות?"
+  },
+  "VO_DB_Garden_VegetablePatch_BeanstalkMax_Cody": {
+   "VL_0": "נראה לי שזה הכי רחוק שאני יכול להימתח!",
+   "VL_1": "טוב, אני כבר לא יכול.",
+   "VL_2": "אוווו! אין יותר."
+  },
+  "VO_DB_Garden_VegetablePatch_Burrower_End": {
+   "VL_0": "עשבים שוטים מחורבנים... קליפה, דברים.",
+   "VL_1": "נו, הצלפנו בהם עד שהתיישרו, לא?",
+   "VL_2": "כן... טובה."
+  },
+  "VO_DB_Garden_VegetablePatch_Burrower_EnemySpawn_May": {
+   "VL_0": "אהה, יש לנו עוד אורחים!"
+  },
+  "VO_DB_Garden_VegetablePatch_Burrower_SickleHint_Cody": {
+   "VL_0": "תפסתי אותו, מיי!",
+   "VL_1": "תחתכי אותו, מיי!"
+  },
+  "VO_DB_Garden_VegetablePatch_Burrower_WhipHint_May": {
+   "VL_0": "תחזיק אותו, קודי!",
+   "VL_1": "הוא זז כל כך הרבה!"
+  },
+  "VO_DB_Garden_VegetablePatch_Dandelion_HintFirst_Cody": {
+   "VL_0": "אולי כדאי שאלך לטפל בנבטי השן-ארי האלה."
+  },
+  "VO_DB_Garden_VegetablePatch_Dandelion_HintSecond_May_010": {
+   "Line_1": "היי, למה שלא תקפוץ פשוט לתוך העציץ?",
+   "Line_2": "תהיה אחד עם הגינה שלך."
+  },
+  "VO_DB_Garden_VegetablePatch_Dandelion_Infection_May": {
+   "VL_0": "עוד אחד כזה..."
+  },
+  "VO_DB_Garden_VegetablePatch_Dandelion_InfectionDestroyed_May": {
+   "VL_0": "אוי, ככה יותר טוב! העציץ הזה נראה קצת יבש."
+  },
+  "VO_DB_Garden_VegetablePatch_Dandelion_PitTraversal_May_010": {
+   "Line_1": "תעזור לי לעבור!",
+   "Line_2": "אני לא יכולה להפוך בקסם לפרח."
+  },
+  "VO_DB_Garden_VegetablePatch_Dandelion_Transform": {
+   "VL_0": "וואו! אני רזה יותר?!",
+   "VL_1": "קודי?! זה אתה?",
+   "VL_2": "כן! זה מדהים!"
+  },
+  "VO_DB_Garden_VegetablePatch_DandelionAcrossSuccess_May": {
+   "VL_0": "תודה, קודי!"
+  },
+  "VO_DB_Garden_VegetablePatch_EnterSpa_Cody_010": {
+   "Line_1": "הייייי, זה נראה סופר נעים!",
+   "Line_2": "מעניין אם אפשר לקבל פה עיסוי, הה.",
+   "Line_3": "וואו, כמה שאני צריך אחד!"
+  },
+  "VO_DB_Garden_VegetablePatch_EnterSpa_May": {
+   "VL_0": "ספא?! פה? אוי, הייתי הורגת בשביל עיסוי כפות רגליים!"
+  },
+  "VO_DB_Garden_VegetablePatch_FirstCactus": {
+   "VL_1": "יאללה, בוא נראה מה אתה שווה!"
+  },
+  "VO_DB_Garden_VegetablePatch_FirstCactusSpotted": {
+   "VL_0": "מה יש לנו פה?",
+   "VL_1": "או-הו-הו, אין לי סבלנות!"
+  },
+  "VO_DB_Garden_VegetablePatch_FirstEnemyComplete": {
+   "VL_0": "נו, זה ילמד אותם להתרחק מהגינה שלי!",
+   "VL_1": "פיצחת את זה, קודי!",
+   "VL_2": "או יה! בסגנון קקטוס!"
+  },
+  "VO_DB_Garden_VegetablePatch_FirstEnemySpawn": {
+   "VL_0": "מה זה, לעזאזל?!",
+   "VL_1": "לא אכפת לי! הם לא עוברים אותי!"
+  },
+  "VO_DB_Garden_VegetablePatch_PotBloom_May": {
+   "VL_0": "אוי, זה היה מהר!"
+  },
+  "VO_DB_Garden_VegetablePatch_SickleReact_May": {
+   "VL_0": "וואו, הדבר הזה חד!"
+  },
+  "VO_DB_Garden_VegetablePatch_SickleReactBulb_May": {
+   "VL_0": "איכס, זה מרגיש כל כך מגעיל!"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaAcupuncture_Cody": {
+   "VL_0": "אני לא כל כך בטוח לגבי זה.",
+   "VL_1": "אהההה, אוי, זה מוזר!"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaAcupuncture_May": {
+   "VL_0": "תמיד תהיתי אם זה כואב...",
+   "VL_1": "אה, זה קצת לא נוח, אבל גם טוב?"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaFootMassage_Cody": {
+   "VL_1": "אההה, עיסוי כפות רגליים זה הכי אהוב עליי. אהה!"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaFootMassage_Cody_010": {
+   "Line_1": "חחח, זה מדגדג, זה מדגדג!",
+   "Line_2": "אה, אבל אני אוהב את זה בכל זאת."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaFootMassage_May": {
+   "VL_0": "הרגליים שלי הרוסות, אבל זה ממש עוזר.",
+   "VL_1": "אוי כן, רק שזה לא ייגמר."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaLarvaMassage_Cody": {
+   "VL_1": "כמעט... כמעעעט... או כן, הנה זה. אוווו..."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaLarvaMassage_Cody_010": {
+   "Line_1": "אה לא-לא, קצת יותר למעלה,",
+   "Line_2": "קצת יותר למעלה, לא, לא, לא, לא, למטה, למטה.",
+   "Line_3": "רגע, שם, לא, כן, אני מרגיש את זה בכל מקום!",
+   "Line_4": "אהה!"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaLarvaMassage_May": {
+   "VL_1": "אוי, הצירים שלי כל כך תפוסים."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaLarvaMassage_May_010": {
+   "Line_1": "אה, רק שתדע,",
+   "Line_2": "אולי תחטוף ממני קיסם או שניים.",
+   "Line_3": "ממש סליחה."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaMeditating_Cody": {
+   "VL_0": "עופו מפה, מחשבות! אני צריך למצוא את השלווה הפנימית שלי!",
+   "VL_1": "אוווו, היי מיי? היי מיי, אני אוהב את המקום הזה."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaMeditating_May": {
+   "VL_0": "שאיפה... ונשיפה.",
+   "VL_1": "אני מרגישה כאילו אני מרחפת."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaShower_Cody": {
+   "VL_0": "וואו, כמה שהייתי צריך מקלחת!"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaShower_Cody_020": {
+   "Line_1": "אהה, קצת מים לראש.",
+   "Line_2": "זה יעשה לו טוב."
+  },
+  "VO_DB_Garden_VegetablePatch_SpaShower_May_010": {
+   "Line_1": "נו, הגיע הזמן.",
+   "Line_2": "אוי, הייתי יכולה להישאר פה שעות!"
+  },
+  "VO_DB_Garden_VegetablePatch_SpaShower_May_020": {
+   "Line_1": "אוי, אלוהים!",
+   "Line_2": "זה מנקה לי את כל החריצים והפינות."
+  },
+  "VO_DB_Garden_VegetablePatch_VineWhipReact_Cody": {
+   "VL_0": "וואו, טראח!"
+  },
+  "VO_DB_Garden_VegetablePatch_VineWhipReactBulb_Cody": {
+   "VL_0": "טוב, בוא נעמיד את השוט הזה במבחן!"
+  },
+  "VO_DB_Garden_VegetablePatch_WaterPlant_Hint_May": {
+   "VL_0": "הממ, זה נראה צמא."
+  },
+  "VO_DB_Music_Backstage_BassRoom_DoubleInteract_Cody": {
+   "VL_0": "לכאן, מיי!"
+  },
+  "VO_DB_Music_Backstage_BassRoom_DoubleInteract_May": {
+   "VL_0": "קודי, לכאן!"
+  },
+  "VO_DB_Music_Backstage_BassRoom_Float": {
+   "VL_0": "מיי, זה מפחיד!",
+   "VL_1": "לגיבורי-על אסור לפחד!"
+  },
+  "VO_DB_Music_Backstage_BassRoom_Hint_May": {
+   "VL_0": "קודי, אתה יכול להשתמש במגן שלך נגד הלייזרים!"
+  },
+  "VO_DB_Music_Backstage_BassRoom_PlatformHint_May_010": {
+   "Line_1": "קודי, תעלה על הפלטפורמה הזאת.",
+   "Line_2": "אולי נוכל להשתמש בה איכשהו."
+  },
+  "VO_DB_Music_Backstage_BassRoom_StartPlatform_May": {
+   "VL_0": "וואו, אני מתחילה לחבב את המקום הזה."
+  },
+  "VO_DB_Music_Backstage_BassRoom_WireCut": {
+   "VL_0": "זריקה יפה, קודי!",
+   "VL_1": "תודה, קפטן!"
+  },
+  "VO_DB_Music_Backstage_DrumMachine_Exit": {
+   "VL_0": "זה נשמע די טוב, קודי!",
+   "VL_1": "או כן! עשינו להיט, נכון?",
+   "VL_2": "אולי לא להיט, אבל זו מוזיקה!"
+  },
+  "VO_DB_Music_Backstage_JukeBoxStart_ButtonHint_May": {
+   "VL_0": "קודי, הכפתור!"
+  },
+  "VO_DB_Music_Backstage_JukeBoxStart_GetOverHint_Cody": {
+   "VL_0": "את הולכת להשאיר אותי מאחור?!"
+  },
+  "VO_DB_Music_Backstage_LightRoom_CloseToEnd_Cody": {
+   "VL_0": "היי, אני רואה מתג אור!"
+  },
+  "VO_DB_Music_Backstage_LightRoom_GenericCheer_May": {
+   "VL_0": "אני מכסה אותך, קודי. תמשיך!",
+   "VL_1": "אנחנו מתקדמים!",
+   "VL_2": "היי, מה דעתך על ה\"שיתוף פעולה\" שלנו?"
+  },
+  "VO_DB_Music_Backstage_LightRoom_PrettyDark_Cody": {
+   "VL_0": "וואו, אה, ממש חשוך פה."
+  },
+  "VO_DB_Music_Backstage_LightRoom_TakeDamage_Cody": {
+   "VL_0": "היי, היי, היי! אור עליי!",
+   "VL_1": "מיי! אני לא רואה!",
+   "VL_2": "אה, אפשר קצת אור פה, בבקשה?!"
+  },
+  "VO_DB_Music_Backstage_LightRoom_TwoLights": {
+   "VL_0": "וואו, מיי, שני אורות? בטוחה שאת מסתדרת?",
+   "VL_1": "תסמוך עליי, אני אסתדר.",
+   "VL_2": "בסדר, אני סומך עלייך!"
+  },
+  "VO_DB_Music_Backstage_MicrophoneChase_EndingStart": {
+   "VL_0": "אני נשבע שזה בטח באשמת הספר הזה!",
+   "VL_1": "נראה לי שאנחנו אלה שהרגנו את הנחשים האלה!"
+  },
+  "VO_DB_Music_Backstage_MicrophoneChase_RideSnake": {
+   "VL_0": "זאת נסיעת מוות!",
+   "VL_1": "תחזיק חזק, גיבור-על!"
+  },
+  "VO_DB_Music_Backstage_MicrophoneChase_TurnLeft_Cody": {
+   "VL_0": "שמאלה, שמאלה!!"
+  },
+  "VO_DB_Music_Backstage_MicrophoneChase_TurnLeft_May": {
+   "VL_0": "שמאלה, שמאלה, שמאלה!!"
+  },
+  "VO_DB_Music_Backstage_MusicTechWall_DoubleInteract_Cody": {
+   "VL_0": "הצלחנו! בואי נמשיך."
+  },
+  "VO_DB_Music_Backstage_MusicTechWall_DoubleInteract_May": {
+   "VL_0": "יפה, קודי. עכשיו בוא הנה!"
+  },
+  "VO_DB_Music_Backstage_PortableSpeaker_ApproachEnd": {
+   "VL_0": "וואאאו, תראי את הגודל של הדבר הזה.",
+   "VL_1": "תשמור על האוזניים, קודי!",
+   "VL_2": "אני אהיה בסדר! בואי נדליק את המותק הזה."
+  },
+  "VO_DB_Music_Backstage_PortableSpeaker_DestroyHalfway": {
+   "VL_0": "תני לי עוד, מיי!",
+   "VL_1": "אני אצטרך מים חמים ודבש אחרי זה!"
+  },
+  "VO_DB_Music_Backstage_PortableSpeaker_DestroyStart_Cody": {
+   "VL_0": "וווו! אלה מיתרי הקול שאני זוכר!"
+  },
+  "VO_DB_Music_Backstage_PortableSpeaker_FaderMax_Cody": {
+   "VL_0": "תני בראש, מיי!"
+  },
+  "VO_DB_Music_Backstage_PortableSpeaker_Found_Cody_010": {
+   "Line_1": "היי, לרמקול הזה יש אנטנה.",
+   "Line_2": "מתערב שהוא מחובר למיקרופון שלך."
+  },
+  "VO_DB_Music_Backstage_PrePortableSpeaker_Hint_May": {
+   "VL_0": "קודי, תעמוד על הפתח ההוא שם!"
+  },
+  "VO_DB_Music_Backstage_SilentRoom": {
+   "VL_0": "היי מיי, מה מיקרופונים הכי אוהבים בעולם?",
+   "VL_1": "מה?",
+   "VL_2": "קול יפה!",
+   "VL_3": "אה... שווה היה לנסות."
+  },
+  "VO_DB_Music_Backstage_SilentRoom_PostSnakeKill": {
+   "VL_0": "כל הכבוד, קודי!",
+   "VL_1": "נתת לי פתח עם ה... קול המהפנט שלך!",
+   "VL_2": "נו, באמת!"
+  },
+  "VO_DB_Music_Backstage_SilentRoom_SnakeKill_Cody": {
+   "VL_0": "תחזיקי מעמד, מיי! אני רואה לו את הבטן!"
+  },
+  "VO_DB_Music_Backstage_SnakeRoom_PreDoubleInteract_May": {
+   "VL_0": "כמעט נגמר לי האוויר שם..."
+  },
+  "VO_DB_Music_Backstage_SnakeRoom_StayClose": {
+   "VL_0": "אלוהים אדירים!"
+  },
+  "VO_DB_Music_Backstage_SnakeRoom_StayCloseHalfway_Cody": {
+   "VL_0": "בבקשה אל תפסיקי, מיי, בבקשה אל תפסיקי!"
+  },
+  "VO_DB_Music_Backstage_TrussRoom_Casette": {
+   "VL_0": "וואו! זה הטייפ הישן שלי.",
+   "VL_1": "אני כבר רואה את זה. מיי הצעירה, המרדנית, שומעת שירים על המיטה.",
+   "VL_2": "אוי, שקט."
+  },
+  "VO_DB_Music_Backstage_Tutorial_DiskPuzzle_May": {
+   "VL_0": "הדיסקים האלה נראים קצת חמים מדי בשביל לעמוד עליהם."
+  },
+  "VO_DB_Music_Backstage_Tutorial_GetOverHint_Cody": {
+   "VL_0": "רגע מיי, מ-מה איתי?!"
+  },
+  "VO_DB_Music_Backstage_Tutorial_SingingDoor_Cody": {
+   "VL_0": "וואו, מגניב!"
+  },
+  "VO_DB_Music_Backstage_Tutorial_Tape": {
+   "VL_0": "ו... סומסום היפתח!",
+   "VL_1": "יפה!"
+  },
+  "VO_DB_Music_Classic_Accordion_FirstBlock": {
+   "VL_0": "אני על זה, מיי! בואי אחריי.",
+   "VL_1": "תוביל!"
+  },
+  "VO_DB_Music_Classic_Attic_SingingGlasses": {
+   "VL_0": "גבר בעל טעם מעודן כמוני מעריך את אלה יותר מכול.",
+   "VL_1": "פפפ! חחחח!"
+  },
+  "VO_DB_Music_Classic_CagePuzzle_Hint_Cody": {
+   "VL_0": "מיי, את רואה את השדים האלה עם המפתחות?"
+  },
+  "VO_DB_Music_Classic_CagePuzzle_Hint_May": {
+   "VL_0": "קודי, תמצא את השדים עם המפתחות!"
+  },
+  "VO_DB_Music_Classic_CloudArea_Hint_Cody_010": {
+   "Line_1": "עכשיו איפה לעזאזל המפתחות האלה?",
+   "Line_2": "צריך לפזר עוד מהערפל הזה."
+  },
+  "VO_DB_Music_Classic_CloudArea_Hint_May_010": {
+   "Line_1": "איפה השדים האלה החביאו את המפתחות?",
+   "Line_2": "הם בטח איפשהו בערפל."
+  },
+  "VO_DB_Music_Classic_FlutePuzzle_Cross": {
+   "VL_0": "הנה! אפשר לעבור עכשיו! על לא דבר.",
+   "VL_1": "מצוין!"
+  },
+  "VO_DB_Music_Classic_FlutePuzzle_Hint_Cody": {
+   "VL_0": "מיי, יש פה חליל!"
+  },
+  "VO_DB_Music_Classic_Heaven_BubblePop": {
+   "VL_0": "טוב, רק עוד כמה בועות לפוצץ.",
+   "VL_1": "ברגע שמתחילים לפוצץ, אי אפשר להפסיק!"
+  },
+  "VO_DB_Music_Classic_Heaven_Bubbles": {
+   "VL_0": "היי קודי, אתה רואה את התווים המרחפים האלה מסביב?",
+   "VL_1": "כן, בואי נגלה בשביל מה הם!"
+  },
+  "VO_DB_Music_Classic_Heaven_HippoBaby_Approach_Cody": {
+   "VL_0": "ומה אתם, יצורים מתוקים שכמותכם?!"
+  },
+  "VO_DB_Music_Classic_Heaven_HippoBaby_Approach_May": {
+   "VL_0": "אלה כימרות?!"
+  },
+  "VO_DB_Music_Classic_Heaven_HippoBaby_Cody": {
+   "VL_0": "אוי, מתקפת חמידות! אני... אני רוצה לשמור אותו. אפשר לשמור אותו?",
+   "VL_1": "מי היפופוטם תינוק טוב... או מה שזה לא יהיה? אתה! ...כן, אתה! לא, אתה."
+  },
+  "VO_DB_Music_Classic_Heaven_HippoBaby_May": {
+   "VL_0": "אוי, אבל אתה כל כך חמוד! כן, אתה!",
+   "VL_1": "אוווו, אתה-אתה-אתה-אתה!"
+  },
+  "VO_DB_Music_Classic_Heaven_HippoBabyKill_Cody": {
+   "VL_0": "אוי, שיט! אני עוד חדש עם הדבר הזה... סליחה!"
+  },
+  "VO_DB_Music_Classic_Heaven_HippoBabyKill_May": {
+   "VL_0": "אוי, סליחה! אני חייבת ללמוד לשלוט בדבר הזה."
+  },
+  "VO_DB_Music_Classic_Heaven_Meditate": {
+   "VL_0": "את יודעת, זה מזכיר לי את הפעם ההיא שאכלנו את ה...",
+   "VL_1": "לא עכשיו, קודי! אני מנסה להתרכז.",
+   "VL_2": "סליחה."
+  }
+ }
+}

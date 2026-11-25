@@ -1,0 +1,517 @@
+{
+ "Nuts": {
+  "VO_DB_PlayRoom_SpaceStation_PipePuzzleComplete": {
+   "VL_0": "יופי, ידעתי שאצליח לפתור את זה.",
+   "VL_1": "אהמ, הלו? אין \"אני\" בעבודת צוות.",
+   "VL_2": "בסדר, \"ד\"ר\" חכים."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PipePuzzleHint_May": {
+   "VL_0": "הבנתי. הזרם לא עובר."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PipePuzzleReaction_May": {
+   "VL_0": "הממ, זה מתגלה כקשה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlanetGrind": {
+   "VL_0": "היי, את יודעת, עב\"מים באמת קיימים.",
+   "VL_1": "נו, הנה זה מתחיל שוב...",
+   "VL_2": "את מקשיבה?",
+   "VL_3": "אהה! תמיד!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlasmaBall_CodyFail": {
+   "VL_0": "אוי, לעזאזל!",
+   "VL_1": "קודי!",
+   "VL_2": "סליחה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlasmaBallGravityHint_Cody": {
+   "VL_0": "טוב, ואיך לעזאזל אני עולה לשם?"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlasmaBallHalfway": {
+   "VL_0": "אני מת על הפלזמה של טסלה!",
+   "VL_1": "נו, תמשיכי לרוץ, מיי!",
+   "VL_2": "ווהו! זה מדגדג!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlasmaBallHint": {
+   "VL_0": "היי מיי, תקפצי על כדור החלל!",
+   "VL_1": "סגור."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlatformSwing": {
+   "VL_0": "וואו... אוקיי... רגע. איפה זה למעלה?"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PlatformSwing_Cody_020": {
+   "Line_1": "את בסדר, מיי!",
+   "Line_2": "תראי, אני פה למעלה!",
+   "Line_3": "כלומר, פה למטה...",
+   "Line_4": "למעלה.",
+   "Line_5": "אוי, חרא!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDish_Hakim_010": {
+   "Line_1": "מעניין אם הם משתפים פעולה.",
+   "Line_2": "אולי לא הייתי ברור מספיק.",
+   "Line_3": "שי-תוף פ-עו-לה!",
+   "Line_4": "זה ברור. אה...",
+   "Line_5": "אולי אני צריך להאט עוד יותר.",
+   "Line_6": "שי... תוף... פ... עו... לה...",
+   "Line_7": "כן!",
+   "Line_8": "אני חייב לנסות את זה איתם מתישהו!",
+   "Line_9": "הממ.",
+   "Line_10": "או שאולי זה יותר באגן...",
+   "Line_11": "אההה! זה תמיד באגן!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDish_MoonBaboon_010": {
+   "Line_1": "בבון הירח למרכז הפיקוד!",
+   "Line_2": "ענו!",
+   "Line_3": "מרכז הפיקוד, ענו!",
+   "Line_4": "אה! הנה אתם!",
+   "Line_5": "מה זאת אומרת מי מדבר?!",
+   "Line_6": "אני בבון הירח!",
+   "Line_7": "המפקד הראשון של תחנת החלל",
+   "Line_8": "אלפא, דלתא, בננה 777.",
+   "Line_9": "המשימה שלי היא להגן על הנבחרת!",
+   "Line_10": "מי הנבחרת??",
+   "Line_11": "רוז, כמובן!",
+   "Line_12": "תקשיבו, אין לנו זמן!",
+   "Line_13": "אני צריך שתשלחו תגבורת.",
+   "Line_14": "הצד האפל פתח במתקפה",
+   "Line_15": "על מגדל התקשורת!",
+   "Line_16": "הלו?",
+   "Line_17": "הלו?!",
+   "Line_18": "אח, לעזאזל!!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDish_Rose_010": {
+   "Line_1": "הממ...",
+   "Line_2": "כאן ד\"ר חכים אומר,",
+   "Line_3": "\"הריקוד הוא המפתח לפתיחת הלבבות שלנו.",
+   "Line_4": "\"רק הגוף מדבר חזק יותר ממילים.\"",
+   "Line_5": "הממ...",
+   "Line_6": "אני זוכרת שאמא",
+   "Line_7": "ואבא היו רוקדים יחד.",
+   "Line_8": "אבל כבר הרבה זמן לא ראיתי אותם עושים את זה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDishReplyHakim_Cody": {
+   "VL_0": "לספר הזה חסר בורג... אה, דף."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDishReplyHakim_May": {
+   "VL_0": "אני לא מסוגלת לדמיין אותו דוקטור למשהו."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDishReplyMoonBaboon_Cody": {
+   "VL_0": "הקוף הזה רואה יותר מדי מדע בדיוני."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDishReplyMoonBaboon_May": {
+   "VL_0": "הוא קצת מוגזם, אבל הוא בכל זאת צעצוע טוב."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDishReplyRose_Cody": {
+   "VL_0": "ריקוד, הא? מעניין אם זה עוד אצלי."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SatelliteDishReplyRose_May": {
+   "VL_0": "כדאי שאציץ במה שהיא קוראת."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SecondDeathClapper_Cody": {
+   "VL_0": "פיו, אוקיי קודי, אתה יכול."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SecondDeathClapper_May": {
+   "VL_0": "אוי, אני מקבלת כאב ראש מהדברים האלה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SecondPlatformIntial": {
+   "VL_0": "עוד סט של פורטלים!",
+   "VL_1": "טוב, קדימה לעבודה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SideScrollerDeath": {
+   "VL_0": "אוקיי, יש לי רעיון. בפעם הבאה אנחנו מתחמקים מהלייזרים.",
+   "VL_1": "וואו, איזה רעיון."
+  },
+  "VO_DB_PlayRoom_SpaceStation_SideScrollerDeathReplyCody": {
+   "VL_0": "יום אחד גם את תזוזי כמוני, מיי.",
+   "VL_1": "מה שתגיד, קודי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_SideScrollerDeathReplyMay": {
+   "VL_0": "אהה, שוב ראשונה.",
+   "VL_1": "בקושי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_StarBuddy": {
+   "VL_0": "הו! אוףף, לעזאזל, הוא היה כל כך חמוד!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_StarBuddy_May": {
+   "VL_0": "וואו, היתוך גרעיני!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TowerSpotted": {
+   "VL_0": "טוב, הדבר הזה גבוה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_TowerSpotted_May_020": {
+   "Line_1": "זה בטח מגדל התקשורת של בבון הירח.",
+   "Line_2": "יש חדר בקרה ממש בפסגה.",
+   "Line_3": "אם נצליח לעלות לשם,",
+   "Line_4": "אני חושבת שנוכל לצאת מכאן!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TractorBeamDeath": {
+   "VL_0": "אופס.",
+   "VL_1": "חה, רואים שכיף לך שם."
+  },
+  "VO_DB_PlayRoom_SpaceStation_TractorBeamHint_Cody": {
+   "VL_0": "את יכולה לפחות לשים אותי במקום שימושי?"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TractorBeamReaction": {
+   "VL_0": "ה-הייי! תעזבי אותי!",
+   "VL_1": "בשום אופן! זה כיף מדי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TractorBeamReactionMay": {
+   "VL_0": "זהירות!",
+   "VL_1": "חיחיחיחי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TractorBeamShortcut_Cody": {
+   "VL_0": "הו! אחלה, זה קיצור דרך שימושי."
+  },
+  "VO_DB_PlayRoom_SpaceStation_TriggerRocket_Cody": {
+   "VL_0": "אל האינסוף!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TriggerRocket_May": {
+   "VL_0": "יש המראה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_TwoPortalsLeft": {
+   "VL_0": "פורטל אחד בחוץ, נשארו עוד שניים!",
+   "VL_1": "כן, אנחנו על זה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_ValveLaunchRespawn": {
+   "VL_0": "או... אולי זה היה קצת יותר מדי.",
+   "VL_1": "בהחלט, כן."
+  },
+  "VO_DB_PlayRoom_TrainStation_ChimneyTeleport_Cody": {
+   "VL_0": "אה... הא!"
+  },
+  "VO_DB_PlayRoom_TrainStation_ChimneyTeleport_May": {
+   "VL_0": "טוב, ככה ארובות לא עובדות."
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Approach_Cody": {
+   "VL_0": "היי, מה זה?"
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Approach_May": {
+   "VL_0": "טוב, אלה נראות כיפיות."
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Expire_Cody": {
+   "VL_0": "בובות משוגעות."
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Expire_May": {
+   "VL_0": "אהה! אהה, אוויר צח."
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Rescue_Cody": {
+   "VL_0": "או, תודה מיי."
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Rescue_May": {
+   "VL_0": "תודה קודי."
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Trap_Cody": {
+   "VL_0": "מה, תוציאו אותי, בובות מטומטמות! הצילו!"
+  },
+  "VO_DB_PlayRoom_TrainStation_Doll_Trap_May": {
+   "VL_0": "ר-רגע, אני תקועה! אוף!"
+  },
+  "VO_DB_PlayRoom_TrainStation_HandCart_Hint_Cody": {
+   "VL_1": "אוהה... הבובות האלה יכולות להועיל."
+  },
+  "VO_DB_PlayRoom_TrainStation_HandCart_Hint_Cody_010": {
+   "Line_1": "אנחנו לא יכולים לצאת לדרך",
+   "Line_2": "כשהמחסום הזה חוסם אותנו.",
+   "Line_3": "או!",
+   "Line_4": "מה הקטע של הבובות האלה?"
+  },
+  "VO_DB_PlayRoom_TrainStation_HandCart_Hint_May": {
+   "VL_1": "הבובות האלה נראות שימושיות."
+  },
+  "VO_DB_PlayRoom_TrainStation_HandCart_Hint_May_010": {
+   "Line_1": "קודם צריך להרים את המחסום.",
+   "Line_2": "הבובות האלה שולטות בו?"
+  },
+  "VO_DB_PlayRoom_TrainStation_Telescope_Cutie_Cody": {
+   "VL_0": "היי, פילה. אנחנו באים לקחת אותך."
+  },
+  "VO_DB_PlayRoom_TrainStation_Telescope_Cutie_May": {
+   "VL_0": "הנה היא. אנחנו מתקרבים."
+  },
+  "VO_DB_PlayRoom_TrainStation_TrainStationEnd_Cody": {
+   "VL_0": "טוב, עכשיו רק צריך מישהו שיפעיל את השער."
+  },
+  "VO_DB_PlayRoom_TrainStation_TrainStationInitial_Cody": {
+   "VL_0": "קדימה, בואי נפנה את הדרך לקרונית."
+  },
+  "VO_DB_PlayRoom_TrainStation_TrainStationInsert_May": {
+   "VL_0": "נראה שזה עובד. אני בטוחה שיש עוד."
+  },
+  "VO_DB_Recovery_MortarWasp": {
+   "VL_0": "אוף, מזיקים!",
+   "VL_1": "מעצבנים!",
+   "VL_2": "לא אפול!",
+   "VL_3": "די כבר!",
+   "VL_4": "הטכנולוגיה של הסנאים כזאת חזקה?!"
+  },
+  "VO_DB_Recovery_ShieldWasp2": {
+   "VL_0": "חוצפה!",
+   "VL_1": "טיפשים!",
+   "VL_2": "תילחמו בהגינות!",
+   "VL_3": "שניים על אחד, אה?",
+   "VL_4": "סתם מעידה."
+  },
+  "VO_DB_Shed_Awakening_Container_Cody": {
+   "VL_0": "אההה, או, אולי המכל הזה יכול לעזור."
+  },
+  "VO_DB_Shed_Awakening_FuseSocket_DoubleInteract_Cody": {
+   "VL_0": "היי מיי, תעזרי לי פה."
+  },
+  "VO_DB_Shed_Awakening_FuseSocket_DoubleInteract_May": {
+   "VL_0": "קודי, בוא תעזור לי למשוך את זה למטה."
+  },
+  "VO_DB_Shed_Awakening_GearsGroundPound_CodyStart": {
+   "VL_0": "מיי, בואי נעשה את זה ביחד!",
+   "VL_1": "אוקיי! אוקיי."
+  },
+  "VO_DB_Shed_Awakening_GearsGroundPound_MayStart": {
+   "VL_0": "אתה יכול בבקשה לתאם איתי, קודי?",
+   "VL_1": "טוב, טוב..."
+  },
+  "VO_DB_Shed_Awakening_Outlet_Cody": {
+   "VL_0": "אה! אההה, המוח שלי מטוגן."
+  },
+  "VO_DB_Shed_Awakening_Outlet_May": {
+   "VL_0": "זה היה... מחשמל."
+  },
+  "VO_DB_Shed_Awakening_Periscope": {
+   "VL_0": "מה זה?!"
+  },
+  "VO_DB_Shed_Awakening_Periscope_May_020": {
+   "Line_1": "פשוט תתעלם מהעין הזוהרת.",
+   "Line_2": "גם ככה שום דבר פה לא הגיוני."
+  },
+  "VO_DB_Shed_Awakening_SawMachine_DoubleInteract_Cody": {
+   "VL_0": "היי מיי, אני צריך אותך פה!"
+  },
+  "VO_DB_Shed_Awakening_SawMachine_DoubleInteract_May": {
+   "VL_0": "קודי, יאללה. למה אתה מחכה?!"
+  },
+  "VO_DB_Shed_Awakening_SawMachineApproach": {
+   "VL_0": "וואו, נראה לי שזה מפעיל את המסור!",
+   "VL_1": "כן, קדימה, נבדוק!"
+  },
+  "VO_DB_Shed_Awakening_ThirdFuseGlassApproach_Cody": {
+   "VL_0": "אוי, הוא לכוד. בואי נוציא אותו משם."
+  },
+  "VO_DB_Shed_Awakening_ThirdFuseGlassBreak_Cody": {
+   "VL_0": "בחור חמקמק, הא?"
+  },
+  "VO_DB_Shed_Awakening_ThirdFuseSaw_May": {
+   "VL_0": "אוף, תחזור לפה!"
+  },
+  "VO_DB_Shed_Awakening_ThirdFuseStart_May": {
+   "VL_0": "לאן נעלם הנתיך האחרון?"
+  },
+  "VO_DB_Shed_Awakening_ToolBoxWalk": {
+   "VL_0": "זה לא נשמע לי טוב...",
+   "VL_1": "גם לי לא..."
+  },
+  "VO_DB_Shed_Awakening_WireTunnel": {
+   "VL_0": "קודי, תיזהר על הראש!",
+   "VL_1": "אני נזהר, אני נזהר! ... איי, הגב שלי!"
+  },
+  "VO_DB_Shed_HammerCody_Cody": {
+   "VL_0": "איי! אני עדיין מרגיש את זה, את יודעת!",
+   "VL_1": "היי, אל תעשי את זה!",
+   "VL_2": "מיי, אני נראה לך כמו מסמר? די כבר!"
+  },
+  "VO_DB_Shed_HammerCody_Hammerhead": {
+   "VL_0": "פגעת בול בראש המסמר!",
+   "VL_1": "בול!"
+  },
+  "VO_DB_Shed_HammerSwing_Hammerhead": {
+   "VL_0": "לאט עליי!",
+   "VL_1": "אוי, הראש שלי!",
+   "VL_2": "נראה לי שאני הולך להקיא..."
+  },
+  "VO_DB_Shed_Main_BossFight_ArmNailed": {
+   "VL_0": "תפסתי אותו, מיי!",
+   "VL_1": "יופי, עכשיו תעביר אותי לצד השני!"
+  },
+  "VO_DB_Shed_Main_BossFight_HoleSawDrill": {
+   "VL_0": "מה לעזאזל?! ארגז הכלים הזה משוגע!",
+   "VL_1": "כן, בפעם הבאה אני קונה אחד קטן יותר!"
+  },
+  "VO_DB_Shed_Main_BossFight_HoleSawSpin": {
+   "VL_0": "קופצים!",
+   "VL_1": "לא, באמת?!"
+  },
+  "VO_DB_Shed_Main_BossFight_PlatformSaw_Cody": {
+   "VL_0": "אה, נגמר לנו פה השטח!!!"
+  },
+  "VO_DB_Shed_Main_BossFight_ShovelAim": {
+   "VL_0": "אה, אי אפשר לדבר על זה, ארגז הכלים?",
+   "VL_1": "עברנו מזמן את שלב המשא ומתן, קודי!"
+  },
+  "VO_DB_Shed_Main_BossFight_SprayCanHit_May": {
+   "VL_0": "זריקה טובה, קודי!"
+  },
+  "VO_DB_Shed_Main_BossFight_SprayCanTutorial_Halfway_Cody": {
+   "VL_0": "מיי, תחזירי אותי לשם למעלה. אני אחסל את פחית הספריי!"
+  },
+  "VO_DB_Shed_Main_BossFight_SprayCanTutorial_Halfway_May": {
+   "VL_0": "קודי, תעלה ותגמור את פחית הספריי!"
+  },
+  "VO_DB_Shed_Main_BossFight_SprayCanTutorial_May": {
+   "VL_0": "תפגע בפחית הספריי! זה יעצור אותו!"
+  },
+  "VO_DB_Shed_Main_GrindSection_FanHalfway": {
+   "VL_0": "וואו, חרא!",
+   "VL_1": "להתרכז, הנה זה בא!"
+  },
+  "VO_DB_Shed_Main_GrindSection_FanStart": {
+   "VL_0": "אנחנו צריכים לתזמן את זה ביחד!",
+   "VL_1": "טוב, עוד פעם אחת!"
+  },
+  "VO_DB_Shed_Main_GrindSection_Respawn_Electricity_Cody": {
+   "VL_0": "אהה, אני לא מתחשמל שוב!"
+  },
+  "VO_DB_Shed_Main_GrindSection_Respawn_Electricity_May": {
+   "VL_0": "לעזאזל עם קפיצות המתח האלה בדרך!"
+  },
+  "VO_DB_Shed_Main_MachineRoomChickenRace_Approach_Cody": {
+   "VL_0": "להבי מסור מחליקים, ברצינות?!"
+  },
+  "VO_DB_Shed_Main_MachineRoomChickenRace_Cody": {
+   "VL_0": "אני אצטרך דחיפה, מיי!"
+  },
+  "VO_DB_Shed_Main_MineIntro_DoubleInteract_Cody": {
+   "VL_0": "מיי, לפה."
+  },
+  "VO_DB_Shed_Main_MineIntro_DoubleInteract_May": {
+   "VL_0": "היי קודי, מפה."
+  },
+  "VO_DB_Shed_Main_MineMachineRoomEnding_End": {
+   "VL_0": "נהדר, עוד תרגיל אמון.",
+   "VL_1": "מה, נראה לך שאני אפספס?",
+   "VL_2": "מקווה שלא!"
+  },
+  "VO_DB_Shed_Main_MineMachineRoomEnding_Glass": {
+   "VL_0": "תודה.",
+   "VL_1": "בכיף."
+  },
+  "VO_DB_Shed_Main_MineMachineRoomIntro_ElevatorHint_Cody": {
+   "VL_0": "היי מיי. תעלי לפה, ואני אפתח את הדלת."
+  },
+  "VO_DB_Shed_Main_MineMachineRoomIntro_Halfway_May": {
+   "VL_0": "יש פה עוד מכונה שחוסמת, קודי."
+  },
+  "VO_DB_Shed_Main_MineMainHub_Bridge_Cody": {
+   "VL_0": "תחזיקי אותו למעלה!"
+  },
+  "VO_DB_Shed_Main_MineMainHub_BridgeSuccess": {
+   "VL_0": "היי, הצלחת.",
+   "VL_1": "כן... תודה."
+  },
+  "VO_DB_Shed_Main_MineMainHub_NailPull_Cody": {
+   "VL_0": "היי מיי, אנחנו צריכים את הפטיש!"
+  },
+  "VO_DB_Shed_Main_MineMainHub_NailThreeAcquired_Cody": {
+   "VL_0": "יש! וזה כבר שלושה."
+  },
+  "VO_DB_Shed_Main_MineMainHub_NailTwoAcquired_Cody": {
+   "VL_0": "אחלה! עוד תחמושת."
+  },
+  "VO_DB_Shed_Main_MineMainHub_Tutorial_FirstPuzzle_May_010": {
+   "Line_1": "היי קודי,",
+   "Line_2": "נראה לי שאתה יכול למסמר את הפלטפורמה הזאת לעמוד."
+  },
+  "VO_DB_Shed_Main_NailWheel_Approach": {
+   "VL_0": "מה לעזאזל הדבר הזה?",
+   "VL_1": "נראה שיש באמצע מתג בשביל הפטיש."
+  },
+  "VO_DB_Shed_Main_NailWheel_CodyWins": {
+   "VL_0": "או כן! בול במסמר!",
+   "VL_1": "סליחה, פטיש."
+  },
+  "VO_DB_Shed_Main_NailWheel_MayWins": {
+   "VL_0": "כל הכבוד, פטיש!",
+   "VL_1": "מזל טהור!"
+  },
+  "VO_DB_Shed_Main_NailWheel_Start": {
+   "VL_0": "המסמרים שלי יותר טובים מהפטיש שלך.",
+   "VL_1": "בחלומות!",
+   "VL_2": "עוד נראה."
+  },
+  "VO_DB_Shed_Main_NailWheel_Taunt_Cody": {
+   "VL_0": "בול במסמר!",
+   "VL_1": "בול!",
+   "VL_2": "ועוד אחד!"
+  },
+  "VO_DB_Shed_Main_NailWheel_Taunt_May": {
+   "VL_0": "דפקתי!",
+   "VL_1": "בום! ",
+   "VL_2": "עוד אחד נפל!"
+  },
+  "VO_DB_Shed_Main_ToolBox_DoubleInteract_Cody": {
+   "VL_0": "טוב מיי, תביאי את הפטיש לפה."
+  },
+  "VO_DB_Shed_Main_ToolBox_DoubleInteract_May": {
+   "VL_0": "טוב קודי, יכולתי להיעזר פה בקצת כוח."
+  },
+  "VO_DB_Shed_Main_ToolBoxChase_Bridge_May": {
+   "VL_0": "זוז!"
+  },
+  "VO_DB_Shed_Main_ToolBoxChase_End": {
+   "VL_0": "הא! בול במסמר!",
+   "VL_1": "יפה, קודי!"
+  },
+  "VO_DB_Shed_Main_ToolBoxChase_Halfway_Cody": {
+   "VL_0": "אוף, הוא ממש שם!"
+  },
+  "VO_DB_Shed_Main_ToolBoxChase_Halfway_May": {
+   "VL_0": "אנחנו מתקרבים! קדימה!"
+  },
+  "VO_DB_Shed_Main_ToolBoxChase_Start_May": {
+   "VL_0": "אוף, בוא נתפוס את ארגז הכלים המטונף הזה!"
+  },
+  "VO_DB_Shed_Main_WhackACody_CodyWins": {
+   "VL_0": "ידעתי. אני מהיר מדי בשבילך.",
+   "VL_1": "אני אנצח אותך בפעם הבאה. "
+  },
+  "VO_DB_Shed_Main_WhackACody_MayWins": {
+   "VL_0": "כן! אני האלופה!",
+   "VL_1": "לא הוגן! הייתם שניים נגד אחד."
+  },
+  "VO_DB_Shed_Main_WhackACody_Start": {
+   "VL_0": "תיזהר על הראש, קודי.",
+   "VL_1": "או, את לא תנצחי אותי. אני מהיר יותר מחפרפרת.",
+   "VL_2": "הפטיש שלי מהיר יותר."
+  },
+  "VO_DB_Shed_Main_WhackACody_Taunt_Cody": {
+   "VL_0": "קוקו!",
+   "VL_1": "איטית מדי!",
+   "VL_2": "פספסת!"
+  },
+  "VO_DB_Shed_Main_WhackACody_Taunt_May": {
+   "VL_0": "זאת הייתה מכה טובה!",
+   "VL_1": "תפסתי אותך!",
+   "VL_2": "בול על הראש!"
+  },
+  "VO_DB_Shed_MineMachineRoom_ActivateSwitch": {
+   "VL_0": "תיזהרי עכשיו, מיי!",
+   "VL_1": "כן. קודי... אל תהרוס את זה!",
+   "VL_2": "כן, כן. פשוט תתחילי לקפוץ."
+  },
+  "VO_DB_Shed_MineMachineRoomEnding_End": {
+   "VL_0": "אתם יודעים, לשניכם יש עבודת צוות די טובה.",
+   "VL_1": "לא יודעת לגבי זה..."
+  },
+  "VO_DB_Shed_MineMachineRoomIntro_Catapult_Hammerhead_010": {
+   "Line_1": "תראו אותו עף!"
+  },
+  "VO_DB_Shed_MineMachineRoomIntro_Enter_Hammerhead_010": {
+   "Line_1": "אהה, הצלילים המתוקים של המכונות,",
+   "Line_2": "אין דבר טוב מזה!"
+  },
+  "VO_DB_Shed_MineMainHub_Glass": {
+   "VL_0": "זה כל כך מספק!"
+  },
+  "VO_DB_Shed_MineMainHub_NailTutorial": {
+   "VL_0": "מהלכים מגניבים! אני אוהב את הסגנון שלך, מיי.",
+   "VL_1": "או, תודה פטיש!"
+  },
+  "VO_DB_Shed_MineMainHub_NailTutorial01_Hammerhead": {
+   "VL_0": "היי, אולי נוכל להתנדנד מהמסמר הזה!"
+  }
+ }
+}

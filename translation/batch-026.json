@@ -1,0 +1,522 @@
+{
+ "Nuts": {
+  "VO_DB_PlayRoom_Hopscotch_SketchingTool_Cody_020": {
+   "Line_1": "כן, אבל מה עם היצירתיות",
+   "Line_2": "שנחנקת וכל זה, אה?",
+   "Line_3": "אי אפשר לעשות הרבה עם שתי ידיות."
+  },
+  "VO_DB_PlayRoom_Hopscotch_SketchingTool_DoubleInteractReminder_Cody": {
+   "VL_0": "או-הו-הו-הו! מיי, בואי תעזרי לי!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SketchingTool_DoubleInteractReminder_May": {
+   "VL_0": "היי קודי, תתפוס את השנייה!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SketchingTool_May_030": {
+   "Line_1": "היית מופתע.",
+   "Line_2": "צריך פשוט ללמוד להשתמש במה שיש",
+   "Line_3": "כדי ליצור משהו נהדר."
+  },
+  "VO_DB_PlayRoom_Hopscotch_SpawningFloor": {
+   "VL_1": "תחזיק מעמד, קודי!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SpawningFloor_Cody_010": {
+   "Line_1": "זה עדיין אשליה?!",
+   "Line_2": "מה בכלל אמיתי?",
+   "Line_3": "מי אני?!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SpinWheel_Approach_Cody_010": {
+   "Line_1": "אוי, גלגל מזל!",
+   "Line_2": "מעניין מה הפרסים."
+  },
+  "VO_DB_PlayRoom_Hopscotch_SpinWheel_Approach_May": {
+   "VL_0": "גלגל מזל! אני רוצה לזכות בפרסים!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SpinWheel_Success_Cody_010": {
+   "Line_1": "נו באמת, זהו?!",
+   "Line_2": "לא מגיע לי דובי או משהו?"
+  },
+  "VO_DB_PlayRoom_Hopscotch_SpinWheel_Success_May": {
+   "VL_0": "אוף! איפה הפרס? תן לי משהו שימושי!"
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_Approach_Cody": {
+   "VL_0": "אלה נחשים, או חישוקים לזריקת כדורים?"
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_Approach_May": {
+   "VL_0": "הלסתות של הנחשים האלה חלולות בצורה מוזרה!"
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_CodyWins": {
+   "VL_0": "סליחה, מיי. מה לעשות. אני פשוט יותר טוב ממך!"
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_CodyWins_May_020": {
+   "Line_1": "להפסיד ב\"כדור-נחש\"",
+   "Line_2": "זה לא משהו שמפריע לי."
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_MayWins": {
+   "VL_0": "ניצחתי. הפסדת!",
+   "VL_1": "“אף פעם לא הפסדתי במשחק. פשוט נגמר לי הזמן.”"
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_Start": {
+   "VL_0": "זוכרים מי ניצח בפעם האחרונה ששיחקנו כדורסל?",
+   "VL_1": "טוב, זה לא כדורסל. זה כדור-נחש.",
+   "VL_2": "נראה הרבה יותר קל."
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_Taunt_Cody": {
+   "VL_0": "גשם של סלים!",
+   "VL_1": "הטבעה!",
+   "VL_2": "הופלה!"
+  },
+  "VO_DB_Playroom_Hopscotch_ThrowingHoops_Taunt_May": {
+   "VL_0": "ישר פנימה!",
+   "VL_1": "יו-הו!",
+   "VL_2": "נקי!"
+  },
+  "VO_DB_PlayRoom_Hopscotch_WhoopeeCushion": {
+   "VL_0": "חה חה חה חה חה!",
+   "VL_1": "באמת?",
+   "VL_2": "מה? בדיחות פלוצים הן הכי טובות."
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Barks_Leo": {
+   "VL_0": "מה, אתה מצחיק עכשיו?",
+   "VL_1": "תתרחק ממני, לעזאזל!",
+   "VL_2": "אני עוד אתפוס אותך, בן ז***!",
+   "VL_3": "אני לא קופץ ממטוס!"
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Barks_Leo_050": {
+   "Line_1": "יא בן ***, מ***ן שכמוך,",
+   "Line_2": "חתיכת ח*** קטנה ו***!!"
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Barks_Vincent": {
+   "VL_0": "סמוך עליי.",
+   "VL_1": "חלק, ליאו. חלק מאוד…",
+   "VL_2": "בוא נעשה את זה בדרך הקלה. בלי סצנות.",
+   "VL_3": "אני מתפרץ מפה, איתך או בלעדיך.",
+   "VL_4": "יש לך בעיה איתי?"
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Dialogue": {
+   "VL_3": "אה כן? ומה תעשה?",
+   "VL_4": "אני אפרק לך את הצורה.",
+   "VL_5": "אתה לא תעשה כלום! אתה בובה, ליאו.",
+   "VL_6": "לעזאזל.",
+   "VL_7": "וחכם כמו תמיד, אני רואה."
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Dialogue_Leo_010": {
+   "Line_1": "היי, וינסנט.",
+   "Line_2": "אתה חושב שתצא מזה בזול",
+   "Line_3": "אחרי מה שעשית לי?"
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Dialogue_Leo_030": {
+   "Line_1": "השתגעת?",
+   "Line_2": "אני לעולם לא אשחרר את זה.",
+   "Line_3": "רק חכה ותראה."
+  },
+  "VO_DB_PlayRoom_PillowFort_Dolls_Dialogue_Vincent_020": {
+   "Line_1": "נו באמת, ליאו.",
+   "Line_2": "אתה עדיין עצבני על זה?",
+   "Line_3": "פשוט תשחרר כבר."
+  },
+  "VO_DB_PlayRoom_PillowFort_Figurines": {
+   "VL_0": "מה אלה? אף פעם לא ראיתי אותם!"
+  },
+  "VO_DB_PlayRoom_PillowFort_Figurines_Cody_020": {
+   "Line_1": "נתתי אותם לרוז.",
+   "Line_2": "הם ממשחק הווידאו האהוב עליי."
+  },
+  "VO_DB_PlayRoom_PillowFort_FigurinesApproach_May": {
+   "VL_0": "היי קודי, לכאן!"
+  },
+  "VO_DB_PlayRoom_PillowFort_FlashlightInteract_Cody": {
+   "VL_0": "אהה, אולי עדיף פנס \"דלוק\"."
+  },
+  "VO_DB_PlayRoom_PillowFort_FlashlightInteract_May": {
+   "VL_0": "כיבוי אורות."
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_CounterHack": {
+   "VL_0": "אממ, זה עדיין המשחק?!",
+   "VL_1": "לא יודעת, אבל אסור לתת לו לנצח!"
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_CounterHackMidway_May": {
+   "VL_0": "לעזאזל, זה קשה מדי!"
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_DoubleInteract_Cody": {
+   "VL_0": "מיי, יאללה, בואי נעשה את זה!"
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_DoubleInteract_May": {
+   "VL_0": "קודי, תתפוס את הסטיק השני!"
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_FirstScreenHint_May_020_ALT01": {
+   "Line_1": "או, משחק מילים, נהדר.",
+   "Line_2": "אהה, זה קשור איכשהו ל\"פריצה\"."
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_Generic": {
+   "VL_1": "זה רק משחק, קודי..."
+  },
+  "VO_DB_PlayRoom_PillowFort_HackingGame_Generic_Cody_010": {
+   "Line_1": "את יודעת, חשבתי שפריצה תהיה",
+   "Line_2": "הרבה יותר מסובכת מזה!"
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_Approach_Cody": {
+   "VL_0": "וואו, מגניב! תראי! ה-HazeBoys הישנים שלי!"
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_Approach_May": {
+   "VL_0": "או! עוד יש לנו את הדברים הישנים האלה?"
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_CodyWins": {
+   "VL_0": "ככל שהקרב קשה יותר, הניצחון מתוק יותר!",
+   "VL_1": "יש דברים חשובים יותר בחיים מלנצח."
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_MayWins": {
+   "VL_0": "הפסדת בקרב, וגם במלחמה!",
+   "VL_1": " מלחמה זה רע. עשו אהבה, לא מלחמה, מותק."
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_Start": {
+   "VL_0": "כבר מחכה לפוצץ אותך.",
+   "VL_1": "הפגיעה הראשונה עליי.",
+   "VL_2": "לא תפגע בכלום!"
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_Taunt_Cody": {
+   "VL_0": "בום!",
+   "VL_1": "אמנות המלחמה!",
+   "VL_2": "אני גיבור מלחמה. תביאי את זה!"
+  },
+  "VO_DB_Playroom_Pillowfort_HazeBoyTankBrothers_Taunt_May": {
+   "VL_0": "פגיעה מושלמת!",
+   "VL_1": "פוצצתי אותך לרסיסים!",
+   "VL_2": "רוצה להניף דגל לבן?"
+  },
+  "VO_DB_PlayRoom_PillowFort_LavaLamp_Cody": {
+   "VL_0": "אוווו, ירוק זה הצבע האהוב עליי."
+  },
+  "VO_DB_PlayRoom_PillowFort_LavaLamp_May": {
+   "VL_0": "כחול זה הכי."
+  },
+  "VO_DB_PlayRoom_PillowFort_OrbLampInteract_May": {
+   "VL_0": "אוי, אני מתה על כוכבים!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Cores_Destroyed_May": {
+   "VL_0": "אנחנו חייבים להיפטר מהלייזר הזה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Hatch_Open": {
+   "VL_0": "כבר לא כזה שחצן, מה?",
+   "VL_1": "קודי, בוא פשוט נגמור עם זה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_InsideUfo_Cody": {
+   "VL_0": "זה מבוך מוות מזורגג פה בפנים!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_InsideUfoDeath_Cody": {
+   "VL_0": "אוקיי, הפעם לאט לאט."
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_InsideUfoEnd_Cody_010": {
+   "Line_1": "תחזיקי מעמד, מיי, אני כמעט שם!",
+   "Line_2": "יש פה כפתור פליטה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Laser_CodyTargeted_Cody": {
+   "VL_0": "נו באמת, קוף חלל! מה כבר עשיתי לך?!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Laser_Generic_Cody": {
+   "VL_0": "היי מיי... תעזרי לי פה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Laser_Generic_May": {
+   "VL_0": "נו קודי, תעשה משהו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Laser_MayTargeted_May": {
+   "VL_0": "זהירות!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_Generic": {
+   "VL_1": "מה, כישורי הנהיגה שלי בעב\"ם לא מספיק טובים בשבילך?"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_Generic_Cody_010": {
+   "Line_1": "היי!",
+   "Line_2": "את יכולה לנהוג בדבר הזה",
+   "Line_3": "קצת יותר בזהירות, בבקשה?!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_LaserFail": {
+   "VL_0": "פגעתי בו?!",
+   "VL_1": "לא, פספסת! תנסה שוב!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_LaserFailThree": {
+   "VL_0": "חחה, תאכל לייזר, טמבל!",
+   "VL_1": "לא פגעת בו, קודי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_LaserFailTwo": {
+   "VL_0": "ומה עם זה?",
+   "VL_1": "קרוב, אבל לא בדיוק!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_LaserSuccess_May_010": {
+   "Line_1": "פגיעה ישירה!",
+   "Line_2": "אבל יש לו איזשהו מחסום.",
+   "Line_3": "עוד כמה יריות וזה יספיק!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_RadarFail_Cody": {
+   "VL_0": "אה, איבדתי אותו. תקרבי אותנו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Moon_RadarOtherSide": {
+   "VL_0": "אני לא רואה אותו במכ\"ם, מיי!",
+   "VL_1": "אני אמצא אותו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Fail_Cody": {
+   "VL_0": "לעזאזל!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Fail_May": {
+   "VL_0": "חרא!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Fire": {
+   "VL_0": "טילים?! מיי!",
+   "VL_1": "פשוט תרוץ, קודי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Mount_Cody": {
+   "VL_0": "תגיד שלום ל..."
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Mount_May": {
+   "VL_0": "טוב, בבון הירח, נמאס לי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Success_Cody": {
+   "VL_0": "בבון הירח-בוווום!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_Rocket_Success_May": {
+   "VL_0": "אולי תפסיק כבר?!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_SlamAttackInitial_May_010": {
+   "Line_1": "בבון הירח, תפסיק!",
+   "Line_2": "אתה לא זוכר אותי?",
+   "Line_3": "זאת מיי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_SlamAttackInitial_MoonBaboon_020": {
+   "Line_1": "- [בבון הירח] רוז היא החברה הכי טובה שלי,",
+   "Line_2": "ואתם מנסים לגרום לה לבכות!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_SlamAttackReminder": {
+   "VL_0": "נהיה פה די חם, קודי!",
+   "VL_1": "כן, גם פה די לוהט!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BossFight_UfoPickup": {
+   "VL_0": "הידיים שלי קצת עסוקות! תתפסי את הלייזר, מיי.",
+   "VL_1": "אוקיי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BoxTowerHint": {
+   "VL_0": "יש איזו דרך להעלות אותי לשם?",
+   "VL_1": "עובדים על זה. רק דקה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_BreakMug": {
+   "VL_0": "רגע, לא! הספל \"אבא הכי טוב בעולם\" שלי!",
+   "VL_1": "נו, תירגע. רוז תקנה לך חדש."
+  },
+  "VO_DB_PlayRoom_SpaceStation_ConductorComplete_May_010": {
+   "Line_1": "הנה!",
+   "Line_2": "עכשיו נוכל להגיע לסוללה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_ConductorPickup_Cody": {
+   "VL_0": "יש לי אחד!",
+   "VL_1": "יש לי עוד אחד!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_ConductorPickup_May": {
+   "VL_0": "מצאתי מוליך!",
+   "VL_1": "עוד מוליך. מושלם!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_ConductorReminder_May": {
+   "VL_0": "היי קודי, תוציא אותי מפה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_ConductorReminderTwo_May": {
+   "VL_0": "האוויר פה נהיה קצת מחניק, קודי..."
+  },
+  "VO_DB_PlayRoom_SpaceStation_DestroyCamera_Cody": {
+   "VL_0": "שלום ולא להתראות, האח הגדול!",
+   "VL_1": "זה מה שמקבלים כשמרגלים אחרינו!",
+   "VL_2": "אתה הבא בתור, בבון הירח!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_DrawersMidway": {
+   "VL_0": "מעולה! אנחנו מתחילים לתפוס את זה!",
+   "VL_1": "רק לא ליפול עכשיו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_ElevatorConductor_Cody": {
+   "VL_0": "או, הנה זה מתחיל!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalApproach_Cody": {
+   "VL_0": "בואי פשוט נבחר פורטל ונקווה לטוב."
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalApproach_May": {
+   "VL_0": "הממ, בוא נראה איזה פורטל עכשיו."
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalEnter_Cody": {
+   "VL_0": "אני לא בטוח שזה היה רעיון טוווווווב!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalEnter_May": {
+   "VL_0": "אההה, הלחץ פה מטורף!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalExit_Cody": {
+   "VL_0": "אלוהים... זאת הייתה נסיעה מטורפת לגמרי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalExit_May": {
+   "VL_0": "וואו! זה היה אינטנסיבי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalPlatform": {
+   "VL_1": "הוא באמת צריך לקחת כדור הרגעה."
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalPlatform_May_030_ALT01": {
+   "Line_1": "תתעלם ממנו! תסתכל על הפורטלים האלה!",
+   "Line_2": "אני חושבת שנוכל להשתמש בהם."
+  },
+  "VO_DB_PlayRoom_SpaceStation_FirstPortalPlatform_MoonBaboon_010_ALT01": {
+   "Line_1": "- [בבון הירח] אני רואה שברחתם",
+   "Line_2": "מהכלוב שלכם, בוגדים!",
+   "Line_3": "אבל זכרו את דבריי.",
+   "Line_4": "לא תצאו מכאן בחיים!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GeneratorsComplete": {
+   "VL_0": "זה אמור להיות כולם, נכון?",
+   "VL_1": "נראה לי שכן! עבודת צוות יפה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellExpand": {
+   "VL_1": "בבון הירח, בבקשה צא ותן לנו להסביר!",
+   "VL_2": "למה הדברים שאנחנו קונים מנסים להרוג אותנו?"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellExpand_MoonBaboon_010": {
+   "Line_1": "- [בבון הירח] אוף!",
+   "Line_2": "אתם לא יודעים מתי להפסיק,",
+   "Line_3": "נכון, בוגדים?!",
+   "Line_4": "כמגן המושבע של רוז,",
+   "Line_5": "לעולם לא אתן לכם לגרום לה לבכות!",
+   "Line_6": "היזהרו, יצורי האופל."
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellExpandFinal": {
+   "VL_1": "הגנות? מה זאת אומרת \"הגנות\"?"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellExpandFinal_May_030": {
+   "Line_1": "נו, אתה יודע, כנראה עוד כמה לייזרים.",
+   "Line_2": "נסתדר!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellExpandFinal_MoonBaboon_010": {
+   "Line_1": "- [בבון הירח] לא!!",
+   "Line_2": "איך הצלחתם להגיע עד הלום?!",
+   "Line_3": "אני חייב לאטום את חדר הבקרה",
+   "Line_4": "מפני הרוע שלכם!",
+   "Line_5": "מחשב!",
+   "Line_6": "הכן את ההגנות שלנו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellRide_Cody": {
+   "VL_0": "וואו! היי, נראה לי שאני מתחיל לתפוס את זה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellRide_May": {
+   "VL_0": "חחה, אני בכלל לא מתגעגעת לכוח המשיכה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_GravityWellRideInitial_May": {
+   "VL_0": "אפס כבידה, מדהים!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_InvertedGrinding_May": {
+   "VL_0": "מגפי החלל האלה מעולים, יו-הו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_InvertedWalk": {
+   "VL_0": "היי, גברת חלל! איך החיים הפוכים?",
+   "VL_1": "צריך להתרגל, אבל אני בסדר!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_LaserDoor": {
+   "VL_0": "רק בבקשה לא להפיל את זה!",
+   "VL_1": "כן, כן."
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_Approach_Cody_010": {
+   "Line_1": "בשביל מה כל הכפתורים האלה?",
+   "Line_2": "בואי נבדוק, מיי."
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_Approach_May_010": {
+   "Line_1": "היי קודי!",
+   "Line_2": "יש פה עוד סט של כפתורים.",
+   "Line_3": "בוא תראה."
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_CodyWins": {
+   "VL_0": "גיים, סט ומאץ'.",
+   "VL_1": "לפחות הזעתי כמו שצריך!"
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_MayWins": {
+   "VL_0": "לשחק קשה, לנצח בקלות.",
+   "VL_1": "אוקיי, לא ניצחתי, אבל עדיין קרעתי תחת."
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_Start": {
+   "VL_0": "אה, אין לי מושג על מה האתגר הזה.",
+   "VL_1": "מה שזה לא יהיה, אני אנצח בזה.",
+   "VL_2": "על זה עוד נראה."
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_Taunt_Cody": {
+   "VL_0": "הכוח איתי!",
+   "VL_1": "אייס!",
+   "VL_2": "אוהו! חטפת!"
+  },
+  "VO_DB_Playroom_Spacestation_LaserTennis_Taunt_May": {
+   "VL_0": "לייזרים זה התחום שלי!",
+   "VL_1": "חה! שלא תיצלה!",
+   "VL_2": "ברייק פוינט!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_LaunchBoardRespawn": {
+   "VL_1": "טוב שחזרת בשלמותך."
+  },
+  "VO_DB_PlayRoom_SpaceStation_LaunchBoardRespawn_Cody_010": {
+   "Line_1": "ווהו-וואו, זה היה מטורף!",
+   "Line_2": "יכולתי לראות, כאילו, את כל העולם!"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_Approach_Cody_010": {
+   "Line_1": "זה הרבה קופסאות.",
+   "Line_2": "זה איזשהו אתגר?"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_Approach_May": {
+   "VL_0": "נו, מה כל זה?"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_CodyWins": {
+   "VL_0": "ניצחון ירוק סוחף!"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_CodyWins_May_020": {
+   "Line_1": "אוקיי, אוקיי...",
+   "Line_2": "אבל במירוץ בכבידה נמוכה הייתי מנצחת תמיד!"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_MayWins": {
+   "VL_0": "ניצחון צפוי לכחול!"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_MayWins_Cody_020": {
+   "Line_1": "בטח, אבל בכבידה רגילה",
+   "Line_2": "הייתי מנצח אותך."
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_Start": {
+   "VL_0": "את זה אני לוקח.",
+   "VL_1": "לא. קופסאות תמיד היו התחום שלי.",
+   "VL_2": "טוב, כבידה נמוכה זה התחום שלי."
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_Taunt_Cody": {
+   "VL_0": "ירוק זה הצבע המנצח!",
+   "VL_1": "יי-הי! הצלחתי!",
+   "VL_2": "שיהיה ירוק, מאמא!"
+  },
+  "VO_DB_Playroom_Spacestation_LowGravityRoom_Taunt_May": {
+   "VL_0": "כחול זה הצבע המנצח!",
+   "VL_1": "תפסתי את זה!",
+   "VL_2": "לצבוע הכול בכחול!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_OnePortalLeft": {
+   "VL_0": "יופי, נשאר רק פורטל אחד!",
+   "VL_1": "מעולה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballDeath_CodyFault": {
+   "VL_0": "קודי! אתה אמור להתחמק מהמכשולים!",
+   "VL_1": "אני יודע, מיי, אני יודע! זה לא קל כמו שזה נראה!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballDeath_MayFault": {
+   "VL_0": "אוהו, ומי פישל עכשיו, אה?",
+   "VL_1": "טוב, בסדר. זה היה עליי!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballEnd": {
+   "VL_1": "עושים מה שצריך, קודי."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballEnd_Cody_010": {
+   "Line_1": "זה היה משחק הפינבול הכי כואב",
+   "Line_2": "ששיחקתי בחיים."
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballLaunch_Cody": {
+   "VL_0": "אוווו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballLaunch_Effort_May": {
+   "VL_0": "וווהו!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballLaunch_May": {
+   "VL_0": "ויאללה, לדרך!"
+  },
+  "VO_DB_PlayRoom_SpaceStation_PinballStart_Cody": {
+   "VL_0": "רגע, לא נרשמתי לזה!"
+  }
+ }
+}

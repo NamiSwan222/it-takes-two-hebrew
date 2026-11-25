@@ -98,3 +98,32 @@ Squirrel Chief are male. When it's truly unclear, use a form that works for both
 | Wasp(s) | צרעה / צרעות |
 | Squirrel(s) | סנאי / סנאים |
 | Sap / Match | שרף / גפרור |
+
+## More names and terms (used in the translation)
+
+| English | Hebrew |
+|---|---|
+| Joy (Cody's flower) | ג'וי |
+| Miss Q | מיס קיו |
+| Squirrel Chief | ראש שבט הסנאים |
+| Wasp Queen | מלכת הצרעות |
+| Hammer / Hammerhead (speaker) | פטיש |
+| Sprout Man / Cactus Man | איש הנבט / איש הקקטוס |
+| Clay Man / clay | איש החֵמר / חימר |
+| Clock Town | עיר השעונים |
+| snowglobers | תושבי כדור השלג |
+| Book of Truth | ספר האמת |
+| Clone / Teleport (May's power) | שיבוט / טלפורט |
+| Fuse | נתיך |
+| Vacuum (Tower Vacuum) | שואב האבק |
+| nectar / hive / larvae | צוף / כוורת / זחלים |
+| letter piece | חלק מכתב |
+| relationship | זוגיות |
+| Online Lobby / Online Co-Op | לובי מקוון / שיתופי מקוון |
+| EA Friends List | רשימת החברים ב-EA |
+
+- Subtitle captions: `CC:` / `NO_CC:` stay Latin (game markers); speaker tags inside `[ ]` are
+  translated (`[קודי]`, `[מיי]`); sound descriptions are present tense in parentheses
+  (`(מיי נאנחת)`).
+- Keyboard key names printed on keys (Enter, Tab, Backspace) stay Latin.
+- Dr. Hakim's Spanish exclamations stay Spanish or are transliterated (`¡Hola!`, `אסטה לה ויסטה`).

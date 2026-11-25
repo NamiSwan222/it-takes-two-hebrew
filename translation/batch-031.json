@@ -1,0 +1,496 @@
+{
+ "Nuts": {
+  "VO_DB_Tree_SquirrelHome_TugOfWar_Approach_Cody": {
+   "VL_0": "או, תראי מיי, חבל! מה דעתך על משיכת חבל? "
+  },
+  "VO_DB_Tree_SquirrelHome_TugOfWar_Approach_May_010": {
+   "Line_1": "מכניקה מעניינת...",
+   "Line_2": "נראה כמו סוג של משיכת חבל."
+  },
+  "VO_DB_Tree_SquirrelHome_TugOfWar_CodyWins": {
+   "VL_0": "כן! אני אלוף החבל!",
+   "VL_1": "ניצחון אחד, וכבר אתה \"אלוף\"."
+  },
+  "VO_DB_Tree_SquirrelHome_TugOfWar_MayWins": {
+   "VL_0": "כן! משכתי את זה עד הסוף!",
+   "VL_1": "לא הוגן, אני יחף! לנעליים שלך יש אחיזה יותר טובה."
+  },
+  "VO_DB_Tree_SquirrelHome_TugOfWar_Start": {
+   "VL_0": "מוכנים ליפול לבור?",
+   "VL_1": "אוי, הבור הזה עשוי בדיוק בשבילך.",
+   "VL_2": "אה, הוא מתאים לך יותר."
+  },
+  "VO_DB_Tree_SquirrelHome_TugOfWar_Taunt_Cody": {
+   "VL_0": "ביי ביי!",
+   "VL_1": "תוותרי, מיי!",
+   "VL_2": "או, את הולכת ליפול!"
+  },
+  "VO_DB_Tree_SquirrelHome_TugOfWar_Taunt_May": {
+   "VL_0": "ישר לביוב, קודי!",
+   "VL_1": "אני מושכת בחוטים!",
+   "VL_2": "החבל הזה שלי!"
+  },
+  "VO_DB_Tree_SquirrelHome_VaultApproach_MissQ_010": {
+   "Line_1": "- [מיס קיו] אה, הכספת!",
+   "Line_2": "סובבו את הידית כדי לפתוח אותה.",
+   "Line_3": "אבל היו על המשמר.",
+   "Line_4": "אף פעם לא הצלחנו לעבור את הנקודה הזאת."
+  },
+  "VO_DB_Tree_SquirrelHome_VaultApproach_MissQ_020": {
+   "Line_1": "- [מיס קיו] ברגע שתיכנסו, תהיו לבד.",
+   "Line_2": "שהבלוט יהיה איתכם."
+  },
+  "VO_DB_Tree_SquirrelHome_VaultSpotted": {
+   "VL_0": "וואו, זה מרשים."
+  },
+  "VO_DB_Tree_SquirrelHome_VaultSpotted_Cody_020_ALT01": {
+   "Line_1": "המקום הזה עושה לי צמרמורת.",
+   "Line_2": "אוקיי, אפשר בבקשה לחזור?"
+  },
+  "VO_DB_Tree_SquirrelHome_VaultSpotted_MissQ_030": {
+   "Line_1": "- [מיס קיו] אני חוששת שזה לא יהיה אפשרי.",
+   "Line_2": "אטמנו את הדלתות מאחוריכם",
+   "Line_3": "כדי להתגונן מפני הצרעות.",
+   "Line_4": "הדרך היחידה שלכם החוצה היא",
+   "Line_5": "דרך המאורה של הצרעות שם,",
+   "Line_6": "בצד השני של התהום."
+  },
+  "VO_DB_Tree_SquirrelHome_WaspCombatEnd": {
+   "VL_0": "פיו, נראה לי שזאת הייתה האחרונה."
+  },
+  "VO_DB_Tree_SquirrelHome_WaspCombatEnd_MissQ_020": {
+   "Line_1": "- [מיס קיו] כל הכבוד, שניכם!",
+   "Line_2": "ידעתי שכלי הנשק שלי יהיו",
+   "Line_3": "יעילים נגד הצרעות.",
+   "Line_4": "אבל תתכוננו לעוד!"
+  },
+  "VO_DB_Tree_SquirrelHome_WaspCombatStart": {
+   "VL_0": "משהו מתקרב!",
+   "VL_1": "צרעות רוצחות!"
+  },
+  "VO_DB_Tree_SquirrelHome_WaspKill_May": {
+   "VL_0": "בום! הורדנו אחת!"
+  },
+  "VO_DB_Tree_SquirrelHome_WaspShadow": {
+   "VL_0": "היי! ראית את זה?",
+   "VL_1": "אוי לא, בבקשה לא. אני לא רוצה לראות את זה!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleFight_Cody": {
+   "VL_0": "לעזאזל! השרף שלי לא נדבק אליו!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleFight_May": {
+   "VL_1": "ומה עם הבורות האלה, קודי?"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_DoubleInteract_Cody": {
+   "VL_0": "יאללה, זזים, מיי!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_DoubleInteract_May": {
+   "VL_0": "אתה מנווט, קודי!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_Jump_Tut": {
+   "VL_0": "תגרום לו לקפוץ, קודי!",
+   "VL_1": "אני מ-נ-ס-ה!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_LarvaeCrossingEnd": {
+   "VL_0": "וואו! מגניב!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_LarvaeCrossingEnd_May_020": {
+   "Line_1": "היי! כדאי לך לא להרוג אותנו",
+   "Line_2": "אם אתה רוצה את הצוף הזה!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_LarvaeCrossingStart": {
+   "VL_0": "אוווו, זה צוף?!",
+   "VL_1": "לא, ממש לא!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_LarvaeGroup": {
+   "VL_0": "צוף?!",
+   "VL_1": "לא, עדיין לא! תירה בהם!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_LarvaeGroupComplete_Cody": {
+   "VL_0": "יפה, מיי!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_Reminder_Beetle": {
+   "VL_0": "אוף, אני נהיה רעב. יאללה, בואו נזוז!",
+   "VL_1": "פשוט תתעלמו מהצרעות המרושעות האלה. תעלו!"
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_Reminder_Beetle_030": {
+   "Line_1": "חניתות ואבנים אולי",
+   "Line_2": "ישברו לי עצמות...",
+   "Line_3": "אבל בטן רעבה זה הרבה יותר גרוע."
+  },
+  "VO_DB_Tree_WaspNest_BeetleRide_Start_Beetle": {
+   "VL_0": "או, הנה אני בא, צוףףףףף!"
+  },
+  "VO_DB_Tree_WaspNest_BottleRoom": {
+   "VL_0": "או! או, החבר'ה האלה לא יכולים לפגוע בנו.",
+   "VL_1": "אבל אלה כן!"
+  },
+  "VO_DB_Tree_WaspNest_Camera_AgeOfMyth_Cody_010": {
+   "Line_1": "הממ.",
+   "Line_2": "אז הסנאים ברחו\nממשהו?"
+  },
+  "VO_DB_Tree_WaspNest_Camera_AgeOfMyth_May": {
+   "VL_0": "אה, נראה שהסנאים לא תמיד היו כאן."
+  },
+  "VO_DB_Tree_WaspNest_Camera_AgeOfStrife_Cody": {
+   "VL_0": "הרקע המושלם לתמונת גיבור המלחמה שלי."
+  },
+  "VO_DB_Tree_WaspNest_Camera_AgeOfStrife_May": {
+   "VL_0": "יפה, צילום אקשן!"
+  },
+  "VO_DB_Tree_WaspNest_Camera_AgeOfTech_Cody": {
+   "VL_0": "לסנאים האלה יש מכונות מוזרות."
+  },
+  "VO_DB_Tree_WaspNest_Camera_AgeOfTech_May": {
+   "VL_0": "מעניין. נראה כמו טכנולוגיה עתיקה."
+  },
+  "VO_DB_Tree_WaspNest_Camera_Approach_Cody": {
+   "VL_0": "היי, זאת לא המצלמה שלך, מיי?"
+  },
+  "VO_DB_Tree_WaspNest_Camera_Approach_May": {
+   "VL_0": "הם גנבו לי את המצלמה! אני מקווה שהיא עוד עובדת."
+  },
+  "VO_DB_Tree_WaspNest_Camera_InspectPhotoGeneric_Cody": {
+   "VL_0": "תמונה יפה.",
+   "VL_1": "מגניב.",
+   "VL_2": "נו, תראי את זה."
+  },
+  "VO_DB_Tree_WaspNest_Camera_InspectPhotoGeneric_May": {
+   "VL_0": "לא רע.",
+   "VL_1": "די טוב, בעצם.",
+   "VL_2": "הממ! מתוחכם."
+  },
+  "VO_DB_Tree_WaspNest_Camera_InspectPhotoNone_Cody": {
+   "VL_0": "נראה לי שהתמונה הזאת צריכה עוד כמה חיוכים.",
+   "VL_1": "היינו צריכים לעשות פוזה בזאת."
+  },
+  "VO_DB_Tree_WaspNest_Camera_InspectPhotoNone_May": {
+   "VL_0": "יפה, אבל היא הייתה יותר טובה עם אחד מאיתנו בפנים.",
+   "VL_1": "היה נחמד לעשות פוזה בזאת."
+  },
+  "VO_DB_Tree_WaspNest_Camera_TakePhoto_Cody": {
+   "VL_0": "מהר, לעמדות!",
+   "VL_1": "הטיימר רץ!",
+   "VL_2": "חייבים להסתכל לעדשה!"
+  },
+  "VO_DB_Tree_WaspNest_Camera_TakePhoto_May": {
+   "VL_0": "טוב, הנה זה מתחיל!",
+   "VL_1": "או! צריך לעשות פוזה! מהר!",
+   "VL_2": "אה! צריך להיכנס לפריים!"
+  },
+  "VO_DB_Tree_WaspNest_Elevator": {
+   "VL_0": "אה, לאן אנחנו נוסעים?!",
+   "VL_1": "יש רק דרך אחת החוצה: למעלה!"
+  },
+  "VO_DB_Tree_WaspNest_ElevatorApproach": {
+   "VL_1": "כן, אבל... זה בור עמוק."
+  },
+  "VO_DB_Tree_WaspNest_ElevatorApproach_May_010": {
+   "Line_1": "נראה שיש שם מעלית.",
+   "Line_2": "אנחנו צריכים לעבור לשם."
+  },
+  "VO_DB_Tree_WaspNest_ElevatorFight": {
+   "VL_0": "מיי! הכוורת!",
+   "VL_1": "כן, אני רואה! בוא נחסל את השאריות."
+  },
+  "VO_DB_Tree_WaspNest_ElevatorSpotted_Cody": {
+   "VL_0": "וואייי, הדבר הזה ענק!"
+  },
+  "VO_DB_Tree_WaspNest_ElevatorSpotted_May": {
+   "VL_0": "וואו, תראה את זה."
+  },
+  "VO_DB_Tree_WaspNest_ElevatorWasp_Cody": {
+   "VL_0": "הן חזרו עם המסורים המטורפים שלהן!"
+  },
+  "VO_DB_Tree_WaspNest_LarvaeRoomHint_May_010": {
+   "Line_1": "קודי, אנחנו חייבים להיפטר מהקינים האלה!",
+   "Line_2": "הם לא מפסיקים לבקוע!"
+  },
+  "VO_DB_Tree_WaspNest_LarvaeRoomOverrun": {
+   "VL_0": "יש יותר מדי מהם!",
+   "VL_1": "לא מפסיקים לירות, ונעבור את זה!"
+  },
+  "VO_DB_Tree_WaspNest_LarvaeRoomStart": {
+   "VL_0": "אוי, מה עכשיו?!"
+  },
+  "VO_DB_Tree_WaspNest_LarvaeRoomStart_Cody_020": {
+   "Line_1": "אלה זחלים של צרעות!",
+   "Line_2": "והם יוצאים מהקינים האלה!"
+  },
+  "VO_DB_Tree_WaspNest_MortarWaspEnd": {
+   "VL_0": "לצרעות האלה יש נשק מסוכן משלהן.",
+   "VL_2": "תודה, קודי. גם אתה. תמשיך עם השרף."
+  },
+  "VO_DB_Tree_WaspNest_MortarWaspEnd_Cody_020": {
+   "Line_1": "פיו! כן.",
+   "Line_2": "אבל לפחות אנחנו נותנים פה בראש.",
+   "Line_3": "היי, את די טובה עם רובה הגפרורים הזה!"
+  },
+  "VO_DB_Tree_WaspNest_Plunger_Approach_Cody": {
+   "VL_0": "מיי, תראי. מטווח!"
+  },
+  "VO_DB_Tree_WaspNest_Plunger_Approach_May": {
+   "VL_0": "היי קודי, זה נראה כמו מטווח!  "
+  },
+  "VO_DB_Tree_WaspNest_Plunger_CodyWins": {
+   "VL_0": "היי מיי, אני צלף.",
+   "VL_1": "לירות פומפות לא דורש דיוק."
+  },
+  "VO_DB_Tree_WaspNest_Plunger_MayWins": {
+   "VL_0": "ברור שנולדתי בשביל זה.",
+   "VL_1": "אה, לירות פומפות זה לא ירי אמיתי."
+  },
+  "VO_DB_Tree_WaspNest_Plunger_Start": {
+   "VL_0": "הפסד מחכה לך.",
+   "VL_1": "המטרה שלי: ניצחון.",
+   "VL_2": "גם שלי."
+  },
+  "VO_DB_Tree_WaspNest_Plunger_Taunt_Cody": {
+   "VL_0": "אני יודע לטפל בפומפה.",
+   "VL_1": "תסתכלי ותלמדי!",
+   "VL_2": "או-הו! יש לי אצבע קלה על ההדק!"
+  },
+  "VO_DB_Tree_WaspNest_Plunger_Taunt_May": {
+   "VL_0": "אש חופשית!",
+   "VL_1": "הקנים מעשנים!",
+   "VL_2": "מבזבזים פומפות!"
+  },
+  "VO_DB_Tree_WaspNest_SlideGeneric_Effort_Cody": {
+   "VL_0": "אוי, לעזאזל!",
+   "VL_5": "אוווו לא!!"
+  },
+  "VO_DB_Tree_WaspNest_SlideGeneric_Effort_May": {
+   "VL_0": "וואו-וואו-וואו-וואוווו!",
+   "VL_1": "אוווו!",
+   "VL_2": "אההה!",
+   "VL_3": "אוהה!",
+   "VL_5": "יוהו!"
+  },
+  "VO_DB_Tree_WaspNest_SlideSwarm_End": {
+   "VL_0": "קודי! תשפריץ שרף על הנחיל!",
+   "VL_1": "בטח! תפוצצי אותן, מיי!"
+  },
+  "VO_DB_Tree_WaspNest_SlideSwarm_May": {
+   "VL_0": "קודי... עיניים קדימה!"
+  },
+  "VO_DB_Tree_WaspNest_SlideSwarmScissors_Cody": {
+   "VL_0": "אההה, אלה נראים חדים!"
+  },
+  "VO_DB_Tree_WaspNest_SlideSwarmScissors_May": {
+   "VL_0": "אוי, חרא!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmDamage": {
+   "VL_0": "חחחה! קוראים לי המדביר!",
+   "VL_1": "ממש לא קוראים לך ככה!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmDamageGeneric_Cody": {
+   "VL_0": "נו, איך זה מרגיש?"
+  },
+  "VO_DB_Tree_WaspNest_SwarmDamageGeneric_May": {
+   "VL_0": "תעזבו אותנו, מזיקים!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmFloorBreak_Cody": {
+   "VL_0": "היי... הייייי. אל תעשו את זה!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmHammer": {
+   "VL_0": "רגע, זה... זה פטיש!!",
+   "VL_1": "הן עדיין רק צרעות, קודי!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmKill_May": {
+   "VL_0": "אולי אתן הרבה, אבל אתן נשרפות בדיוק אותו דבר!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmRevive_Cody": {
+   "VL_0": "זה לא עובד, מיי! הן לא מפסיקות להגיע!"
+  },
+  "VO_DB_Tree_WaspNest_SwarmStart_Cody": {
+   "VL_0": "וואו, נראה לי שעכשיו הן מוציאות את התותחים הכבדים!"
+  },
+  "VO_DB_Tree_WaspNest_WaspJars_Land_Cody": {
+   "VL_0": "חה-חה! עכשיו אתן לא יכולות לעקוץ אותי!"
+  },
+  "VO_DB_Tree_WaspNest_WaspJars_Land_May": {
+   "VL_0": "אני מעדיפה צרעות כשהן לכודות."
+  },
+  "VO_DB_Tree_WaspNest_WaspQueen_Bombs_Cody": {
+   "VL_1": "מגינים, חרבות, ועכשיו זה?!"
+  },
+  "VO_DB_Tree_WaspNest_WaspQueen_Bombs_May": {
+   "VL_0": "זהירות מלמעלה!",
+   "VL_1": "להתפזר!"
+  },
+  "VO_DB_Tree_WaspNest_WaspQueen_Flamethrower_May": {
+   "VL_0": "לא נשרוד את זה. לצד השני, מהר!"
+  },
+  "VO_DB_Tree_WaspNest_WaspQueen_ThirdPhase": {
+   "VL_0": "וואו, ממש עצבנו אותה!",
+   "VL_1": "היא בקושי מחזיקה מעמד!",
+   "VL_2": "הגיע הזמן לסגור עניין!"
+  },
+  "VO_DB_Tree_WaspNest_WaspQueen_WeakSpotBack_Cody": {
+   "VL_0": "היי, אני רואה עוד נקודות תורפה פה מאחור!"
+  },
+  "VO_DB_Tree_WaspNest_WaspQueen_WeakSpotBack_May": {
+   "VL_0": "גם פה מאחור היא פגיעה!"
+  },
+  "VO_DB_Tree_WaspNest_WaspQueenDamage_Cody": {
+   "VL_0": "אל תקשיבי לה! אנחנו מכרסמים בה לאט לאט!"
+  },
+  "VO_Gameplay_Bark_Bobsled_House_Cody_010": {
+   "Line_1": "מיי...",
+   "Line_2": "יש לי את הקטע הזה עם הנשימה..."
+  },
+  "VO_Gameplay_Bark_Bobsled_House_Cody_020": {
+   "Line_1": "היי-היי, תראי את כל ה--",
+   "Line_2": "אוי לא."
+  },
+  "VO_Gameplay_Efforts_Bobsled_ChimneyLand_Cody": {
+   "VL_0": "אוי, אוי... כן, אני הולך להקיא."
+  },
+  "VO_Gameplay_Efforts_Bobsled_ChimneyLand_May": {
+   "VL_0": "וואו, זה מדהים!"
+  },
+  "VO_Gameplay_Efforts_Vacuum_Tube_Cody": {
+   "VL_2": "איי, לא, רק לא האף!",
+   "VL_3": "אוי, אני לא מצליח לנשום!",
+   "VL_5": "שזה י-י-יפסיק!"
+  },
+  "VO_SB_BossFight_ClawMachine": {
+   "VL_0": "להזיז את הצבת, מהר!",
+   "VL_1": "כן, שמעתי!"
+  },
+  "VO_SB_BossFight_ClawMachine_HangPull": {
+   "VL_0": "אנחנו ממש-ממש מצטערים על זה!",
+   "VL_1": "כן, אנחנו לא אוהבים אלימות."
+  },
+  "VO_SB_BossFight_Dragged": {
+   "VL_0": "זה נורא! אני מרגיש כל כך מרושע.",
+   "VL_1": "אוי, גם אני. אני אצטרך טיפול אחרי זה.",
+   "VL_2": "אה, כן.",
+   "VL_3": "אולי נשאל את הספר ההוא?"
+  },
+  "VO_SB_BossFight_Dragged_May_050": {
+   "Line_1": "השתגעת?!",
+   "Line_2": "אנחנו צריכים ללכת לאיש מקצוע אחרי זה."
+  },
+  "VO_SB_Clockwork_LowerTower_Bridge_LongRun": {
+   "VL_0": "איזה מקום נפלא!",
+   "VL_1": "כן, ועם חלקים מכניים מגניבים!",
+   "VL_3": "למה את תמיד חייבת למצוא היגיון בכל דבר?",
+   "VL_4": "טוב, מישהו צריך, ואני יודעת שזה לא אתה.",
+   "VL_6": "אוי, אני לא אוהבת את המחשבה הזאת."
+  },
+  "VO_SB_Clockwork_LowerTower_Bridge_LongRun_Cody_060_ALT01": {
+   "Line_1": "או שאולי אי אפשר להסביר",
+   "Line_2": "כל דבר קטן שקורה בחיים."
+  },
+  "VO_SB_Clockwork_LowerTower_Bridge_LongRun_Cody_080": {
+   "Line_1": "טוב, נראה שנצטרך",
+   "Line_2": "להתרגל לזה בעולם הזה!"
+  },
+  "VO_SB_Clockwork_LowerTower_Bridge_LongRun_May_030": {
+   "Line_1": "בלי שום תפקיד אמיתי.",
+   "Line_2": "המקום הזה יפהפה,",
+   "Line_3": "אבל אין בו שום היגיון."
+  },
+  "VO_SB_Clockwork_LowerTower_ElevatorRoom_Intro": {
+   "VL_0": "אוי, יש לי הרגשה רעה לגבי זה.",
+   "VL_1": " אה, גם לי.",
+   "VL_2": "מה? מיי, את אמורה להרגיע אותי!",
+   "VL_3": "להרגיע אותך? השעון הזה הולך לחתוך אותנו לחתיכות!",
+   "VL_5": "רק אל תמעד!"
+  },
+  "VO_SB_Clockwork_LowerTower_ElevatorRoom_Intro_Cody_050_ALT01": {
+   "Line_1": "אוקיי, אם את לא יכולה להרגיע אותי,",
+   "Line_2": "פשוט אל תגידי כלום, בבקשה!"
+  },
+  "VO_SB_Clockwork_LowerTower_StatueRoom_Intro": {
+   "VL_4": "כן, שומר סף, עם חרב ענקית!"
+  },
+  "VO_SB_Clockwork_LowerTower_Time_Intro": {
+   "VL_0": "אז, אה, למה אנחנו צריכים לעקוב אחרי בובות העץ האלה?",
+   "VL_1": "הספר אמר שאנחנו צריכים לגרום לשתיים להיפגש.",
+   "VL_2": "אז מה?"
+  },
+  "VO_SB_Clockwork_LowerTower_Time_Intro_May_040": {
+   "Line_1": "בוא פשוט נעשה את זה.",
+   "Line_2": "אנחנו צריכים את המכתב של רוז כדי לשבור את הכישוף!"
+  },
+  "VO_SB_Clockwork_Outside_Forest_ClockBirds": {
+   "VL_0": "וואו! הן יכולות לעוף!",
+   "VL_1": "ברור שהן יכולות, הן ציפורים!",
+   "VL_2": "כן, אבל... הן עשויות ממתכת.",
+   "VL_3": "גם מטוסים, קודי!",
+   "VL_4": "אוקיי, חכמולוגית. אבל אלה לא מכונות!",
+   "VL_5": "הן מכונות-ציפורים מעופפות!"
+  },
+  "VO_SB_Clockwork_Outside_RightTower_Cavern": {
+   "VL_0": "איכס, מערה מפחידה. בואי נסתלק מפה כמה שיותר מהר.",
+   "VL_1": "רגע, קודם צריך לפתור את החידות!",
+   "VL_2": "את נשמעת כל כך נלהבת."
+  },
+  "VO_SB_Clockwork_Outside_RightTower_Cavern_May_040": {
+   "Line_1": "נו כן, הסמלים האלה נראים כל כך מסקרנים!",
+   "Line_2": "מעניין מה הם..."
+  },
+  "VO_SB_Clockwork_UpperTower_GlassWalkway_Intro": {
+   "VL_0": "נראה שהמסילה נגמרת.",
+   "VL_1": "יופי. אולי נצליח לצאת מפה בקרוב.",
+   "VL_2": "היי, אולי בשעון הגדול ההוא יש רמז."
+  },
+  "VO_SB_Garden_FrogPond_MainFountain_PoisonBulbDestroyed": {
+   "VL_0": "כן! אנחנו מתקדמים נגד הזיהום!",
+   "VL_1": "הגינה נראית מלאת חיים!",
+   "VL_2": "כן, שכחתי איך היא נראתה בימיה הטובים.",
+   "VL_3": "אבל עדיין נשאר קצת זיהום.",
+   "VL_4": "נכון! עוד נשארו לנו כמה עשבים שוטים לעקור."
+  },
+  "VO_SB_Garden_MoleTunnels_FinalChase_Outro": {
+   "VL_1": "כן. בוא נסתלק מפה כל עוד אנחנו בחיים."
+  },
+  "VO_SB_Garden_MoleTunnels_FinalChase_Outro_Cody_010": {
+   "Line_1": "אוי ואבוי!",
+   "Line_2": "חשבתי שהוא יתפוס אותנו.",
+   "Line_3": "את בסדר, מיי?"
+  },
+  "VO_SB_Garden_MoleTunnels_Stealth_LevelStart": {
+   "VL_0": "זה מריח... עבש.",
+   "VL_1": "כן, לח פה למטה."
+  },
+  "VO_SB_Garden_MoleTunnels_Stealth_LevelStartEnd": {
+   "VL_0": "אה, ראית את זה, קודי?!",
+   "VL_1": "ראיתי משהו. מ-מה זה היה?",
+   "VL_2": "לא הצלחתי לראות.",
+   "VL_3": "אה. אולי עכברוש!",
+   "VL_4": "לא, זה נראה ענק!",
+   "VL_5": "טוב, זה לא תקף אותנו, אז כנראה שזה ידידותי.",
+   "VL_6": "אני מקווה שאתה צודק."
+  },
+  "VO_SB_Garden_Shrubbery_CombatArea_IntroducingSpider": {
+   "VL_0": "אוי לא! העכביש המסכן!"
+  },
+  "VO_SB_Garden_Shrubbery_CombatArea_IntroducingSpider_Cody_020": {
+   "Line_1": "היי עץ, תתרחק!",
+   "Line_2": "יש לי נבט קשוח על הראש!"
+  },
+  "VO_SB_Garden_Shrubbery_CombatArea_SpiderIntro": {
+   "VL_0": "העכביש הזה ממש רך ונוח!",
+   "VL_2": "אוקיי, אני אחפש מסביב!"
+  },
+  "VO_SB_Garden_Shrubbery_CombatArea_SpiderIntro_Cody_020": {
+   "Line_1": "אה, יופי לך!",
+   "Line_2": "את יכולה לעזור לי להגיע לצד השני?"
+  },
+  "VO_SB_Garden_Shrubbery_DandelionPit_Outro": {
+   "VL_0": "צדקת, מיי! הם באמת פרוותיים לגמרי.",
+   "VL_1": "אני שמחה שמצאנו אחד בשבילך.",
+   "VL_3": "פעם חלמנו לצאת לטיול בג'ונגל, נכון?",
+   "VL_4": "כן! כנראה שזה הכי קרוב שנגיע לזה.",
+   "VL_5": "או, זה אפילו יותר טוב! יש לנו עכבישים!",
+   "VL_6": "נכון. קדימה, רוכבים!"
+  },
+  "VO_SB_Garden_Shrubbery_DandelionPit_Outro_Cody_030": {
+   "Line_1": "את יודעת, אף פעם לא חשבתי שארכב",
+   "Line_2": "על עכביש בגינה שלנו."
+  }
+ }
+}
